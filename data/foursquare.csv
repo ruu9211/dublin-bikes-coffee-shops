@@ -1,0 +1,165 @@
+,name,address,distance_m
+0,BoCo,57 Bolton St,400
+1,The Black Sheep,61 Capel St,580
+2,Midnight Express,Dorset St Uppr,320
+3,Kingfisher Restaurant,Parnell St,546
+4,The Hop House (Kim Chi),160 Parnell St,613
+5,Aobaba,46A Capel St,679
+6,Arisu,119 Capel St,668
+7,The Church,Junction of Mary Street and Jervis Street,725
+8,Musashi Noodles & Sushi Bar,15 Capel St,888
+9,El Grito Mexican Taqueria,"20 Mountjoy Square East,",895
+10,The Winding Stair,40 Lower Ormond Quay,353
+11,Govindas,83 Middle Abbey St,79
+12,Tang,"9a Abbey Street Lower, Dublin 1, Ireland",132
+13,Gallagher's Boxty House,20-21 Temple Bar,390
+14,The Bank,20 College Green,535
+15,Pho Ta,"Cope St, Temple Bar",472
+16,Oriental Emporium,"Uppr Abby Street, Dublin 1",356
+17,Matt The Thresher,"31-32, Lower Pembroke St",128
+18,The Cellar Bar,"The Merrion Hotel, Uppr Merrion St",296
+19,FXB Steak & Seafood,1A Lwr Pembroke St,149
+20,TANG by Yogism,23C Dawson St,550
+21,Peploe's,16 St Stephen's Green,516
+22,Forest Avenue,8 Sussex Terrace,504
+23,The Unicorn,12B Merrion Court,274
+24,Green Bench Cafe,18 Montague St,747
+25,Bunsen,3 South Anne St,742
+26,Sophie's,33 Harcourt St,724
+27,Umi Falafel,13 Dame St,857
+28,Bison Bar & BBQ,11 Wellington Quay,681
+29,DiFontaine's Pizzeria,22 Parliament St,680
+30,L. Mulligan Grocer,18 Stoneybatter,473
+31,PHX Bistro,12 Ellis Quay,891
+32,Grano,5 Norseman Court,520
+33,Fish Shop,76 Benburb St,855
+34,Cafe Oasis,King Street North,571
+35,Arthur's Pub,28 Thomas St,558
+36,Sparks Bistro,"Smithfield Village, Unit 3, block C",97
+37,Bunsen,36 Wexford St,293
+38,Xian Street Food,28 South Anne Street,291
+39,Wilde Restaurant,"The Westbury Hotel, Balfe St",290
+40,Drury Buildings,Drury St,361
+41,Avoca,11-13 Suffolk St,541
+42,Cornucopia,19-20 Wicklow St,242
+43,The Market Bar,14a Fade St,184
+44,Pichet,14-15 Trinity St,329
+45,The Bald Eagle,http://thebaldeagle.ie,763
+46,Shouk,40 Drumcondra Rd Lower,765
+47,Wallace's Asti,"15 Russel St, Behan Square",738
+48,Admiral Restaurant,1 Marlborough St,779
+49,Herbstreet,9 Hanover Quay,288
+50,BrewDog Outpost Dublin,"Capital Dock, Grand Canal Dock",214
+51,The Oarsman,8-10 Bridge St,472
+52,Paulie's Pizza,58 Uppr Grand Canal St,770
+53,Juniors Deli & Cafe,2 Bath Ave,778
+54,Charlotte Quay,Charlotte Quay Dock,269
+55,Lotts & Co,7 S Lotts Rd,729
+56,Gertrude,"130 Pearse St, Grand Canal Dock",674
+57,The Old Spot,"14 Bath Avenue Sandymount, Sandymount, South",758
+58,Musashi,48 Hogan Pl,839
+59,Daddy's Café,538 South Circular Road,493
+60,La Dolce Vita,758-760 S Circular Rd,403
+61,New Land Chinese Takeaway,"740 S Circular Rd, Kilmainham",326
+62,Four Star Pizza,"645 S Circular Rd, Kilmainham",343
+63,Daphne’s,,369
+64,Spice Village,,399
+65,Cinnamon Restaurant,"Inchicore Road, Kilmainham",488
+66,Amber Grill,"451 S Circular Rd, Rialto",493
+67,Rialto Malaysian Chinese Takeaway,Rialto,516
+68,Good Luck Chinese Takeaway And Delivery,Emmet Road,517
+69,The Brew Dock,1 Amiens St,498
+70,Bread 41,Pearse Street,415
+71,The Pig & Heifer,"6 Guild Court, Amiens St",547
+72,The Vintage Kitchen,7 Poolbeg St,636
+73,Il Capo,62 Talbot St,612
+74,The Pig's Ear,4 Nassau St,761
+75,Sprout & Co Kitchen,63 Dawson St,887
+76,Rocket's,"Unit B, North Wall Quay, IFSC District",212
+77,Hang Dai Chinese,20 Camden Street,158
+78,Las Tapas de Lola,12 Wexford St,194
+79,Pickle,Camden St,265
+80,Pablo Picante,4 Clarendon Market,540
+81,The Saddle Room,27 St Stephen's Green,540
+82,The Coburg Brasserie,Conrad Hotel,106
+83,Lucky’s,79 Meath St,184
+84,Forno 500,Dame St,728
+85,Drunken Fish,Lwr Mayor St,173
+86,Da Mimmo,148 North Strand Rd,898
+87,4 Corners Bar And Terrace,Hilton Dublin Kilmainham,290
+88,The Palace Of Desires,,466
+89,Cigerci Kenan Usta,,554
+90,Subway,"Unit 9, Heuston South Quarter",652
+91,Piglet,Cow's Ln,488
+92,Richmond,S Richmond St,485
+93,FXB Grill @ Ryans,28 Parkgate St,99
+94,Thundercut Alley,"Thundercut Alley, Dublin, Dublin 7",897
+95,1837 Bar & Brasserie,St James's Gate,765
+96,Brewer's Dining Hall,St James's Gate,764
+97,Boojum,Smithfield Market,918
+98,The Ivy Dublin,13-17 Dawson Street,252
+99,Featherblade,51 Dawson St,256
+100,Doolally,27th Richmond Street,139
+101,Viva,"27 S Richmond St, Portobello",81
+102,Aoki,Unit 4 Richmond View,203
+103,Zaytoon,44-55 Lwr Camden St,391
+104,Ryleigh’s,81-82 North Wall Quay,103
+105,Musashi,Lwr Mayor St,887
+106,Seven Wonders,"Excise Walk, IFSC",875
+107,Salsa Authentic Mexican Food & Bar,"Unit 3, Custom House Square, Mayor Street Lower",878
+108,Hemidemisemiquaver Bar,"The Gibson Hotel, Point Village",237
+109,Java Republic,"1 HSQ (8th floor), St John's Rd",186
+110,Giannis Take Away,40 Parkgate St,210
+111,Romayo's,40 Parkgate St,224
+112,Gianni's,40 Parkgate St,231
+113,Dillions Deli,,256
+114,Takara,,354
+115,Chapter One Restaurant,18-19 Parnell Sq,994
+116,McDonald's,144 Phibsborough Rd,377
+117,Marvelous Veggie,"13A, Phibsborough",93
+118,Abrakebabra,"158 Phibsborough Rd, Phibsborough, Dublin, D07 ED73",233
+119,Vice,353 North Circular Road,248
+120,Pearl River Chinese Takeaway,62 Phibsborough Rd,255
+121,Abrakebabra,"Unit 1, Phibsboro Pl, Phibsborough Rd",309
+122,Bigfan Bao,,119
+123,Masa,2–3 Drury St,216
+124,Millstone Restaurant,39 Dame St,274
+125,Sano Pizza,1 Exchange Street Upper,76
+126,Host Restaurant,13 Ranelagh,594
+127,Kinara Kitchen,17 Ranelagh,618
+128,Quiznos,James hospital,363
+129,Tranquilo Restaurant,,431
+130,Papa Mio's - Toni's Takeaway,93-95 Emmet Rd,114
+131,Urban Picnic Facebook,4 Grand Canal Square,682
+132,The Art of Coffee,Grand Canal Quay,499
+133,Fowl Play,45 Hogan Place,411
+134,Bondiola,50 Haddington Rd,376
+135,Etto,18 Merrion Row,828
+136,Angelina's,55 Percy Pl,413
+137,Zakura Noodle & Sushi,7 Baggot St Uppr,673
+138,One Society,Gardiner Street Lower,662
+139,The Parnell Heritage Pub & Grill,72-74 Parnell St,823
+140,37 Dawson Street,37 Dawson St,87
+141,Papamio.ie,,400
+142,Toni's Take Away,93-95,409
+143,Hui Kee,52 Bulfin Rd,441
+144,The Pig & Heifer,151 Pearse St,500
+145,L'Ecrivain Restaurant,109a Lower Baggot St,816
+146,The Quays,10-12 Temple Bar Sq,106
+147,Morton's,"Mortons Station Building, Park Pl, Hatch St",211
+148,The Little Kitchen,129 Leeson Street Upper,234
+149,Saba,"22 Baggot Street Upper, Dublin 4",304
+150,Bang Bang,59a Leinster Street North,697
+151,Camile Thai,143a Phibsborough Rd,637
+152,The Whitworth,Cross Guns Bridge,770
+153,Eddie Rocket's,"Phibsborough Shopping Centre, Phisborough",615
+154,Fish Bar,Cabra Rd,301
+155,Indian Curry Club,"Emmett Rd, Inchicore",362
+156,Mr. Fox,38 Parnell Square W,780
+157,Mama's Revenge,12 S Leinster St,481
+158,Charming Noodles,105 Parnell St,973
+159,McDonald's,"Ilac Shopping Centre,",986
+160,Sbarro Pizza,,371
+161,Coppa,15 Ely Place,669
+162,Domino's Pizza - Dublin - Cabra,101a Cabra Rd,291
+163,Rainbow,,298

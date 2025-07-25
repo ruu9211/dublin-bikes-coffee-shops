@@ -1,0 +1,252 @@
+,name,address,distance_m,rating,price_range
+0,Brannigans,9 Cathedral Street,816.9429435912351,4.5,€
+1,The Lovinspoon,13 N Frederick Street,331.7456959641861,4.6,€
+2,The Old Mill Restaurant,14 Temple Bar Square,1100.8448063856401,4.5,€€
+3,Bleecker Street Cafe Bar,68 Dorset Street,421.2579668805471,4.6,€€
+4,Wood Fire Cafe,3 Blessington Street,285.5659388198703,4.5,
+5,The Old Music Shop,3 North Frederick Street,377.24453891952203,4.0,€€
+6,Mr Fox,38 Parnell Square W,364.8212360205544,4.7,€€€
+7,The Boxty House,20-21 Temple Bar,1130.3421559969704,4.3,€€€
+8,The Parnell Heritage Bar & Grill,72-74 Parnell Street,573.9173624525364,4.0,€€
+9,Kingfisher,166-168 Parnell Street,537.6034817383623,4.0,€€
+10,La Pausa Cafe,1-B Blessington Street,287.41146119454083,5.0,€
+11,Krewe,51/52 Capel St,647.7761781757695,4.7,
+12,Teddy's Bar And Bistro,23 O'Connell Street Upper,660.955832756242,5.0,
+13,Chapter One,Basement of The Writers Museum,364.5728929845253,4.5,€€€€
+14,Lavanda,31 Brunswick Street N,833.5613655494901,4.6,
+15,BoCo,57 Bolton Street,405.02734384621,4.3,
+16,Lily's Cafe,3A Cavendish Row,576.3351490586955,4.6,
+17,The Church,Jervis Street,724.4991746314315,3.7,€€€
+18,Blas Café,26 King's Inns Street,415.3544712543576,4.3,€€
+19,Little Dumplings,28 Mary Street Little,739.9730154398121,4.3,
+20,The Vintage Kitchen,7 Poolbeg Street,387.8877170459534,4.5,€€€
+21,The Bakehouse,6 Bachelors Walk,280.50430511825465,4.3,€
+22,Murphy's Bistro Cafe,22 Bachelors Walk,204.46397421194257,4.6,
+23,Featherblade,51B Dawson Street,828.1557988725099,4.4,€€
+24,Elephant & Castle,18 Temple Bar,405.6657898414391,4.0,€€
+25,Darkey Kellys,Hotel Harding,862.1190286401433,4.6,€€
+26,SoMa,1 O'Connell Street Upper,117.15602943400916,5.0,
+27,The Winding Stair,40 Ormond Quay Lower,346.37008460301496,4.2,€€€
+28,F.X.Buckley,2 Crow Street,543.0231083218231,4.5,€€€
+29,Boeuf,65 S William Street,692.5153854546943,4.7,
+30,Sheehans,17 Chatham Street,899.9721668583089,4.6,€€
+31,The Pig's Ear,4 Nassau Street,832.4481495795926,4.3,€€€
+32,Queen of Tarts,Cork Hill,724.8713980037479,4.4,€€
+33,The Quays Irish Restaurant,10-12 Temple Bar Square,418.38261410120475,4.2,€€
+34,The Oval Bar,78 Middle Abbey Street,61.167292633682976,4.2,€€
+35,A Taste Of History,,88.09968492668584,4.8,€€
+36,The Little Kitchen,129 Leeson Street Upper,641.035698394548,4.8,€€
+37,The Garden Room,Upper Merrion Street,254.17847990763397,4.3,
+38,Matt The Thresher,31 -32 Lower Pembroke Street,147.97730812754838,4.1,€€€
+39,Cirillo's,140 Baggot Street Lower,192.3442355183831,4.4,€€
+40,The Saddle Room Restaurant,The Shelbourne Hotel,379.3754808219213,4.2,€€€
+41,The Coburg Brasserie,2 Earlsfort Terrace,311.477265669517,4.7,
+42,The Sussex,8/9 Sussex Terrace,530.21854591381,4.7,€€€
+43,Chez Max,133 Lower Baggot Street,177.87149989688012,4.0,€€
+44,Goose On The Loose,2 Kevin Street,895.9580692771731,4.5,€
+45,Etto,18 Merrion Row,239.69402917637836,4.5,€€€
+46,Charlemont Bar & Bistro,1 Charlemont Place,714.3916252396565,4.0,€€
+47,Hugos,6 Merrion Row,290.88756149433806,4.1,€€
+48,Hatch and Sons,15 St Stephen's Green,526.5005417318698,4.2,€€
+49,isabelle's,13-14 South Anne St,700.1717889546064,4.2,
+50,House,27 Lower Leeson Street,259.4204000498487,4.0,€€€
+51,Brother Hubbard,153 Capel Street,463.5988756135154,4.4,€€
+52,Kopitiam Dublin,53 Capel Street,234.5498555609048,4.8,
+53,Third Space,14 Smithfield Market,703.3315408650651,4.4,€
+54,Brother's Dosirak,27 Capel Street,404.15895088825147,4.7,€
+55,Grano,Unit 5,431.6782567569843,4.4,
+56,L Mulligan Grocer,18 Stoneybatter,452.3022824028959,4.3,€€
+57,Stir Cafe,78-86 King St N,549.1088096195897,5.0,€€
+58,Slice,56 Manor Street Place,474.5492909989645,4.3,€€
+59,McGowans of Phibsboro,18 Phibsboro Road,394.4256505230032,3.2,€€
+60,Cafe Sparks Smithfield,"Unit 3, Block C",715.7443196098045,4.3,€
+61,Cafe Oasis,54 North King Street,550.5391980482564,4.7,€€
+62,Social Fabric Cafe,34 Stoneybatter,511.800325122279,5.0,
+63,The Brazen Head,20 Bridge Street Lower,327.4653800706453,4.2,€€€
+64,Generator Dublin,Smithfield Square,73.28459556003506,3.7,€€
+65,Spitalfields,25 The Coombe,891.4268268453951,4.9,
+66,Urbanity,The Glass House,114.0273796076797,4.5,€
+67,Phx Bistro,12 Ellis Quay,239.50830097385654,4.6,€€
+68,Fish Shop,76 Benburb Street,253.41866115494565,4.7,
+69,The Riddler,La Rochelle Building,553.4553027658164,4.3,€€
+70,Wuff,23 Benburb Street,282.0936462587658,4.4,€€
+71,Oh! Rourkes,Bridgefoot Street,371.2296249109731,4.6,€€
+72,Fegans,13 Chancery St,437.87290027115,4.0,
+73,My Meat Wagon,Market Square,118.47181537122427,4.1,€€
+74,Bull & Castle,5-7 Lord Edward Street,712.3053885039658,4.1,€€€
+75,D One Restaurant,The Camp Shires North Wall Quay,387.1485913692699,4.5,€
+76,Copper Alley Bistro,2 Lord Edward Street,697.9361346487025,4.1,€€
+77,Las Tapas de Lola,12 Wexford Street,299.86598976640784,4.5,€€
+78,Camden Kitchen,3A Camden Market,570.7903601343523,4.5,€€
+79,Café en Seine,40 Dawson St,309.84740700253957,3.8,€€
+80,P Mac's,Stephen Street Lower,308.62395331508,4.3,€€
+81,Glover’s Alley,128 St Stephen's Green,81.08488372827668,4.4,
+82,Green Bench Café,"18, Montague Street",291.4991579542225,4.8,€
+83,Catch-22,32 Clarendon St,17.60737232411407,4.1,
+84,La Cucina Restaurant,Powerscourt Townhouse,173.44989151684902,4.2,
+85,Platform 61,27 William Street South,84.5198005009652,4.5,€€
+86,The Lovely Food Company,94 Drumcondra Road Lower,990.6006617585286,4.4,€€
+87,Two Boys Brew,375 North Circular Road,499.0370436270934,4.6,€
+88,Midnight Express,91 Upper Dorset Street,195.13493453445187,4.2,
+89,Restaurant Six,6 Cavendish Row,618.2566426728897,5.0,
+90,Woodstock Café,156 Phibsborough Road,578.7321933675108,4.0,€€
+91,Aurora Bar and Grill,72-73 Upper Dorset Street,122.87631037865161,3.3,
+92,Nutbutter,Forbes St,311.06248620566754,4.6,
+93,Charlotte Quay,Charlotte Quay Dock Millennium Tower,273.2490079619532,4.3,€€€
+94,Herbstreet,Hanover Quay,286.5222956953323,4.1,€€
+95,The Brasserie,Grand Canal Square,368.93285664673033,4.0,€€€
+96,The Old Spot,14 Bath Avenue,756.7639027709057,4.5,€€€
+97,Osteria Lucio,The Malting Tower,603.6280781505595,4.3,€€€
+98,The Oarsman,8 Bridge Street,463.5478088249789,4.1,€€
+99,Basil,95 Ringsend Road,312.93416194693214,4.5,€€
+100,À Table Café,40 Forbes Quay,373.6185021645316,4.5,€
+101,Lolly and Cooks,"Unit 1, Grand Canal Dock",338.4810925217836,4.0,€€
+102,The Marker Hotel,Grand Canal Square,352.6205182985833,4.1,€€€
+103,The Schoolhouse Bar & Restaurant,2-8 Northumberland Rd,850.03657837791,3.8,€€
+104,Searsons of Baggot Street,42-44 Upper Baggot Street,1348.9427452928962,4.4,€€
+105,Mackenzie's,6 Hanover Quay,145.5221404040586,3.5,
+106,Coda Eatery,The Gibson Hotel,609.0698815821128,3.3,
+107,Cafe Sora,77 Sir John Rogerson's Quay,158.18666373791632,3.8,€€
+108,Mamma Mia,2 Grattan Street,862.5220210530432,4.5,€€
+109,Pig & Heifer,6 Guild Court,701.6970201242466,4.3,€
+110,The Orange Goat,50 Serpentine Avenue,1566.17098096953,4.2,
+111,White Moose Cafe,268-272 North Circular Rd,452.6248619245816,3.8,€€
+112,Union8,740 S Circular Road,322.27086597028443,4.1,€€
+113,La Dolce Vita,760 S Circular Road,405.5470372560608,3.8,€€
+114,LimeTree Cafe,Kilmainham Square,567.5616911971057,4.3,€€
+115,Ryans Of Parkgate Street,28 Parkgate Street,1238.3122518459456,4.4,€€
+116,1837 Bar & Brasserie,Guinness Storehouse,1206.8919448048557,4.1,€€
+117,Acorn Bistro,124 Emmet Road,739.3634460447602,4.5,
+118,Amber Grill,451 South Circular Road,486.6552952426106,4.3,
+119,Groundstate,48 James St,1141.8170003368919,4.9,
+120,Broyage,South Circular Road,492.9696778235315,3.3,
+121,Nancy Hands Bar & Restaurant,30-32 Parkgate Street,1229.3156618290793,4.0,€€
+122,Fox & Feather,27A Parkgate Street,1255.6782158278304,5.0,
+123,Riggers d8,145 Emmet Rd,886.761747317204,5.0,
+124,Newland Takeaway,740 Circular Road South,326.05248977140576,3.5,
+125,Yu Cafe and Restaurant,30 James Street,993.9106977845638,4.5,€
+126,Storyboard,Clancy Quay,876.7206587730735,4.0,
+127,Toni's,95 Emmet Rd,710.0354579690303,4.0,€
+128,Romayo's,40 Parkgate St,1190.1709453936237,4.2,
+129,Chesterfields Restaurant,Parkgate Street,1354.5483458370838,3.8,€€€
+130,Bread 41,41 Pearse St,427.87387979310023,4.7,€€
+131,The Pig and Heifer,21-23 City Quay,237.04182215243466,4.4,€
+132,The Pig & Heifer,151 Pearse Street,363.72127311511196,4.1,€
+133,Ely Bar & Brasserie,Georges Dock,332.34209431411364,3.9,€€€
+134,Oly's Bar And Restaurant,1 Custom House Quay,178.15306648579397,3.8,€€
+135,Drunken Fish,The Excise Building,305.51924686920523,3.5,€€
+136,Broadway New York Eatery,Custom House Square IFSC,362.8082934206132,4.5,€€
+137,Munchies,Sir John Rogersons Quay,354.91938852772165,3.9,€
+138,J2 Grill & Sushi,"Unit A, The Campshires",178.37387548647317,4.0,€€
+139,Pickle Eating House and Bar,43 Camden Street,264.1841255353456,4.6,€€€
+140,Mad Egg,Units 2 & 3,272.24426904146367,4.7,
+141,Sophie's Bar,33 Harcourt Street,110.0366682662981,3.9,€€
+142,1900,59 Harcourt Street,192.69423052619953,4.0,€€
+143,Odeon,Old Harcourt Street Railway Station,293.1572927003865,3.9,€€
+144,The Iveagh Restaurant,Camden Street,96.93982741367442,5.0,
+145,Tenter’s Gastro Pub,1 Mill St,825.6339843033755,4.2,
+146,Bloom Brasserie,11 Upper Baggot Street,432.81667830532535,4.4,€€€
+147,Suesey Street,26 Fitzwilliam Place,287.4748707087445,4.4,€€€
+148,Forest Avenue,8 Sussex Terrace,429.9870203360388,4.6,€€€€
+149,Keshk Cafe & Restaurant,71 Mespil Road,369.7114348951468,4.3,€€
+150,Angelina's,55 Percy Place,452.7324750814154,3.8,€€
+151,Lemuel's,2 Earlsfort Terrace,91.0982555677344,4.9,
+152,The Kilkenny Café,6 Nassau Street,403.12001716775836,4.1,€
+153,Il Caffè di Napoli,41 Westland Row,180.29311805464403,3.9,€€€
+154,Dunne & Crescenzi,14 St Frederick Street,456.2690321716116,4.1,€€
+155,Bondiola Argentina,53 Haddington Road,432.77782918485417,4.6,€€
+156,The Waterloo Bar,36 Upper Baggot Street,482.70355097283715,3.8,€€
+157,FX Buckley,1A Lower Pembroke St,226.07939707490098,4.3,€€€
+158,Foley's Bar,1 Merrion Row,421.52110582634594,4.1,€€
+159,Griolladh,"41 Thomas St, The Liberties,",169.76513743844282,4.8,
+160,The Lab,54A Thomas St,89.22832123125632,5.0,
+161,Lucky's,THE LIBERTIES,196.39979148833746,4.5,
+162,Bite Of Life,55 Patrick Street,429.05147218127274,4.3,€
+163,Chaska,"Unit 3, Berry House",165.11581516765693,5.0,
+164,Wallace's Asti,Behan Square,262.3230525856445,4.2,€€
+165,One Society,1 Lower Gardiner Street,300.83325004774224,4.7,
+166,El Grito Mexican Taqueria,20 Mountjoy Square E,79.57712802509208,4.4,€
+167,"Laine, My Love",38 Talbot Street,690.0969601092143,4.6,
+168,The Sideline Bistro,The Croke Park Hotel,478.1162925067912,3.6,€€
+169,Itsa,Irish Museum of Modern Art,356.519459230371,3.5,€
+170,Two Pups Coffee,The Liberties,334.467841274167,4.6,€
+171,Cathedral Cafe,2 Dean St,351.55080416261796,3.9,€
+172,McCafferty's at The Barge,42 Charlemount Street,291.0413584852198,3.6,€€
+173,Iveagh Bar,Parkgate Street,120.09764507176884,3.6,€€
+174,Petit Cafe,35A Kildare Street,13.823648452338482,4.4,€
+175,The Greenhouse,19 Dawson Street,353.6870558854471,4.5,€€€€
+176,Richmond,43 Richmond Street South,84.06685937401986,4.7,€€€
+177,Alma.,12 S Circular Rd,354.7698739022338,4.6,
+178,The Bretzel Bakery,1A Lennox Street,102.83436178926324,4.4,€€
+179,One Bistro,30 S Richmond Street,70.39110453962567,4.7,€€
+180,Locks,1 Windsor Terrace,441.88356689544133,4.6,€€€
+181,Grove Road,1 Lower Rathmines Road,70.20465020325851,4.4,€
+182,Viva,27 South Richmond Street,78.83246955239234,4.6,€€
+183,Eat To The Beat,East Wall Road,250.63379952029572,5.0,
+184,The Green Room Bar,117-126 Upper Sherrif Street,312.107559208172,3.0,
+185,Rasher's,Gardiner Street,303.8046336281432,4.0,€
+186,Del Rio's Cafe,110 Marlborough Street,380.84273845880176,4.3,€
+187,Thai Spice,3a Talbot Place,392.6072692777543,4.4,€€
+188,Dall' Italiano Restaurant,Hart's Corner,793.7937056413392,4.4,€€
+189,The Golden Chip,108 Phibsborough Road,548.6597315650818,3.1,€
+190,Farmer Browns,Enniskerry Rd,551.0647129302258,4.0,
+191,IL Vicoletto,5 Crow Street,207.96730099710888,4.5,€€€
+192,Nightmarket Thai Restaurant & Bar,120 Ranelagh Road,76.81729070046538,3.9,€€
+193,Asahi Asian Street Food,33 Charlemont Street,103.0285869082289,4.8,€€
+194,Mulligans,86 Sandymount Road,1583.0178655748787,4.3,€€
+195,Gilli Cafe,Marrowbone Lane,888.1659807810458,4.0,€
+196,The Exchange Restaurant & Cocktail Bar,At College Green Westmoreland Street,293.24605452156777,4.3,€€€
+197,The Bridge 1859,13 Ballsbridge Terrace,1398.8942120715524,4.0,€€
+198,The Chop House,2 Shelbourne Road,563.7572621363939,3.9,€€€
+199,Juniors,2 Bath Avenue,537.0949615618122,4.3,€€
+200,Paulie's Pizza,58 Grand Canal Street,532.5370596141864,4.5,€€
+201,DELISUZ,58a Blessington Street,32.49197256844097,4.7,€
+202,Shouk,40 Lower Drumcondra Road,465.5247420813991,4.7,
+203,Le Petit Breton,1A Drumcondra Road Lower,263.18525864767025,4.5,€€
+204,Independent Pizza,28 Drumcondra Road Lower,372.7963316629789,4.2,€€
+205,Spice & Rice,34 Lower Dorset St,69.61240734584536,3.4,
+206,Ruposhi Indian Restaurant,1 Whitworth Road,265.0017628736624,4.2,€€
+207,The Ivy,13-17 Dawson St,18.41800128710742,3.4,€€€
+208,Xian Street Food,28 Anne St S,109.70692411712004,4.3,
+209,Macaris,13 Tyrconnell Rd,886.3049229244843,2.7,
+210,Good Luck Chinese Take Away,37 Emmet Road,193.2044571342086,2.6,€
+211,Pasha,65 Dorset Street Upper,57.35220892605118,3.5,€
+212,McGrattan's In The Lane,76-77 Fitzwilliam Lane,182.44594541069972,3.8,€€
+213,The Pantry,64 Talbot Street,71.61224049491877,4.1,€€
+214,Il Capo,36 Talbot Street,60.16775569680346,4.5,€
+215,Harbour Master Bar & Restaurant,Customs House Dock,221.94049644232675,3.4,€€
+216,101 Talbot Restaurant,101-102 Talbot Street,306.3739236235845,4.2,€€
+217,Brasilia Cafe,Talbot Street,72.15816934909124,5.0,
+218,Art Cafe Dublin,1 Frenchman's Lane,134.7394713623742,4.3,€€
+219,Il Capo Pizza & Pasta,62 Talbot Street,74.73530324231875,4.5,
+220,BANG Restaurant & Bar,11 Merrion Row,96.20700466858554,4.2,€€€
+221,Musashi,48 Hogan Place,470.5244726049132,4.0,
+222,Seasons Restaurant,Simmonscourt Road,1478.8276723856243,4.8,€€
+223,Press Cafe,Beggar's Bush,346.7653432256522,4.5,€€
+224,The Bath,26 Bath Avenue,318.23541917031747,4.2,€€
+225,The Gasworks Bar,Grand Canal Hotel,64.34877394467429,3.1,€€
+226,Roly's Bistro,7 Ballsbridge Terrace,1029.5689259412045,4.1,€€€
+227,Leo Burdock,2 Werburgh Street,33.97208457122625,3.8,€
+228,The Woollen Mills,42 Lower Ormond Quay,228.2577293985137,3.9,€€
+229,Fusciardi's of Capel Street,10 Capel Street,337.68160403570505,4.5,
+230,Delahunt,39 Camden Street Lower,20.39281034463814,4.6,€€€
+231,Milano's,19 East Sussex Street,296.6112799557416,4.5,
+232,Kerala Kitchen,5 Upper Baggot Street,210.88249982219966,4.2,€€
+233,Clarke's Home Bakery,54 New Cabra Road,504.5235703497283,4.0,€
+234,Kimchi Hophouse,160-161 Parnell Street,348.496188237565,4.0,€€
+235,Chai Yo Restaurant,100 Lower Baggot Street,152.6171329413692,3.8,€€
+236,Mcgettigans Cookhouse & Bar Restaurant,Amiens Street,146.9645705971319,3.3,€€
+237,Indian Curry Club,27/28 Kilbarrack Shopping Center,707.2885351412293,5.0,
+238,Spencer Dock Food Market,Spencer Dock,373.2358304643695,4.0,€€
+239,Gertrude,130 Pearse St,252.34301721948046,4.5,
+240,Flanagan's Restaurant,61 O'Connell Street Upper,194.60933978592703,3.5,€€
+241,The Fumbally,Fumbally Court,448.1906301434191,4.4,€€
+242,Luncheonette,National College of Art and Design,586.2720018764187,4.6,€
+243,Proof Urban Italian,34-35 Thomas Street,499.4525441598046,4.3,
+244,I Monelli Authentic Italian Restaurant,1/2 Portobello Road,67.96078412961383,3.9,€€
+245,Bastible,111 South Circular Road,532.9147200894009,4.9,€€€
+246,Da Mimmo,148 North Strand,582.6525609530336,4.4,€€
+247,Charming Noodles,105 Parnell Street,286.73903126639937,4.1,€
+248,Milano,Unit 1 - Hanover Quay,17.818959368989237,3.1,€€
+249,Cloud Cafe,43 N Strand Road,410.5163181523155,5.0,
+250,Long Thanh,13-15 North Strand Road,119.21576779905402,4.0,
