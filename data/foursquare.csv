@@ -1,1151 +1,1424 @@
-,name,address,distance
-0,BoCo,57 Bolton St,400
-1,The Black Sheep,61 Capel St,580
-2,Midnight Express,Dorset St Uppr,320
-3,Kingfisher Restaurant,Parnell St,546
-4,The Hop House (Kim Chi),160 Parnell St,613
-5,Aobaba,46A Capel St,679
-6,Arisu,119 Capel St,668
-7,The Church,Junction of Mary Street and Jervis Street,725
-8,Musashi Noodles & Sushi Bar,15 Capel St,888
-9,El Grito Mexican Taqueria,"20 Mountjoy Square East,",895
-10,The Winding Stair,40 Lower Ormond Quay,353
-11,Govindas,83 Middle Abbey St,79
-12,Tang,"9a Abbey Street Lower, Dublin 1, Ireland",132
-13,Kingfisher Restaurant,Parnell St,353
-14,The Church,Junction of Mary Street and Jervis Street,427
-15,Gallagher's Boxty House,20-21 Temple Bar,390
-16,Musashi Noodles & Sushi Bar,15 Capel St,567
-17,The Bank,20 College Green,535
-18,Pho Ta,"Cope St, Temple Bar",472
-19,Oriental Emporium,"Uppr Abby Street, Dublin 1",356
-20,Matt The Thresher,"31-32, Lower Pembroke St",128
-21,The Cellar Bar,"The Merrion Hotel, Uppr Merrion St",296
-22,FXB Steak & Seafood,1A Lwr Pembroke St,149
-23,TANG by Yogism,23C Dawson St,550
-24,Peploe's,16 St Stephen's Green,516
-25,Forest Avenue,8 Sussex Terrace,504
-26,The Unicorn,12B Merrion Court,274
-27,Green Bench Cafe,18 Montague St,747
-28,Bunsen,3 South Anne St,742
-29,Sophie's,33 Harcourt St,724
-30,The Black Sheep,61 Capel St,172
-31,Arisu,119 Capel St,258
-32,The Church,Junction of Mary Street and Jervis Street,354
-33,Musashi Noodles & Sushi Bar,15 Capel St,481
-34,Kingfisher Restaurant,Parnell St,440
-35,The Winding Stair,40 Lower Ormond Quay,649
-36,Umi Falafel,13 Dame St,857
-37,Oriental Emporium,"Uppr Abby Street, Dublin 1",506
-38,Bison Bar & BBQ,11 Wellington Quay,681
-39,DiFontaine's Pizzeria,22 Parliament St,680
-40,L. Mulligan Grocer,18 Stoneybatter,473
-41,BoCo,57 Bolton St,682
-42,PHX Bistro,12 Ellis Quay,891
-43,Grano,5 Norseman Court,520
-44,Fish Shop,76 Benburb St,855
-45,The Black Sheep,61 Capel St,842
-46,Aobaba,46A Capel St,924
-47,Cafe Oasis,King Street North,571
-48,Arisu,119 Capel St,906
-49,Midnight Express,Dorset St Uppr,920
-50,PHX Bistro,12 Ellis Quay,241
-51,Fish Shop,76 Benburb St,258
-52,L. Mulligan Grocer,18 Stoneybatter,452
-53,Arthur's Pub,28 Thomas St,558
-54,Grano,5 Norseman Court,371
-55,Musashi Noodles & Sushi Bar,15 Capel St,672
-56,BoCo,57 Bolton St,677
-57,Aobaba,46A Capel St,640
-58,Cafe Oasis,King Street North,301
-59,Sparks Bistro,"Smithfield Village, Unit 3, block C",97
-60,TANG by Yogism,23C Dawson St,255
-61,Bunsen,36 Wexford St,293
-62,Bunsen,3 South Anne St,299
-63,Peploe's,16 St Stephen's Green,261
-64,Xian Street Food,28 South Anne Street,291
-65,Sophie's,33 Harcourt St,410
-66,Wilde Restaurant,"The Westbury Hotel, Balfe St",290
-67,Drury Buildings,Drury St,361
-68,The Cellar Bar,"The Merrion Hotel, Uppr Merrion St",605
-69,Avoca,11-13 Suffolk St,541
-70,Bunsen,3 South Anne St,165
-71,Drury Buildings,Drury St,123
-72,Xian Street Food,28 South Anne Street,173
-73,Wilde Restaurant,"The Westbury Hotel, Balfe St",98
-74,TANG by Yogism,23C Dawson St,299
-75,Cornucopia,19-20 Wicklow St,242
-76,Avoca,11-13 Suffolk St,329
-77,The Market Bar,14a Fade St,184
-78,Pichet,14-15 Trinity St,329
-79,The Bank,20 College Green,374
-80,Midnight Express,Dorset St Uppr,227
-81,El Grito Mexican Taqueria,"20 Mountjoy Square East,",602
-82,The Hop House (Kim Chi),160 Parnell St,654
-83,BoCo,57 Bolton St,807
-84,The Bald Eagle,http://thebaldeagle.ie,763
-85,Kingfisher Restaurant,Parnell St,733
-86,Shouk,40 Drumcondra Rd Lower,765
-87,Wallace's Asti,"15 Russel St, Behan Square",738
-88,The Black Sheep,61 Capel St,962
-89,Admiral Restaurant,1 Marlborough St,779
-90,BoCo,57 Bolton St,258
-91,The Black Sheep,61 Capel St,301
-92,Aobaba,46A Capel St,355
-93,Arisu,119 Capel St,337
-94,Cafe Oasis,King Street North,141
-95,Musashi Noodles & Sushi Bar,15 Capel St,512
-96,The Church,Junction of Mary Street and Jervis Street,487
-97,PHX Bistro,12 Ellis Quay,657
-98,Fish Shop,76 Benburb St,659
-99,The Winding Stair,40 Lower Ormond Quay,764
-100,Herbstreet,9 Hanover Quay,288
-101,BrewDog Outpost Dublin,"Capital Dock, Grand Canal Dock",214
-102,The Oarsman,8-10 Bridge St,472
-103,Paulie's Pizza,58 Uppr Grand Canal St,770
-104,Juniors Deli & Cafe,2 Bath Ave,778
-105,Charlotte Quay,Charlotte Quay Dock,269
-106,Lotts & Co,7 S Lotts Rd,729
-107,Gertrude,"130 Pearse St, Grand Canal Dock",674
-108,The Old Spot,"14 Bath Avenue Sandymount, Sandymount, South",758
-109,Musashi,48 Hogan Pl,839
-110,BoCo,57 Bolton St,701
-111,L. Mulligan Grocer,18 Stoneybatter,530
-112,PHX Bistro,12 Ellis Quay,950
-113,Grano,5 Norseman Court,579
-114,Fish Shop,76 Benburb St,914
-115,The Black Sheep,61 Capel St,868
-116,Aobaba,46A Capel St,953
-117,Arisu,119 Capel St,936
-118,Cafe Oasis,King Street North,618
-119,Midnight Express,Dorset St Uppr,895
-120,Daddy's Café,538 South Circular Road,493
-121,La Dolce Vita,758-760 S Circular Rd,403
-122,New Land Chinese Takeaway,"740 S Circular Rd, Kilmainham",326
-123,Four Star Pizza,"645 S Circular Rd, Kilmainham",343
-124,Daphne’s,,369
-125,Spice Village,,399
-126,Cinnamon Restaurant,"Inchicore Road, Kilmainham",488
-127,Amber Grill,"451 S Circular Rd, Rialto",493
-128,Rialto Malaysian Chinese Takeaway,Rialto,516
-129,Good Luck Chinese Takeaway And Delivery,Emmet Road,517
-130,The Brew Dock,1 Amiens St,498
-131,Bread 41,Pearse Street,415
-132,The Pig & Heifer,"6 Guild Court, Amiens St",547
-133,The Vintage Kitchen,7 Poolbeg St,636
-134,Il Capo,62 Talbot St,612
-135,Herbstreet,9 Hanover Quay,612
-136,The Pig's Ear,4 Nassau St,761
-137,Sprout & Co Kitchen,63 Dawson St,887
-138,The Cellar Bar,"The Merrion Hotel, Uppr Merrion St",984
-139,Rocket's,"Unit B, North Wall Quay, IFSC District",212
-140,Green Bench Cafe,18 Montague St,85
-141,Sophie's,33 Harcourt St,102
-142,Hang Dai Chinese,20 Camden Street,158
-143,Bunsen,36 Wexford St,226
-144,Las Tapas de Lola,12 Wexford St,194
-145,Pickle,Camden St,265
-146,TANG by Yogism,23C Dawson St,505
-147,Peploe's,16 St Stephen's Green,492
-148,Bunsen,3 South Anne St,605
-149,Pablo Picante,4 Clarendon Market,540
-150,Matt The Thresher,"31-32, Lower Pembroke St",212
-151,The Cellar Bar,"The Merrion Hotel, Uppr Merrion St",413
-152,FXB Steak & Seafood,1A Lwr Pembroke St,243
-153,Forest Avenue,8 Sussex Terrace,405
-154,TANG by Yogism,23C Dawson St,708
-155,Peploe's,16 St Stephen's Green,674
-156,Green Bench Cafe,18 Montague St,884
-157,The Saddle Room,27 St Stephen's Green,540
-158,The Unicorn,12B Merrion Court,423
-159,Hang Dai Chinese,20 Camden Street,934
-160,Sophie's,33 Harcourt St,355
-161,Green Bench Cafe,18 Montague St,438
-162,Hang Dai Chinese,20 Camden Street,442
-163,Pickle,Camden St,437
-164,The Coburg Brasserie,Conrad Hotel,106
-165,Bunsen,36 Wexford St,579
-166,The Cellar Bar,"The Merrion Hotel, Uppr Merrion St",619
-167,TANG by Yogism,23C Dawson St,600
-168,Las Tapas de Lola,12 Wexford St,547
-169,Peploe's,16 St Stephen's Green,570
-170,Bread 41,Pearse Street,97
-171,The Pig's Ear,4 Nassau St,378
-172,The Cellar Bar,"The Merrion Hotel, Uppr Merrion St",639
-173,Avoca,11-13 Suffolk St,638
-174,The Brew Dock,1 Amiens St,640
-175,Bunsen,3 South Anne St,726
-176,The Pig & Heifer,"6 Guild Court, Amiens St",719
-177,TANG by Yogism,23C Dawson St,740
-178,The Bank,20 College Green,736
-179,Xian Street Food,28 South Anne Street,724
-180,The Cellar Bar,"The Merrion Hotel, Uppr Merrion St",395
-181,Matt The Thresher,"31-32, Lower Pembroke St",248
-182,FXB Steak & Seafood,1A Lwr Pembroke St,267
-183,Forest Avenue,8 Sussex Terrace,604
-184,TANG by Yogism,23C Dawson St,770
-185,Peploe's,16 St Stephen's Green,741
-186,Paulie's Pizza,58 Uppr Grand Canal St,893
-187,The Pig's Ear,4 Nassau St,777
-188,Musashi,48 Hogan Pl,539
-189,The Saddle Room,27 St Stephen's Green,590
-190,Arthur's Pub,28 Thomas St,301
-191,PHX Bistro,12 Ellis Quay,505
-192,Fish Shop,76 Benburb St,560
-193,Umi Falafel,13 Dame St,775
-194,Musashi Noodles & Sushi Bar,15 Capel St,736
-195,Lucky’s,79 Meath St,184
-196,DiFontaine's Pizzeria,22 Parliament St,675
-197,Bison Bar & BBQ,11 Wellington Quay,762
-198,Aobaba,46A Capel St,846
-199,Forno 500,Dame St,728
-200,The Brew Dock,1 Amiens St,516
-201,The Pig & Heifer,"6 Guild Court, Amiens St",539
-202,Rocket's,"Unit B, North Wall Quay, IFSC District",54
-203,Bread 41,Pearse Street,590
-204,Il Capo,62 Talbot St,612
-205,Herbstreet,9 Hanover Quay,576
-206,Drunken Fish,Lwr Mayor St,173
-207,The Vintage Kitchen,7 Poolbeg St,768
-208,The Pig's Ear,4 Nassau St,940
-209,Musashi,48 Hogan Pl,745
-210,El Grito Mexican Taqueria,"20 Mountjoy Square East,",80
-211,Wallace's Asti,"15 Russel St, Behan Square",273
-212,The Hop House (Kim Chi),160 Parnell St,507
-213,The Pig & Heifer,"6 Guild Court, Amiens St",761
-214,Il Capo,62 Talbot St,700
-215,Da Mimmo,148 North Strand Rd,898
-216,The Brew Dock,1 Amiens St,820
-217,Kingfisher Restaurant,Parnell St,724
-218,Shouk,40 Drumcondra Rd Lower,761
-219,Midnight Express,Dorset St Uppr,577
-220,La Dolce Vita,758-760 S Circular Rd,170
-221,Daddy's Café,538 South Circular Road,784
-222,New Land Chinese Takeaway,"740 S Circular Rd, Kilmainham",196
-223,Cinnamon Restaurant,"Inchicore Road, Kilmainham",216
-224,Four Star Pizza,"645 S Circular Rd, Kilmainham",220
-225,4 Corners Bar And Terrace,Hilton Dublin Kilmainham,290
-226,Good Luck Chinese Takeaway And Delivery,Emmet Road,409
-227,The Palace Of Desires,,466
-228,Cigerci Kenan Usta,,554
-229,Subway,"Unit 9, Heuston South Quarter",652
-230,Arthur's Pub,28 Thomas St,444
-231,PHX Bistro,12 Ellis Quay,673
-232,Umi Falafel,13 Dame St,673
-233,Musashi Noodles & Sushi Bar,15 Capel St,718
-234,Fish Shop,76 Benburb St,728
-235,DiFontaine's Pizzeria,22 Parliament St,613
-236,Bunsen,36 Wexford St,829
-237,Forno 500,Dame St,637
-238,Bison Bar & BBQ,11 Wellington Quay,696
-239,Piglet,Cow's Ln,488
-240,Musashi,48 Hogan Pl,181
-241,The Cellar Bar,"The Merrion Hotel, Uppr Merrion St",611
-242,Paulie's Pizza,58 Uppr Grand Canal St,657
-243,Matt The Thresher,"31-32, Lower Pembroke St",602
-244,FXB Steak & Seafood,1A Lwr Pembroke St,600
-245,Herbstreet,9 Hanover Quay,653
-246,The Pig's Ear,4 Nassau St,799
-247,Bread 41,Pearse Street,776
-248,Sprout & Co Kitchen,63 Dawson St,976
-249,TANG by Yogism,23C Dawson St,976
-250,Arthur's Pub,28 Thomas St,442
-251,PHX Bistro,12 Ellis Quay,562
-252,Umi Falafel,13 Dame St,632
-253,Musashi Noodles & Sushi Bar,15 Capel St,595
-254,Fish Shop,76 Benburb St,615
-255,DiFontaine's Pizzeria,22 Parliament St,527
-256,Bison Bar & BBQ,11 Wellington Quay,614
-257,Piglet,Cow's Ln,422
-258,Forno 500,Dame St,582
-259,The Winding Stair,40 Lower Ormond Quay,821
-260,The Cellar Bar,"The Merrion Hotel, Uppr Merrion St",426
-261,Musashi,48 Hogan Pl,209
-262,Matt The Thresher,"31-32, Lower Pembroke St",436
-263,FXB Steak & Seafood,1A Lwr Pembroke St,429
-264,The Pig's Ear,4 Nassau St,641
-265,Paulie's Pizza,58 Uppr Grand Canal St,823
-266,Sprout & Co Kitchen,63 Dawson St,814
-267,TANG by Yogism,23C Dawson St,792
-268,Bread 41,Pearse Street,685
-269,Peploe's,16 St Stephen's Green,774
-270,Sophie's,33 Harcourt St,464
-271,Hang Dai Chinese,20 Camden Street,542
-272,Green Bench Cafe,18 Montague St,575
-273,Forest Avenue,8 Sussex Terrace,436
-274,Pickle,Camden St,491
-275,Richmond,S Richmond St,485
-276,Bunsen,36 Wexford St,716
-277,The Cellar Bar,"The Merrion Hotel, Uppr Merrion St",744
-278,The Coburg Brasserie,Conrad Hotel,241
-279,Las Tapas de Lola,12 Wexford St,681
-280,FXB Grill @ Ryans,28 Parkgate St,99
-281,PHX Bistro,12 Ellis Quay,730
-282,Fish Shop,76 Benburb St,692
-283,Arthur's Pub,28 Thomas St,881
-284,L. Mulligan Grocer,18 Stoneybatter,762
-285,Grano,5 Norseman Court,768
-286,Thundercut Alley,"Thundercut Alley, Dublin, Dublin 7",897
-287,1837 Bar & Brasserie,St James's Gate,765
-288,Brewer's Dining Hall,St James's Gate,764
-289,Boojum,Smithfield Market,918
-290,The Pig's Ear,4 Nassau St,34
-291,The Cellar Bar,"The Merrion Hotel, Uppr Merrion St",396
-292,Bunsen,3 South Anne St,384
-293,TANG by Yogism,23C Dawson St,382
-294,Avoca,11-13 Suffolk St,389
-295,The Ivy Dublin,13-17 Dawson Street,252
-296,Xian Street Food,28 South Anne Street,380
-297,Bread 41,Pearse Street,348
-298,Featherblade,51 Dawson St,256
-299,The Bank,20 College Green,520
-300,BoCo,57 Bolton St,754
-301,L. Mulligan Grocer,18 Stoneybatter,609
-302,Grano,5 Norseman Court,661
-303,Fish Shop,76 Benburb St,998
-304,The Black Sheep,61 Capel St,929
-305,The Bald Eagle,http://thebaldeagle.ie,993
-306,Arisu,119 Capel St,1000
-307,Cafe Oasis,King Street North,701
-308,Midnight Express,Dorset St Uppr,886
-309,Sparks Bistro,"Smithfield Village, Unit 3, block C",830
-310,Richmond,S Richmond St,83
-311,Doolally,27th Richmond Street,139
-312,Pickle,Camden St,402
-313,Hang Dai Chinese,20 Camden Street,543
-314,Sophie's,33 Harcourt St,545
-315,Green Bench Cafe,18 Montague St,677
-316,Viva,"27 S Richmond St, Portobello",81
-317,Aoki,Unit 4 Richmond View,203
-318,Bunsen,36 Wexford St,768
-319,Zaytoon,44-55 Lwr Camden St,391
-320,BrewDog Outpost Dublin,"Capital Dock, Grand Canal Dock",195
-321,Herbstreet,9 Hanover Quay,541
-322,The Oarsman,8-10 Bridge St,617
-323,Ryleigh’s,81-82 North Wall Quay,103
-324,Charlotte Quay,Charlotte Quay Dock,600
-325,Musashi,Lwr Mayor St,887
-326,Gertrude,"130 Pearse St, Grand Canal Dock",930
-327,Seven Wonders,"Excise Walk, IFSC",875
-328,Salsa Authentic Mexican Food & Bar,"Unit 3, Custom House Square, Mayor Street Lower",878
-329,Hemidemisemiquaver Bar,"The Gibson Hotel, Point Village",237
-330,The Brew Dock,1 Amiens St,294
-331,The Pig & Heifer,"6 Guild Court, Amiens St",378
-332,Bread 41,Pearse Street,301
-333,The Pig's Ear,4 Nassau St,612
-334,Avoca,11-13 Suffolk St,682
-335,Tang,"9a Abbey Street Lower, Dublin 1, Ireland",431
-336,The Winding Stair,40 Lower Ormond Quay,775
-337,The Bank,20 College Green,717
-338,Bunsen,3 South Anne St,875
-339,Pichet,14-15 Trinity St,775
-340,BoCo,57 Bolton St,402
-341,The Black Sheep,61 Capel St,595
-342,Aobaba,46A Capel St,694
-343,Arisu,119 Capel St,679
-344,The Church,Junction of Mary Street and Jervis Street,772
-345,Kingfisher Restaurant,Parnell St,688
-346,Musashi Noodles & Sushi Bar,15 Capel St,902
-347,The Hop House (Kim Chi),160 Parnell St,789
-348,Midnight Express,Dorset St Uppr,508
-349,L. Mulligan Grocer,18 Stoneybatter,777
-350,FXB Grill @ Ryans,28 Parkgate St,297
-351,1837 Bar & Brasserie,St James's Gate,935
-352,Brewer's Dining Hall,St James's Gate,937
-353,La Dolce Vita,758-760 S Circular Rd,880
-354,Subway,"Unit 9, Heuston South Quarter",209
-355,Java Republic,"1 HSQ (8th floor), St John's Rd",186
-356,Giannis Take Away,40 Parkgate St,210
-357,Romayo's,40 Parkgate St,224
-358,Gianni's,40 Parkgate St,231
-359,Dillions Deli,,256
-360,BoCo,57 Bolton St,411
-361,Kingfisher Restaurant,Parnell St,267
-362,The Black Sheep,61 Capel St,513
-363,Aobaba,46A Capel St,592
-364,The Church,Junction of Mary Street and Jervis Street,578
-365,Arisu,119 Capel St,588
-366,Musashi Noodles & Sushi Bar,15 Capel St,775
-367,The Winding Stair,40 Lower Ormond Quay,800
-368,El Grito Mexican Taqueria,"20 Mountjoy Square East,",708
-369,Oriental Emporium,"Uppr Abby Street, Dublin 1",681
-370,Kingfisher Restaurant,Parnell St,147
-371,The Church,Junction of Mary Street and Jervis Street,278
-372,The Black Sheep,61 Capel St,294
-373,Arisu,119 Capel St,338
-374,The Winding Stair,40 Lower Ormond Quay,489
-375,Musashi Noodles & Sushi Bar,15 Capel St,483
-376,Oriental Emporium,"Uppr Abby Street, Dublin 1",369
-377,Bison Bar & BBQ,11 Wellington Quay,617
-378,Takara,,354
-379,Govindas,83 Middle Abbey St,413
-380,The Bald Eagle,http://thebaldeagle.ie,584
-381,BoCo,57 Bolton St,983
-382,Chapter One Restaurant,18-19 Parnell Sq,994
-383,Midnight Express,Dorset St Uppr,824
-384,McDonald's,144 Phibsborough Rd,377
-385,Marvelous Veggie,"13A, Phibsborough",93
-386,Abrakebabra,"158 Phibsborough Rd, Phibsborough, Dublin, D07 ED73",233
-387,Vice,353 North Circular Road,248
-388,Pearl River Chinese Takeaway,62 Phibsborough Rd,255
-389,Abrakebabra,"Unit 1, Phibsboro Pl, Phibsborough Rd",309
-390,Bunsen,36 Wexford St,238
-391,Bunsen,3 South Anne St,371
-392,Bigfan Bao,,119
-393,TANG by Yogism,23C Dawson St,413
-394,Drury Buildings,Drury St,297
-395,Xian Street Food,28 South Anne Street,371
-396,Sophie's,33 Harcourt St,465
-397,Wilde Restaurant,"The Westbury Hotel, Balfe St",321
-398,The Market Bar,14a Fade St,335
-399,Masa,2–3 Drury St,216
-400,DiFontaine's Pizzeria,22 Parliament St,143
-401,Bison Bar & BBQ,11 Wellington Quay,160
-402,Musashi Noodles & Sushi Bar,15 Capel St,340
-403,The Winding Stair,40 Lower Ormond Quay,350
-404,Pichet,14-15 Trinity St,307
-405,The Bank,20 College Green,351
-406,Millstone Restaurant,39 Dame St,274
-407,Sano Pizza,1 Exchange Street Upper,76
-408,Pho Ta,"Cope St, Temple Bar",301
-409,The Market Bar,14a Fade St,263
-410,Richmond,S Richmond St,301
-411,Hang Dai Chinese,20 Camden Street,601
-412,Pickle,Camden St,491
-413,Sophie's,33 Harcourt St,553
-414,Doolally,27th Richmond Street,322
-415,Host Restaurant,13 Ranelagh,594
-416,Green Bench Cafe,18 Montague St,690
-417,Kinara Kitchen,17 Ranelagh,618
-418,Forest Avenue,8 Sussex Terrace,574
-419,Bunsen,36 Wexford St,819
-420,The Oarsman,8-10 Bridge St,349
-421,Herbstreet,9 Hanover Quay,406
-422,BrewDog Outpost Dublin,"Capital Dock, Grand Canal Dock",178
-423,Paulie's Pizza,58 Uppr Grand Canal St,736
-424,Juniors Deli & Cafe,2 Bath Ave,739
-425,Lotts & Co,7 S Lotts Rd,684
-426,Charlotte Quay,Charlotte Quay Dock,350
-427,The Old Spot,"14 Bath Avenue Sandymount, Sandymount, South",708
-428,Gertrude,"130 Pearse St, Grand Canal Dock",780
-429,Musashi,48 Hogan Pl,925
-430,FXB Grill @ Ryans,28 Parkgate St,133
-431,PHX Bistro,12 Ellis Quay,692
-432,Fish Shop,76 Benburb St,653
-433,L. Mulligan Grocer,18 Stoneybatter,716
-434,Arthur's Pub,28 Thomas St,860
-435,Grano,5 Norseman Court,722
-436,Thundercut Alley,"Thundercut Alley, Dublin, Dublin 7",853
-437,Sparks Bistro,"Smithfield Village, Unit 3, block C",943
-438,1837 Bar & Brasserie,St James's Gate,762
-439,Brewer's Dining Hall,St James's Gate,760
-440,Daddy's Café,538 South Circular Road,346
-441,1837 Bar & Brasserie,St James's Gate,953
-442,Brewer's Dining Hall,St James's Gate,962
-443,La Dolce Vita,758-760 S Circular Rd,574
-444,Daphne’s,,239
-445,Spice Village,,276
-446,Amber Grill,"451 S Circular Rd, Rialto",362
-447,Quiznos,James hospital,363
-448,Rialto Malaysian Chinese Takeaway,Rialto,380
-449,Tranquilo Restaurant,,431
-450,Bread 41,Pearse Street,233
-451,The Pig's Ear,4 Nassau St,407
-452,Avoca,11-13 Suffolk St,446
-453,The Bank,20 College Green,494
-454,The Brew Dock,1 Amiens St,518
-455,The Winding Stair,40 Lower Ormond Quay,612
-456,Bunsen,3 South Anne St,638
-457,Pichet,14-15 Trinity St,550
-458,The Pig & Heifer,"6 Guild Court, Amiens St",601
-459,Gallagher's Boxty House,20-21 Temple Bar,496
-460,Arthur's Pub,28 Thomas St,771
-461,PHX Bistro,12 Ellis Quay,970
-462,Fish Shop,76 Benburb St,975
-463,FXB Grill @ Ryans,28 Parkgate St,760
-464,1837 Bar & Brasserie,St James's Gate,421
-465,Lucky’s,79 Meath St,953
-466,Brewer's Dining Hall,St James's Gate,429
-467,Daddy's Café,538 South Circular Road,657
-468,Papa Mio's - Toni's Takeaway,93-95 Emmet Rd,114
-469,Quiznos,James hospital,231
-470,The Oarsman,8-10 Bridge St,238
-471,Paulie's Pizza,58 Uppr Grand Canal St,556
-472,Juniors Deli & Cafe,2 Bath Ave,554
-473,Lotts & Co,7 S Lotts Rd,494
-474,Herbstreet,9 Hanover Quay,510
-475,The Old Spot,"14 Bath Avenue Sandymount, Sandymount, South",514
-476,Urban Picnic Facebook,4 Grand Canal Square,682
-477,BrewDog Outpost Dublin,"Capital Dock, Grand Canal Dock",367
-478,Charlotte Quay,Charlotte Quay Dock,385
-479,The Art of Coffee,Grand Canal Quay,499
-480,Paulie's Pizza,58 Uppr Grand Canal St,460
-481,The Cellar Bar,"The Merrion Hotel, Uppr Merrion St",757
-482,Musashi,48 Hogan Pl,417
-483,Matt The Thresher,"31-32, Lower Pembroke St",687
-484,Fowl Play,45 Hogan Place,411
-485,FXB Steak & Seafood,1A Lwr Pembroke St,695
-486,Herbstreet,9 Hanover Quay,746
-487,Bondiola,50 Haddington Rd,376
-488,Etto,18 Merrion Row,828
-489,Angelina's,55 Percy Pl,413
-490,L. Mulligan Grocer,18 Stoneybatter,188
-491,PHX Bistro,12 Ellis Quay,397
-492,Grano,5 Norseman Court,130
-493,Fish Shop,76 Benburb St,367
-494,BoCo,57 Bolton St,653
-495,Cafe Oasis,King Street North,279
-496,The Black Sheep,61 Capel St,707
-497,Aobaba,46A Capel St,743
-498,Musashi Noodles & Sushi Bar,15 Capel St,847
-499,Arthur's Pub,28 Thomas St,801
-500,Midnight Express,Dorset St Uppr,220
-501,BoCo,57 Bolton St,615
-502,The Hop House (Kim Chi),160 Parnell St,644
-503,Kingfisher Restaurant,Parnell St,653
-504,The Black Sheep,61 Capel St,787
-505,The Bald Eagle,http://thebaldeagle.ie,831
-506,El Grito Mexican Taqueria,"20 Mountjoy Square East,",769
-507,Aobaba,46A Capel St,883
-508,The Church,Junction of Mary Street and Jervis Street,911
-509,Arisu,119 Capel St,873
-510,Paulie's Pizza,58 Uppr Grand Canal St,450
-511,Musashi,48 Hogan Pl,357
-512,The Cellar Bar,"The Merrion Hotel, Uppr Merrion St",813
-513,Herbstreet,9 Hanover Quay,594
-514,Fowl Play,45 Hogan Place,361
-515,Zakura Noodle & Sushi,7 Baggot St Uppr,673
-516,Matt The Thresher,"31-32, Lower Pembroke St",776
-517,FXB Steak & Seafood,1A Lwr Pembroke St,779
-518,Charlotte Quay,Charlotte Quay Dock,472
-519,Etto,18 Merrion Row,895
-520,El Grito Mexican Taqueria,"20 Mountjoy Square East,",348
-521,Wallace's Asti,"15 Russel St, Behan Square",392
-522,Shouk,40 Drumcondra Rd Lower,447
-523,The Hop House (Kim Chi),160 Parnell St,738
-524,Midnight Express,Dorset St Uppr,498
-525,The Bald Eagle,http://thebaldeagle.ie,892
-526,Kingfisher Restaurant,Parnell St,905
-527,Admiral Restaurant,1 Marlborough St,812
-528,One Society,Gardiner Street Lower,662
-529,The Parnell Heritage Pub & Grill,72-74 Parnell St,823
-530,Bunsen,3 South Anne St,127
-531,TANG by Yogism,23C Dawson St,178
-532,The Ivy Dublin,13-17 Dawson Street,17
-533,Xian Street Food,28 South Anne Street,121
-534,Featherblade,51 Dawson St,51
-535,The Pig's Ear,4 Nassau St,234
-536,Avoca,11-13 Suffolk St,271
-537,37 Dawson Street,37 Dawson St,87
-538,Cornucopia,19-20 Wicklow St,297
-539,Wilde Restaurant,"The Westbury Hotel, Balfe St",203
-540,La Dolce Vita,758-760 S Circular Rd,111
-541,Daddy's Café,538 South Circular Road,848
-542,Four Star Pizza,"645 S Circular Rd, Kilmainham",18
-543,New Land Chinese Takeaway,"740 S Circular Rd, Kilmainham",45
-544,Cinnamon Restaurant,"Inchicore Road, Kilmainham",182
-545,Good Luck Chinese Takeaway And Delivery,Emmet Road,186
-546,4 Corners Bar And Terrace,Hilton Dublin Kilmainham,246
-547,Papamio.ie,,400
-548,Toni's Take Away,93-95,409
-549,Hui Kee,52 Bulfin Rd,441
-550,Midnight Express,Dorset St Uppr,157
-551,El Grito Mexican Taqueria,"20 Mountjoy Square East,",442
-552,The Hop House (Kim Chi),160 Parnell St,479
-553,BoCo,57 Bolton St,777
-554,Kingfisher Restaurant,Parnell St,597
-555,Wallace's Asti,"15 Russel St, Behan Square",612
-556,The Black Sheep,61 Capel St,902
-557,Shouk,40 Drumcondra Rd Lower,784
-558,Aobaba,46A Capel St,983
-559,The Bald Eagle,http://thebaldeagle.ie,950
-560,The Cellar Bar,"The Merrion Hotel, Uppr Merrion St",283
-561,Matt The Thresher,"31-32, Lower Pembroke St",272
-562,FXB Steak & Seafood,1A Lwr Pembroke St,264
-563,The Pig's Ear,4 Nassau St,585
-564,Musashi,48 Hogan Pl,363
-565,TANG by Yogism,23C Dawson St,666
-566,Peploe's,16 St Stephen's Green,644
-567,Bunsen,3 South Anne St,810
-568,The Unicorn,12B Merrion Court,406
-569,Paulie's Pizza,58 Uppr Grand Canal St,935
-570,The Pig & Heifer,"6 Guild Court, Amiens St",154
-571,The Brew Dock,1 Amiens St,163
-572,Tang,"9a Abbey Street Lower, Dublin 1, Ireland",437
-573,The Winding Stair,40 Lower Ormond Quay,868
-574,Bread 41,Pearse Street,690
-575,Kingfisher Restaurant,Parnell St,689
-576,El Grito Mexican Taqueria,"20 Mountjoy Square East,",757
-577,The Bank,20 College Green,939
-578,Avoca,11-13 Suffolk St,954
-579,Govindas,83 Middle Abbey St,590
-580,The Cellar Bar,"The Merrion Hotel, Uppr Merrion St",232
-581,TANG by Yogism,23C Dawson St,264
-582,Peploe's,16 St Stephen's Green,229
-583,FXB Steak & Seafood,1A Lwr Pembroke St,276
-584,Matt The Thresher,"31-32, Lower Pembroke St",295
-585,Bunsen,3 South Anne St,457
-586,The Unicorn,12B Merrion Court,101
-587,Xian Street Food,28 South Anne Street,441
-588,The Pig's Ear,4 Nassau St,497
-589,Sophie's,33 Harcourt St,583
-590,Herbstreet,9 Hanover Quay,193
-591,Paulie's Pizza,58 Uppr Grand Canal St,654
-592,Charlotte Quay,Charlotte Quay Dock,123
-593,Musashi,48 Hogan Pl,453
-594,Fowl Play,45 Hogan Place,479
-595,The Oarsman,8-10 Bridge St,736
-596,Bread 41,Pearse Street,890
-597,BrewDog Outpost Dublin,"Capital Dock, Grand Canal Dock",600
-598,The Pig & Heifer,151 Pearse St,500
-599,Rocket's,"Unit B, North Wall Quay, IFSC District",640
-600,El Grito Mexican Taqueria,"20 Mountjoy Square East,",183
-601,The Hop House (Kim Chi),160 Parnell St,396
-602,Wallace's Asti,"15 Russel St, Behan Square",396
-603,Kingfisher Restaurant,Parnell St,601
-604,The Pig & Heifer,"6 Guild Court, Amiens St",809
-605,Midnight Express,Dorset St Uppr,426
-606,Il Capo,62 Talbot St,741
-607,The Brew Dock,1 Amiens St,856
-608,BoCo,57 Bolton St,937
-609,Shouk,40 Drumcondra Rd Lower,796
-610,The Pig's Ear,4 Nassau St,148
-611,Bunsen,3 South Anne St,214
-612,TANG by Yogism,23C Dawson St,229
-613,The Ivy Dublin,13-17 Dawson Street,81
-614,Xian Street Food,28 South Anne Street,208
-615,Avoca,11-13 Suffolk St,299
-616,Featherblade,51 Dawson St,98
-617,The Cellar Bar,"The Merrion Hotel, Uppr Merrion St",405
-618,37 Dawson Street,37 Dawson St,158
-619,Cornucopia,19-20 Wicklow St,352
-620,Paulie's Pizza,58 Uppr Grand Canal St,181
-621,Juniors Deli & Cafe,2 Bath Ave,212
-622,Lotts & Co,7 S Lotts Rd,229
-623,Herbstreet,9 Hanover Quay,668
-624,The Oarsman,8-10 Bridge St,705
-625,Zakura Noodle & Sushi,7 Baggot St Uppr,745
-626,Musashi,48 Hogan Pl,627
-627,L'Ecrivain Restaurant,109a Lower Baggot St,816
-628,Gertrude,"130 Pearse St, Grand Canal Dock",706
-629,Charlotte Quay,Charlotte Quay Dock,501
-630,Bunsen,36 Wexford St,415
-631,Drury Buildings,Drury St,311
-632,Bigfan Bao,,157
-633,Bunsen,3 South Anne St,512
-634,The Market Bar,14a Fade St,300
-635,Pichet,14-15 Trinity St,503
-636,Masa,2–3 Drury St,246
-637,Cornucopia,19-20 Wicklow St,480
-638,The Bank,20 College Green,562
-639,Xian Street Food,28 South Anne Street,520
-640,The Cellar Bar,"The Merrion Hotel, Uppr Merrion St",128
-641,The Pig's Ear,4 Nassau St,341
-642,FXB Steak & Seafood,1A Lwr Pembroke St,272
-643,TANG by Yogism,23C Dawson St,431
-644,Matt The Thresher,"31-32, Lower Pembroke St",301
-645,Bunsen,3 South Anne St,556
-646,The Unicorn,12B Merrion Court,244
-647,Xian Street Food,28 South Anne Street,544
-648,The Ivy Dublin,13-17 Dawson Street,445
-649,Avoca,11-13 Suffolk St,669
-650,FXB Grill @ Ryans,28 Parkgate St,760
-651,1837 Bar & Brasserie,St James's Gate,699
-652,Daddy's Café,538 South Circular Road,604
-653,Brewer's Dining Hall,St James's Gate,707
-654,La Dolce Vita,758-760 S Circular Rd,693
-655,Quiznos,James hospital,275
-656,Papa Mio's - Toni's Takeaway,93-95 Emmet Rd,285
-657,Cigerci Kenan Usta,,306
-658,Subway,"Unit 9, Heuston South Quarter",391
-659,Java Republic,"1 HSQ (8th floor), St John's Rd",427
-660,DiFontaine's Pizzeria,22 Parliament St,263
-661,Piglet,Cow's Ln,128
-662,Musashi Noodles & Sushi Bar,15 Capel St,420
-663,Bison Bar & BBQ,11 Wellington Quay,338
-664,Sano Pizza,1 Exchange Street Upper,174
-665,The Winding Stair,40 Lower Ormond Quay,552
-666,Pichet,14-15 Trinity St,530
-667,The Bank,20 College Green,578
-668,Drury Buildings,Drury St,474
-669,The Market Bar,14a Fade St,422
-670,FXB Grill @ Ryans,28 Parkgate St,166
-671,PHX Bistro,12 Ellis Quay,696
-672,Fish Shop,76 Benburb St,664
-673,Arthur's Pub,28 Thomas St,816
-674,L. Mulligan Grocer,18 Stoneybatter,779
-675,Thundercut Alley,"Thundercut Alley, Dublin, Dublin 7",886
-676,Grano,5 Norseman Court,776
-677,Sparks Bistro,"Smithfield Village, Unit 3, block C",970
-678,1837 Bar & Brasserie,St James's Gate,686
-679,Brewer's Dining Hall,St James's Gate,685
-680,The Bank,20 College Green,128
-681,Millstone Restaurant,39 Dame St,57
-682,Pho Ta,"Cope St, Temple Bar",68
-683,Pichet,14-15 Trinity St,112
-684,The Winding Stair,40 Lower Ormond Quay,223
-685,Gallagher's Boxty House,20-21 Temple Bar,145
-686,Avoca,11-13 Suffolk St,259
-687,The Quays,10-12 Temple Bar Sq,106
-688,Cornucopia,19-20 Wicklow St,213
-689,Bison Bar & BBQ,11 Wellington Quay,217
-690,Musashi Noodles & Sushi Bar,15 Capel St,320
-691,Arisu,119 Capel St,350
-692,The Black Sheep,61 Capel St,408
-693,PHX Bistro,12 Ellis Quay,568
-694,DiFontaine's Pizzeria,22 Parliament St,401
-695,The Church,Junction of Mary Street and Jervis Street,457
-696,Umi Falafel,13 Dame St,592
-697,Bison Bar & BBQ,11 Wellington Quay,468
-698,The Winding Stair,40 Lower Ormond Quay,610
-699,Fish Shop,76 Benburb St,602
-700,Pickle,Camden St,29
-701,Hang Dai Chinese,20 Camden Street,128
-702,Sophie's,33 Harcourt St,167
-703,Green Bench Cafe,18 Montague St,270
-704,Bunsen,36 Wexford St,350
-705,Las Tapas de Lola,12 Wexford St,310
-706,Richmond,S Richmond St,344
-707,Doolally,27th Richmond Street,284
-708,Morton's,"Mortons Station Building, Park Pl, Hatch St",211
-709,TANG by Yogism,23C Dawson St,772
-710,Forest Avenue,8 Sussex Terrace,112
-711,The Little Kitchen,129 Leeson Street Upper,234
-712,The Cellar Bar,"The Merrion Hotel, Uppr Merrion St",706
-713,Matt The Thresher,"31-32, Lower Pembroke St",522
-714,FXB Steak & Seafood,1A Lwr Pembroke St,550
-715,Host Restaurant,13 Ranelagh,743
-716,Hang Dai Chinese,20 Camden Street,873
-717,Sophie's,33 Harcourt St,789
-718,Green Bench Cafe,18 Montague St,877
-719,Kinara Kitchen,17 Ranelagh,751
-720,Forest Avenue,8 Sussex Terrace,318
-721,The Cellar Bar,"The Merrion Hotel, Uppr Merrion St",640
-722,Matt The Thresher,"31-32, Lower Pembroke St",440
-723,FXB Steak & Seafood,1A Lwr Pembroke St,472
-724,The Little Kitchen,129 Leeson Street Upper,418
-725,Saba,"22 Baggot Street Upper, Dublin 4",304
-726,Angelina's,55 Percy Pl,287
-727,Paulie's Pizza,58 Uppr Grand Canal St,990
-728,TANG by Yogism,23C Dawson St,950
-729,Peploe's,16 St Stephen's Green,917
-730,The Pig & Heifer,"6 Guild Court, Amiens St",316
-731,The Brew Dock,1 Amiens St,322
-732,Tang,"9a Abbey Street Lower, Dublin 1, Ireland",365
-733,Kingfisher Restaurant,Parnell St,531
-734,The Winding Stair,40 Lower Ormond Quay,782
-735,El Grito Mexican Taqueria,"20 Mountjoy Square East,",669
-736,Govindas,83 Middle Abbey St,499
-737,Admiral Restaurant,1 Marlborough St,259
-738,The Church,Junction of Mary Street and Jervis Street,823
-739,Bread 41,Pearse Street,777
-740,BoCo,57 Bolton St,603
-741,The Black Sheep,61 Capel St,795
-742,The Bald Eagle,http://thebaldeagle.ie,859
-743,Aobaba,46A Capel St,894
-744,L. Mulligan Grocer,18 Stoneybatter,819
-745,Midnight Express,Dorset St Uppr,577
-746,Arisu,119 Capel St,879
-747,Kingfisher Restaurant,Parnell St,864
-748,The Hop House (Kim Chi),160 Parnell St,934
-749,The Church,Junction of Mary Street and Jervis Street,973
-750,The Bald Eagle,http://thebaldeagle.ie,799
-751,L. Mulligan Grocer,18 Stoneybatter,892
-752,Grano,5 Norseman Court,959
-753,Bang Bang,59a Leinster Street North,697
-754,Camile Thai,143a Phibsborough Rd,637
-755,The Whitworth,Cross Guns Bridge,770
-756,Eddie Rocket's,"Phibsborough Shopping Centre, Phisborough",615
-757,McDonald's,144 Phibsborough Rd,621
-758,Fish Bar,Cabra Rd,301
-759,Marvelous Veggie,"13A, Phibsborough",370
-760,Herbstreet,9 Hanover Quay,429
-761,Bread 41,Pearse Street,550
-762,The Brew Dock,1 Amiens St,666
-763,The Pig & Heifer,"6 Guild Court, Amiens St",705
-764,Musashi,48 Hogan Pl,557
-765,Rocket's,"Unit B, North Wall Quay, IFSC District",181
-766,The Vintage Kitchen,7 Poolbeg St,813
-767,Il Capo,62 Talbot St,774
-768,The Pig's Ear,4 Nassau St,865
-769,The Pig & Heifer,151 Pearse St,343
-770,Midnight Express,Dorset St Uppr,79
-771,The Hop House (Kim Chi),160 Parnell St,367
-772,BoCo,57 Bolton St,590
-773,Kingfisher Restaurant,Parnell St,430
-774,El Grito Mexican Taqueria,"20 Mountjoy Square East,",563
-775,The Black Sheep,61 Capel St,710
-776,Aobaba,46A Capel St,792
-777,The Church,Junction of Mary Street and Jervis Street,778
-778,Arisu,119 Capel St,787
-779,Musashi Noodles & Sushi Bar,15 Capel St,976
-780,The Cellar Bar,"The Merrion Hotel, Uppr Merrion St",591
-781,Matt The Thresher,"31-32, Lower Pembroke St",440
-782,FXB Steak & Seafood,1A Lwr Pembroke St,461
-783,Paulie's Pizza,58 Uppr Grand Canal St,737
-784,Angelina's,55 Percy Pl,144
-785,Forest Avenue,8 Sussex Terrace,616
-786,Saba,"22 Baggot Street Upper, Dublin 4",266
-787,Musashi,48 Hogan Pl,594
-788,TANG by Yogism,23C Dawson St,966
-789,Peploe's,16 St Stephen's Green,937
-790,The Pig & Heifer,"6 Guild Court, Amiens St",296
-791,Il Capo,62 Talbot St,293
-792,The Brew Dock,1 Amiens St,380
-793,Da Mimmo,148 North Strand Rd,616
-794,El Grito Mexican Taqueria,"20 Mountjoy Square East,",663
-795,The Hop House (Kim Chi),160 Parnell St,760
-796,The Vintage Kitchen,7 Poolbeg St,827
-797,Wallace's Asti,"15 Russel St, Behan Square",711
-798,Bread 41,Pearse Street,958
-799,Kingfisher Restaurant,Parnell St,943
-800,El Grito Mexican Taqueria,"20 Mountjoy Square East,",291
-801,Wallace's Asti,"15 Russel St, Behan Square",407
-802,The Hop House (Kim Chi),160 Parnell St,606
-803,Shouk,40 Drumcondra Rd Lower,579
-804,Midnight Express,Dorset St Uppr,389
-805,Kingfisher Restaurant,Parnell St,772
-806,The Bald Eagle,http://thebaldeagle.ie,955
-807,Il Capo,62 Talbot St,1013
-808,Admiral Restaurant,1 Marlborough St,685
-809,One Society,Gardiner Street Lower,551
-810,PHX Bistro,12 Ellis Quay,376
-811,Fish Shop,76 Benburb St,362
-812,L. Mulligan Grocer,18 Stoneybatter,310
-813,Grano,5 Norseman Court,244
-814,Cafe Oasis,King Street North,180
-815,BoCo,57 Bolton St,577
-816,The Black Sheep,61 Capel St,606
-817,Aobaba,46A Capel St,632
-818,Musashi Noodles & Sushi Bar,15 Capel St,726
-819,Sparks Bistro,"Smithfield Village, Unit 3, block C",125
-820,La Dolce Vita,758-760 S Circular Rd,165
-821,Daddy's Café,538 South Circular Road,1038
-822,4 Corners Bar And Terrace,Hilton Dublin Kilmainham,104
-823,Cinnamon Restaurant,"Inchicore Road, Kilmainham",122
-824,Good Luck Chinese Takeaway And Delivery,Emmet Road,163
-825,Four Star Pizza,"645 S Circular Rd, Kilmainham",204
-826,New Land Chinese Takeaway,"740 S Circular Rd, Kilmainham",220
-827,Papamio.ie,,319
-828,Toni's Take Away,93-95,349
-829,Indian Curry Club,"Emmett Rd, Inchicore",362
-830,The Bald Eagle,http://thebaldeagle.ie,634
-831,Chapter One Restaurant,18-19 Parnell Sq,638
-832,El Grito Mexican Taqueria,"20 Mountjoy Square East,",614
-833,Shouk,40 Drumcondra Rd Lower,580
-834,Midnight Express,Dorset St Uppr,429
-835,Wallace's Asti,"15 Russel St, Behan Square",691
-836,The Hop House (Kim Chi),160 Parnell St,821
-837,Kingfisher Restaurant,Parnell St,928
-838,Admiral Restaurant,1 Marlborough St,932
-839,Mr. Fox,38 Parnell Square W,780
-840,Herbstreet,9 Hanover Quay,373
-841,BrewDog Outpost Dublin,"Capital Dock, Grand Canal Dock",352
-842,The Oarsman,8-10 Bridge St,767
-843,Musashi,Lwr Mayor St,638
-844,Gertrude,"130 Pearse St, Grand Canal Dock",723
-845,Charlotte Quay,Charlotte Quay Dock,497
-846,Seven Wonders,"Excise Walk, IFSC",617
-847,Ryleigh’s,81-82 North Wall Quay,160
-848,Musashi,48 Hogan Pl,956
-849,Salsa Authentic Mexican Food & Bar,"Unit 3, Custom House Square, Mayor Street Lower",633
-850,Musashi,48 Hogan Pl,118
-851,The Cellar Bar,"The Merrion Hotel, Uppr Merrion St",506
-852,The Pig's Ear,4 Nassau St,556
-853,Bread 41,Pearse Street,497
-854,Matt The Thresher,"31-32, Lower Pembroke St",590
-855,FXB Steak & Seafood,1A Lwr Pembroke St,574
-856,The Pig & Heifer,151 Pearse St,215
-857,TANG by Yogism,23C Dawson St,804
-858,Mama's Revenge,12 S Leinster St,481
-859,Paulie's Pizza,58 Uppr Grand Canal St,922
-860,Musashi Noodles & Sushi Bar,15 Capel St,101
-861,DiFontaine's Pizzeria,22 Parliament St,98
-862,Bison Bar & BBQ,11 Wellington Quay,130
-863,The Winding Stair,40 Lower Ormond Quay,286
-864,The Church,Junction of Mary Street and Jervis Street,295
-865,Arisu,119 Capel St,324
-866,The Black Sheep,61 Capel St,411
-867,Pho Ta,"Cope St, Temple Bar",380
-868,Piglet,Cow's Ln,211
-869,The Bank,20 College Green,474
-870,Arthur's Pub,28 Thomas St,116
-871,PHX Bistro,12 Ellis Quay,332
-872,Fish Shop,76 Benburb St,384
-873,Musashi Noodles & Sushi Bar,15 Capel St,889
-874,Umi Falafel,13 Dame St,993
-875,Lucky’s,79 Meath St,278
-876,L. Mulligan Grocer,18 Stoneybatter,795
-877,Aobaba,46A Capel St,955
-878,DiFontaine's Pizzeria,22 Parliament St,869
-879,Grano,5 Norseman Court,719
-880,PHX Bistro,12 Ellis Quay,219
-881,Fish Shop,76 Benburb St,176
-882,L. Mulligan Grocer,18 Stoneybatter,245
-883,Grano,5 Norseman Court,170
-884,Arthur's Pub,28 Thomas St,631
-885,BoCo,57 Bolton St,820
-886,Cafe Oasis,King Street North,422
-887,Musashi Noodles & Sushi Bar,15 Capel St,917
-888,Aobaba,46A Capel St,855
-889,The Black Sheep,61 Capel St,840
-890,Sophie's,33 Harcourt St,296
-891,Bunsen,36 Wexford St,337
-892,TANG by Yogism,23C Dawson St,317
-893,Peploe's,16 St Stephen's Green,298
-894,Bunsen,3 South Anne St,451
-895,The Cellar Bar,"The Merrion Hotel, Uppr Merrion St",542
-896,Pickle,Camden St,459
-897,Xian Street Food,28 South Anne Street,438
-898,Wilde Restaurant,"The Westbury Hotel, Balfe St",467
-899,Drury Buildings,Drury St,561
-900,PHX Bistro,12 Ellis Quay,255
-901,Fish Shop,76 Benburb St,215
-902,Arthur's Pub,28 Thomas St,538
-903,L. Mulligan Grocer,18 Stoneybatter,436
-904,Thundercut Alley,"Thundercut Alley, Dublin, Dublin 7",445
-905,Grano,5 Norseman Court,396
-906,FXB Grill @ Ryans,28 Parkgate St,571
-907,Cafe Oasis,King Street North,698
-908,Sparks Bistro,"Smithfield Village, Unit 3, block C",519
-909,Lucky’s,79 Meath St,781
-910,Bunsen,36 Wexford St,245
-911,Sophie's,33 Harcourt St,278
-912,TANG by Yogism,23C Dawson St,337
-913,Peploe's,16 St Stephen's Green,328
-914,Bunsen,3 South Anne St,429
-915,Pickle,Camden St,440
-916,Xian Street Food,28 South Anne Street,419
-917,The Cellar Bar,"The Merrion Hotel, Uppr Merrion St",620
-918,Wilde Restaurant,"The Westbury Hotel, Balfe St",428
-919,Drury Buildings,Drury St,498
-920,Kingfisher Restaurant,Parnell St,189
-921,BoCo,57 Bolton St,635
-922,The Winding Stair,40 Lower Ormond Quay,653
-923,The Church,Junction of Mary Street and Jervis Street,568
-924,Admiral Restaurant,1 Marlborough St,112
-925,The Pig & Heifer,"6 Guild Court, Amiens St",674
-926,Tang,"9a Abbey Street Lower, Dublin 1, Ireland",405
-927,The Black Sheep,61 Capel St,627
-928,Aobaba,46A Capel St,657
-929,The Brew Dock,1 Amiens St,672
-930,The Brew Dock,1 Amiens St,312
-931,The Pig & Heifer,"6 Guild Court, Amiens St",385
-932,Tang,"9a Abbey Street Lower, Dublin 1, Ireland",250
-933,Bread 41,Pearse Street,434
-934,The Winding Stair,40 Lower Ormond Quay,633
-935,Avoca,11-13 Suffolk St,638
-936,The Bank,20 College Green,638
-937,Gallagher's Boxty House,20-21 Temple Bar,571
-938,The Pig's Ear,4 Nassau St,669
-939,Govindas,83 Middle Abbey St,398
-940,Herbstreet,9 Hanover Quay,454
-941,The Pig & Heifer,"6 Guild Court, Amiens St",717
-942,The Brew Dock,1 Amiens St,709
-943,Rocket's,"Unit B, North Wall Quay, IFSC District",169
-944,Il Capo,62 Talbot St,791
-945,Bread 41,Pearse Street,789
-946,Salsa Authentic Mexican Food & Bar,"Unit 3, Custom House Square, Mayor Street Lower",261
-947,Drunken Fish,Lwr Mayor St,282
-948,The Vintage Kitchen,7 Poolbeg St,988
-949,Musashi,48 Hogan Pl,807
-950,Bunsen,36 Wexford St,145
-951,Las Tapas de Lola,12 Wexford St,173
-952,Hang Dai Chinese,20 Camden Street,332
-953,Sophie's,33 Harcourt St,392
-954,Pickle,Camden St,454
-955,Bunsen,3 South Anne St,634
-956,Bigfan Bao,,316
-957,Umi Falafel,13 Dame St,698
-958,TANG by Yogism,23C Dawson St,647
-959,Drury Buildings,Drury St,540
-960,Pichet,14-15 Trinity St,132
-961,Cornucopia,19-20 Wicklow St,136
-962,The Bank,20 College Green,191
-963,Drury Buildings,Drury St,127
-964,The Market Bar,14a Fade St,83
-965,Millstone Restaurant,39 Dame St,150
-966,Avoca,11-13 Suffolk St,246
-967,Bunsen,3 South Anne St,312
-968,The Winding Stair,40 Lower Ormond Quay,396
-969,Xian Street Food,28 South Anne Street,328
-970,Sophie's,33 Harcourt St,233
-971,Hang Dai Chinese,20 Camden Street,313
-972,Green Bench Cafe,18 Montague St,346
-973,Pickle,Camden St,288
-974,Bunsen,36 Wexford St,487
-975,Las Tapas de Lola,12 Wexford St,451
-976,Richmond,S Richmond St,422
-977,Morton's,"Mortons Station Building, Park Pl, Hatch St",132
-978,TANG by Yogism,23C Dawson St,646
-979,Doolally,27th Richmond Street,381
-980,The Church,Junction of Mary Street and Jervis Street,34
-981,Musashi Noodles & Sushi Bar,15 Capel St,178
-982,The Winding Stair,40 Lower Ormond Quay,268
-983,Arisu,119 Capel St,168
-984,The Black Sheep,61 Capel St,223
-985,Oriental Emporium,"Uppr Abby Street, Dublin 1",126
-986,Bison Bar & BBQ,11 Wellington Quay,320
-987,DiFontaine's Pizzeria,22 Parliament St,349
-988,Takara,,186
-989,Gallagher's Boxty House,20-21 Temple Bar,422
-990,The Bald Eagle,http://thebaldeagle.ie,537
-991,BoCo,57 Bolton St,878
-992,Midnight Express,Dorset St Uppr,471
-993,The Hop House (Kim Chi),160 Parnell St,917
-994,El Grito Mexican Taqueria,"20 Mountjoy Square East,",897
-995,Shouk,40 Drumcondra Rd Lower,892
-996,Kingfisher Restaurant,Parnell St,946
-997,The Parnell Heritage Pub & Grill,72-74 Parnell St,925
-998,Charming Noodles,105 Parnell St,973
-999,McDonald's,"Ilac Shopping Centre,",986
-1000,FXB Grill @ Ryans,28 Parkgate St,523
-1001,1837 Bar & Brasserie,St James's Gate,727
-1002,Brewer's Dining Hall,St James's Gate,733
-1003,Daddy's Café,538 South Circular Road,854
-1004,La Dolce Vita,758-760 S Circular Rd,744
-1005,Cigerci Kenan Usta,,77
-1006,Subway,"Unit 9, Heuston South Quarter",140
-1007,Java Republic,"1 HSQ (8th floor), St John's Rd",178
-1008,Papa Mio's - Toni's Takeaway,93-95 Emmet Rd,313
-1009,Sbarro Pizza,,371
-1010,The Church,Junction of Mary Street and Jervis Street,57
-1011,The Black Sheep,61 Capel St,141
-1012,Arisu,119 Capel St,99
-1013,Musashi Noodles & Sushi Bar,15 Capel St,216
-1014,The Winding Stair,40 Lower Ormond Quay,351
-1015,Oriental Emporium,"Uppr Abby Street, Dublin 1",208
-1016,Bison Bar & BBQ,11 Wellington Quay,390
-1017,DiFontaine's Pizzeria,22 Parliament St,408
-1018,Kingfisher Restaurant,Parnell St,416
-1019,Takara,,259
-1020,Arthur's Pub,28 Thomas St,405
-1021,PHX Bistro,12 Ellis Quay,646
-1022,Fish Shop,76 Benburb St,663
-1023,1837 Bar & Brasserie,St James's Gate,84
-1024,FXB Grill @ Ryans,28 Parkgate St,770
-1025,Thundercut Alley,"Thundercut Alley, Dublin, Dublin 7",940
-1026,Lucky’s,79 Meath St,606
-1027,Brewer's Dining Hall,St James's Gate,87
-1028,Sparks Bistro,"Smithfield Village, Unit 3, block C",958
-1029,Boojum,Smithfield Market,893
-1030,Herbstreet,9 Hanover Quay,352
-1031,The Pig & Heifer,"6 Guild Court, Amiens St",884
-1032,Seven Wonders,"Excise Walk, IFSC",367
-1033,The Brew Dock,1 Amiens St,878
-1034,Gertrude,"130 Pearse St, Grand Canal Dock",571
-1035,Bread 41,Pearse Street,916
-1036,Rocket's,"Unit B, North Wall Quay, IFSC District",327
-1037,BrewDog Outpost Dublin,"Capital Dock, Grand Canal Dock",583
-1038,Salsa Authentic Mexican Food & Bar,"Unit 3, Custom House Square, Mayor Street Lower",407
-1039,Charlotte Quay,Charlotte Quay Dock,524
-1040,Richmond,S Richmond St,248
-1041,Pickle,Camden St,475
-1042,Doolally,27th Richmond Street,273
-1043,Hang Dai Chinese,20 Camden Street,608
-1044,Sophie's,33 Harcourt St,637
-1045,Green Bench Cafe,18 Montague St,751
-1046,Bunsen,36 Wexford St,813
-1047,Aoki,Unit 4 Richmond View,310
-1048,Las Tapas de Lola,12 Wexford St,777
-1049,Zaytoon,44-55 Lwr Camden St,468
-1050,Wallace's Asti,"15 Russel St, Behan Square",231
-1051,El Grito Mexican Taqueria,"20 Mountjoy Square East,",336
-1052,Da Mimmo,148 North Strand Rd,580
-1053,The Pig & Heifer,"6 Guild Court, Amiens St",787
-1054,Il Capo,62 Talbot St,751
-1055,The Brew Dock,1 Amiens St,865
-1056,The Hop House (Kim Chi),160 Parnell St,815
-1057,Shouk,40 Drumcondra Rd Lower,769
-1058,Midnight Express,Dorset St Uppr,912
-1059,Admiral Restaurant,1 Marlborough St,778
-1060,The Hop House (Kim Chi),160 Parnell St,295
-1061,El Grito Mexican Taqueria,"20 Mountjoy Square East,",378
-1062,Midnight Express,Dorset St Uppr,245
-1063,Kingfisher Restaurant,Parnell St,455
-1064,BoCo,57 Bolton St,743
-1065,Wallace's Asti,"15 Russel St, Behan Square",584
-1066,The Pig & Heifer,"6 Guild Court, Amiens St",893
-1067,The Black Sheep,61 Capel St,829
-1068,Aobaba,46A Capel St,897
-1069,The Church,Junction of Mary Street and Jervis Street,854
-1070,FXB Grill @ Ryans,28 Parkgate St,271
-1071,Fish Shop,76 Benburb St,990
-1072,1837 Bar & Brasserie,St James's Gate,863
-1073,Brewer's Dining Hall,St James's Gate,865
-1074,Daddy's Café,538 South Circular Road,1155
-1075,La Dolce Vita,758-760 S Circular Rd,898
-1076,Java Republic,"1 HSQ (8th floor), St John's Rd",127
-1077,Subway,"Unit 9, Heuston South Quarter",160
-1078,Giannis Take Away,40 Parkgate St,196
-1079,Romayo's,40 Parkgate St,205
-1080,Angelina's,55 Percy Pl,84
-1081,Forest Avenue,8 Sussex Terrace,512
-1082,The Cellar Bar,"The Merrion Hotel, Uppr Merrion St",681
-1083,Saba,"22 Baggot Street Upper, Dublin 4",152
-1084,Matt The Thresher,"31-32, Lower Pembroke St",503
-1085,FXB Steak & Seafood,1A Lwr Pembroke St,530
-1086,Paulie's Pizza,58 Uppr Grand Canal St,787
-1087,Bondiola,50 Haddington Rd,202
-1088,Coppa,15 Ely Place,669
-1089,Etto,18 Merrion Row,693
-1090,The Bald Eagle,http://thebaldeagle.ie,859
-1091,L. Mulligan Grocer,18 Stoneybatter,909
-1092,Grano,5 Norseman Court,980
-1093,Bang Bang,59a Leinster Street North,731
-1094,Camile Thai,143a Phibsborough Rd,711
-1095,The Whitworth,Cross Guns Bridge,820
-1096,Fish Bar,Cabra Rd,234
-1097,Domino's Pizza - Dublin - Cabra,101a Cabra Rd,291
-1098,Rainbow,,298
-1099,Eddie Rocket's,"Phibsborough Shopping Centre, Phisborough",684
-1100,Arthur's Pub,28 Thomas St,380
-1101,PHX Bistro,12 Ellis Quay,539
-1102,Fish Shop,76 Benburb St,550
-1103,FXB Grill @ Ryans,28 Parkgate St,674
-1104,Thundercut Alley,"Thundercut Alley, Dublin, Dublin 7",830
-1105,L. Mulligan Grocer,18 Stoneybatter,903
-1106,1837 Bar & Brasserie,St James's Gate,186
-1107,Grano,5 Norseman Court,854
-1108,Lucky’s,79 Meath St,618
-1109,Sparks Bistro,"Smithfield Village, Unit 3, block C",858
-1110,Bread 41,Pearse Street,298
-1111,The Brew Dock,1 Amiens St,597
-1112,The Pig's Ear,4 Nassau St,613
-1113,The Pig & Heifer,"6 Guild Court, Amiens St",660
-1114,The Cellar Bar,"The Merrion Hotel, Uppr Merrion St",812
-1115,Musashi,48 Hogan Pl,479
-1116,The Pig & Heifer,151 Pearse St,217
-1117,Avoca,11-13 Suffolk St,869
-1118,Bunsen,3 South Anne St,964
-1119,Mama's Revenge,12 S Leinster St,575
-1120,The Brew Dock,1 Amiens St,311
-1121,The Pig & Heifer,"6 Guild Court, Amiens St",364
-1122,Bread 41,Pearse Street,415
-1123,Il Capo,62 Talbot St,426
-1124,The Vintage Kitchen,7 Poolbeg St,520
-1125,The Pig's Ear,4 Nassau St,776
-1126,Avoca,11-13 Suffolk St,928
-1127,Drunken Fish,Lwr Mayor St,286
-1128,Herbstreet,9 Hanover Quay,788
-1129,The Bank,20 College Green,980
-1130,Herbstreet,9 Hanover Quay,46
-1131,Charlotte Quay,Charlotte Quay Dock,144
-1132,Paulie's Pizza,58 Uppr Grand Canal St,779
-1133,Gertrude,"130 Pearse St, Grand Canal Dock",432
-1134,Lotts & Co,7 S Lotts Rd,763
-1135,The Oarsman,8-10 Bridge St,683
-1136,Musashi,48 Hogan Pl,621
-1137,BrewDog Outpost Dublin,"Capital Dock, Grand Canal Dock",445
-1138,Bread 41,Pearse Street,962
-1139,Fowl Play,45 Hogan Place,648
-1140,Da Mimmo,148 North Strand Rd,416
-1141,The Pig & Heifer,"6 Guild Court, Amiens St",495
-1142,The Brew Dock,1 Amiens St,578
-1143,Il Capo,62 Talbot St,497
-1144,El Grito Mexican Taqueria,"20 Mountjoy Square East,",662
-1145,Wallace's Asti,"15 Russel St, Behan Square",647
-1146,The Hop House (Kim Chi),160 Parnell St,899
-1147,Tang,"9a Abbey Street Lower, Dublin 1, Ireland",985
-1148,Drunken Fish,Lwr Mayor St,646
-1149,Admiral Restaurant,1 Marlborough St,797
+,name,address,distance,bike_lat,bike_lon
+0,La Pausa Caffe,2b Blessington St,300,53.354929,-6.269425
+1,Bookafé,101 Dorset Street Upper Perto da Parnell St,240,53.354929,-6.269425
+2,Jay's Café Broadstone,"No 42 Dominick Street Upper, Broadstone, Dublin, D07C5P6",183,53.354929,-6.269425
+3,Delisuz,58A Blessington St,213,53.354929,-6.269425
+4,Deli Suz,Blessington St.,266,53.354929,-6.269425
+5,Vice Coffee Inc.,54 Middle Abbey St,181,53.349013,-6.260311
+6,Starbucks,8 N Earl St,139,53.349013,-6.260311
+7,Starbucks,39 Henry St,108,53.349013,-6.260311
+8,Wigwam,54 Middle Abbey St,183,53.349013,-6.260311
+9,Esquires Coffee,16 O'Connell Street Lower,214,53.349013,-6.260311
+10,Starbucks,22-23 Liffey Street Lower,268,53.349013,-6.260311
+11,Insomnia,O'Connell St,73,53.349013,-6.260311
+12,Starbucks,32 Lower O'Connell St,80,53.349013,-6.260311
+13,Starbucks,56 O'Connell St,165,53.349013,-6.260311
+14,The Sweetest Thing,Bachelor's Walk,224,53.349013,-6.260311
+15,McCafé,68 O'Connell St,133,53.349013,-6.260311
+16,The Bagel Bar,Upper Liffey St,257,53.349013,-6.260311
+17,Caffè Nero,9 O'Connell St,115,53.349013,-6.260311
+18,Starbucks,George's Quay,347,53.349013,-6.260311
+19,Starbucks,10-12 Westmoreland St,334,53.349013,-6.260311
+20,Muse Café,40 O'Connell St,44,53.349013,-6.260311
+21,Barnie's Coffee,,41,53.349013,-6.260311
+22,Cafe Crema,Middle Abbey St,74,53.349013,-6.260311
+23,Art of coffee,G.P.O Arcade,81,53.349013,-6.260311
+24,Insomnia,63-64 O'Connell St,92,53.349013,-6.260311
+25,Starbucks,Ilac Shopping Centre,272,53.349013,-6.260311
+26,Neighbourhood Coffee,,148,53.349013,-6.260311
+27,Nbhd Coffee,55 Abbey Street Middle,199,53.349013,-6.260311
+28,Nespresso,,200,53.349013,-6.260311
+29,Londis / Indulge,O'Connell St,108,53.349013,-6.260311
+30,Le Centre-Ville,,207,53.349013,-6.260311
+31,LikeaCoffee,1-31 Bachelors Walk,211,53.349013,-6.260311
+32,Bakers + Baristas,Moore Street,237,53.349013,-6.260311
+33,Ann's Bakery - Moore Street,"Unit 77 ilac centre, Dublin, 00000",241,53.349013,-6.260311
+34,H&T Coffee,23 Liffey Street Upper,245,53.349013,-6.260311
+35,Central Brew Coffee,,254,53.349013,-6.260311
+36,Café Sol,"Unit 51/53 Moore Mall, Ilac Centre",255,53.349013,-6.260311
+37,Benoit's Chocolate Factory,,261,53.349013,-6.260311
+38,Frank And Honest Gourmet Coffee Company,14-18 Aston Quay,271,53.349013,-6.260311
+39,Insomnia,20 Liffey St,272,53.349013,-6.260311
+40,Brother Hubbard,Arnotts,276,53.349013,-6.260311
+41,Copper + Straw,Aston Quay,279,53.349013,-6.260311
+42,Loops & Coffee,,289,53.349013,-6.260311
+43,Hür Kıraathane,,292,53.349013,-6.260311
+44,the wooden wish,,294,53.349013,-6.260311
+45,Julius Meinl,,300,53.349013,-6.260311
+46,Maui Wowi,,302,53.349013,-6.260311
+47,Insomnia,,309,53.349013,-6.260311
+48,West Coast Coffee,D'Olier St,309,53.349013,-6.260311
+49,Ninth Degree Coffee Roasters,28 Westmoreland Street,310,53.349013,-6.260311
+50,Gas Café,,330,53.349013,-6.260311
+51,Frank and Honest Gourmet Coffee,"Centra, Parnell St",333,53.349013,-6.260311
+52,Coffeeangel,27 Pembroke Street Lower,106,53.336074,-6.252825
+53,Caffè Nero,5 Merrion Row,277,53.336074,-6.252825
+54,Starbucks,62 Lower Leeson St,302,53.336074,-6.252825
+55,Cafe Boulevard,Lower Baggot St,183,53.336074,-6.252825
+56,Munchies,146A Lwr Baggot St,235,53.336074,-6.252825
+57,Olive Green Espresso Bar,Lwr Baggot St,323,53.336074,-6.252825
+58,KC Peaches,Merrion Row,334,53.336074,-6.252825
+59,Café Sol,33 Hatch St Lwr,274,53.336074,-6.252825
+60,Bear Market Coffee,1A Pembroke Street Lower,132,53.336074,-6.252825
+61,Doppio Zero,Pembroke Street Lower,177,53.336074,-6.252825
+62,Insomnia,1a Lwr Pembroke St,177,53.336074,-6.252825
+63,Coffeeangel,19 Merrion Row,236,53.336074,-6.252825
+64,West Coast Coffee,Lwr Baggot St,256,53.336074,-6.252825
+65,Mister Magpie,,290,53.336074,-6.252825
+66,Brew Town,,300,53.336074,-6.252825
+67,LinkedIn Barista,,313,53.336074,-6.252825
+68,Insomnia,1a Earlsfort Terrace,321,53.336074,-6.252825
+69,Blas Cafe,26 Kings Inn St,169,53.351182,-6.269859
+70,Pulido's Coffee & Bakery,22 Moore St,23,53.351182,-6.269859
+71,The Coffee Bean,64 Mary St,302,53.351182,-6.269859
+72,The Grumpy Mule,,99,53.351182,-6.269859
+73,Esquires Coffee,61 Mary St.,303,53.351182,-6.269859
+74,Arran St East,1 Little Green St,320,53.351182,-6.269859
+75,Mocha Beans,,329,53.351182,-6.269859
+76,Urbanity,"The Glass House, 11 Coke Ln",110,53.347692,-6.278214
+77,Proper Order Coffee Co.,New Church Street,96,53.347692,-6.278214
+78,Cinnamon Café,Smithfield Market,78,53.347692,-6.278214
+79,Costa Coffee,Arran Quay,78,53.347692,-6.278214
+80,Starbucks,18-21 Saint-Stephen's Green,32,53.347692,-6.278214
+81,Proper Cup Coffee Co,,33,53.347692,-6.278214
+82,Lavazza,,78,53.347692,-6.278214
+83,Doughnuts and Coffee,,94,53.347692,-6.278214
+84,Insomnia,14-17 Ellis Quay,278,53.347692,-6.278214
+85,Insomnia,,154,53.347692,-6.278214
+86,Copper + Straw,1 Arran Quay,251,53.347692,-6.278214
+87,Butlers Chocolate Café,51a Grafton St,166,53.338755,-6.262003
+88,Clement & Pekoe,50 S William St,319,53.338755,-6.262003
+89,Coffeeangel,16 Anne Street South,336,53.338755,-6.262003
+90,Network,39 Aungier Street,255,53.338755,-6.262003
+91,Dublin Barista School,19a Anne St S,320,53.338755,-6.262003
+92,Beanhive,26 Dawson St,246,53.338755,-6.262003
+93,Caffè Nero,51-52 S King St,163,53.338755,-6.262003
+94,The Bald Barista,55 Aungier St,309,53.338755,-6.262003
+95,Joe's Coffee,Montague St,262,53.338755,-6.262003
+96,Caffè Nero,Dawson St Dublin 2,251,53.338755,-6.262003
+97,Starbucks,Aungier St,285,53.338755,-6.262003
+98,Starbucks,,156,53.338755,-6.262003
+99,La Croissanterie,St Stephens Green Shopping Centre,147,53.338755,-6.262003
+100,The Bald Barista,St Stephens Green,94,53.338755,-6.262003
+101,Costa Coffee,Aungier St,283,53.338755,-6.262003
+102,Starbucks,3 Chatham St,238,53.338755,-6.262003
+103,Insomnia,4 St Stephens Green,170,53.338755,-6.262003
+104,Dawson Blend,,61,53.338755,-6.262003
+105,Remedy,Royal College Of Surgeons Ireland,81,53.338755,-6.262003
+106,Vandals,,120,53.338755,-6.262003
+107,Cafe Kylemore,St Stephen's Green Centre,146,53.338755,-6.262003
+108,Imsonia,,258,53.338755,-6.262003
+109,The Bean Box Coffee Shop,,283,53.338755,-6.262003
+110,Brew Lab,,286,53.338755,-6.262003
+111,Pinecone Coffe,,307,53.338755,-6.262003
+112,Fuji Tea And Coffee,3 Kevin Street Lower,310,53.338755,-6.262003
+113,Java City,DIT Aungier St,325,53.338755,-6.262003
+114,Two Faced,2 Montague Street,326,53.338755,-6.262003
+115,Clement & Pekoe,50 S William St,76,53.340927,-6.262501
+116,Butlers Chocolate Café,51a Grafton St,149,53.340927,-6.262501
+117,Kaph,31 Drury St,188,53.340927,-6.262501
+118,Murphy's Ice Cream,27 Wicklow St,234,53.340927,-6.262501
+119,Fallon & Byrne Food Store,11-17 Exchequer St,243,53.340927,-6.262501
+120,Coffeeangel,16 Anne Street South,247,53.340927,-6.262501
+121,Sasha House Petite,Drury St Carpark,129,53.340927,-6.262501
+122,Nespresso,Duke St,227,53.340927,-6.262501
+123,Dublin Barista School,19a Anne St S,249,53.340927,-6.262501
+124,Network,39 Aungier Street,330,53.340927,-6.262501
+125,Caffè Nero,51-52 S King St,115,53.340927,-6.262501
+126,The Bald Barista,55 Aungier St,213,53.340927,-6.262501
+127,Beanhive,26 Dawson St,278,53.340927,-6.262501
+128,Butlers Chocolate Café,24 Wicklow St,234,53.340927,-6.262501
+129,Caffè Nero,Dawson St Dublin 2,259,53.340927,-6.262501
+130,Krüst Bakery,6 S George's St,327,53.340927,-6.262501
+131,Starbucks,Aungier St,290,53.340927,-6.262501
+132,La Croissanterie,St Stephens Green Shopping Centre,97,53.340927,-6.262501
+133,Starbucks,3 Chatham St,72,53.340927,-6.262501
+134,Starbucks,,132,53.340927,-6.262501
+135,Starbucks,56-58 Drury St,136,53.340927,-6.262501
+136,Nespresso Boutique,Grafton St,241,53.340927,-6.262501
+137,McCafé,Grafton St,282,53.340927,-6.262501
+138,The Bald Barista,St Stephens Green,193,53.340927,-6.262501
+139,Insomnia,4 St Stephens Green,181,53.340927,-6.262501
+140,Imsonia,,35,53.340927,-6.262501
+141,Pinecone Coffe,,63,53.340927,-6.262501
+142,ku.fee,,124,53.340927,-6.262501
+143,Raglan,"56-58, Drury Street",132,53.340927,-6.262501
+144,2210,Powerscourt,140,53.340927,-6.262501
+145,First Chapter,,148,53.340927,-6.262501
+146,Brother Sister Coffee,Powerscourt Townhouse Centre,149,53.340927,-6.262501
+147,Cafe Kylemore,St Stephen's Green Centre,150,53.340927,-6.262501
+148,Bodega Coffee,,163,53.340927,-6.262501
+149,It's a Trap,81 Aungier St,220,53.340927,-6.262501
+150,Remedy,Royal College Of Surgeons Ireland,223,53.340927,-6.262501
+151,Brown's Bar & Cafe,"Brown Thomas, 88-95 Grafton St",249,53.340927,-6.262501
+152,Dawson Blend,,252,53.340927,-6.262501
+153,The Bean Box Coffee Shop,,279,53.340927,-6.262501
+154,Butlers Chocolate Café,Dawson St.,294,53.340927,-6.262501
+155,Starbucks,2 Grafton St,312,53.340927,-6.262501
+156,Insomnia,51b Dawson St.,316,53.340927,-6.262501
+157,Vandals,,334,53.340927,-6.262501
+158,Coffeeangel,3 Trinity Street,335,53.340927,-6.262501
+159,Lana Coffee & Co,,343,53.340927,-6.262501
+160,La Pausa Caffe,2b Blessington St,204,53.358115,-6.265601
+161,Bookafé,101 Dorset Street Upper Perto da Parnell St,294,53.358115,-6.265601
+162,Starbucks,,220,53.358115,-6.265601
+163,Costa Coffee,"Eccles St, Phibsborough",163,53.358115,-6.265601
+164,Cafe Sol,,132,53.358115,-6.265601
+165,Dua Pizza,77 Dorset Street Upper,134,53.358115,-6.265601
+166,Deli Suz,Blessington St.,177,53.358115,-6.265601
+167,Delisuz,58A Blessington St,222,53.358115,-6.265601
+168,Insomnia,81 Dorset street Lower,240,53.358115,-6.265601
+169,Koffee + Kale,465 North Circular Road,290,53.358115,-6.265601
+170,Insomnia,Sr. Dorset,343,53.358115,-6.265601
+171,Pulido's Coffee & Bakery,22 Moore St,238,53.350291,-6.273507
+172,Arran St East,1 Little Green St,288,53.350291,-6.273507
+173,Insomnia,,354,53.350291,-6.273507
+174,Lolly & Cooks,"Unit 1 The Marker, Forbes St",349,53.344153,-6.233451
+175,Basil,95 Ringsend Rd,322,53.344153,-6.233451
+176,The Art Of Coffee,82 Sir John Rogerson's Quay,190,53.344153,-6.233451
+177,Insomnia,Hanover Quay,245,53.344153,-6.233451
+178,Dime Coffee,81-82 North Wall Quay,332,53.344153,-6.233451
+179,G Wonderland,132 waterside,337,53.344153,-6.233451
+180,Art of Coffee,,365,53.344153,-6.233451
+181,Gerard's,"81A Campshires, Sir John Rogerson's Quay",94,53.346637,-6.246154
+182,Coffeeangel,George's Dock,297,53.346637,-6.246154
+183,Seven Wonders,1 Custom House Quay,278,53.346637,-6.246154
+184,Cloud Picker,42 Pearse St,355,53.346637,-6.246154
+185,Honey Truffle,45 Pearse St,332,53.346637,-6.246154
+186,Starbucks,1 Custom House Quay,296,53.346637,-6.246154
+187,Arabica Coffee House,Pearse St,350,53.346637,-6.246154
+188,Caffè Nero,"Unit 5, Excise Walk",228,53.346637,-6.246154
+189,Insomnia,1 Custom House Quay,270,53.346637,-6.246154
+190,Costa Coffee,Custom House Quay,167,53.346637,-6.246154
+191,Insomnia,Mayor St,321,53.346637,-6.246154
+192,Borlottie,"Unit 4A Excise Walk, IFSC",271,53.346637,-6.246154
+193,The Art Of Coffee,17-19 Sir John Rogerson’s Quay,146,53.346637,-6.246154
+194,Kaldi's,,191,53.346637,-6.246154
+195,Little Collins Cbd Dispensary,15 Lombard St E,219,53.346637,-6.246154
+196,Mojo Health Bar,Perpetua Fitness,246,53.346637,-6.246154
+197,Cool Hand Coffee Roasters,,288,53.346637,-6.246154
+198,3fe,"Mayor Square, North Dock",317,53.346637,-6.246154
+199,Joe's Coffee,Montague St,81,53.336021,-6.26298
+200,The Morning,49 Pleasants St,216,53.336021,-6.26298
+201,Starbucks,Kevin St Lower,347,53.336021,-6.26298
+202,Starbucks,"Unit 1 Harcourt Building, Harcourt St",345,53.336021,-6.26298
+203,Costa Coffee,Aungier St,306,53.336021,-6.26298
+204,Caffè Nero,Vault 7 Statin Building,136,53.336021,-6.26298
+205,Two Faced,2 Montague Street,149,53.336021,-6.26298
+206,Dime Coffee Co,,163,53.336021,-6.26298
+207,Café Sol,58 Harcourt St,193,53.336021,-6.26298
+208,Ebb & Flow Camden,71 Camden Street Lower,208,53.336021,-6.26298
+209,Vandals,,213,53.336021,-6.26298
+210,Reference Coffee,49 Pleasants Street,230,53.336021,-6.26298
+211,Coffeeangel,Hatch Street Upper,233,53.336021,-6.26298
+212,Fuji Tea And Coffee,3 Kevin Street Lower,262,53.336021,-6.26298
+213,Pret A Manger,,270,53.336021,-6.26298
+214,Granthams,,282,53.336021,-6.26298
+215,Brew Lab,,313,53.336021,-6.26298
+216,Remedy,Royal College Of Surgeons Ireland,326,53.336021,-6.26298
+217,Dawson Blend,,335,53.336021,-6.26298
+218,Coffeeangel,27 Pembroke Street Lower,212,53.335211,-6.2509
+219,Starbucks,62 Lower Leeson St,284,53.335211,-6.2509
+220,Cafe Boulevard,Lower Baggot St,265,53.335211,-6.2509
+221,Munchies,146A Lwr Baggot St,366,53.335211,-6.2509
+222,Olive Green Espresso Bar,Lwr Baggot St,234,53.335211,-6.2509
+223,Café Sol,33 Hatch St Lwr,319,53.335211,-6.2509
+224,LinkedIn Barista,,155,53.335211,-6.2509
+225,Bear Market Coffee,1A Pembroke Street Lower,233,53.335211,-6.2509
+226,Speciality Coffee,"Creative Dock, Malahide Marina",249,53.335211,-6.2509
+227,West Coast Coffee,Lwr Baggot St,256,53.335211,-6.2509
+228,Doppio Zero,Pembroke Street Lower,259,53.335211,-6.2509
+229,Insomnia,1a Lwr Pembroke St,259,53.335211,-6.2509
+230,Sister Suesey,,335,53.335211,-6.2509
+231,Starbucks,62 Lower Leeson St,312,53.334295,-6.258503
+232,Starbucks,"Unit 1 Harcourt Building, Harcourt St",295,53.334295,-6.258503
+233,Café Sol,33 Hatch St Lwr,210,53.334295,-6.258503
+234,Koffee + Kale,,169,53.334295,-6.258503
+235,Brew Town,,174,53.334295,-6.258503
+236,Insomnia,1a Earlsfort Terrace,190,53.334295,-6.258503
+237,Mister Magpie,,200,53.334295,-6.258503
+238,Coffeeangel,Hatch Street Upper,270,53.334295,-6.258503
+239,Café Sol,58 Harcourt St,290,53.334295,-6.258503
+240,Pret A Manger,,324,53.334295,-6.258503
+241,Bread 41,Pearse Street,97,53.344304,-6.250427
+242,Cloud Picker,42 Pearse St,33,53.344304,-6.250427
+243,Science Gallery Café,Science Gallery,156,53.344304,-6.250427
+244,Honey Truffle,45 Pearse St,102,53.344304,-6.250427
+245,Coffeeangel,15 Leinster Street South,344,53.344304,-6.250427
+246,Arabica Coffee House,Pearse St,236,53.344304,-6.250427
+247,SoBo,"Pearse Station, Westland Row",173,53.344304,-6.250427
+248,Insomnia,3 S Leinster St,309,53.344304,-6.250427
+249,AMT Coffee,Pearse Railway Station,104,53.344304,-6.250427
+250,Warbler & Wren,,124,53.344304,-6.250427
+251,Little Collins Cbd Dispensary,15 Lombard St E,167,53.344304,-6.250427
+252,Bear Market Coffee,,189,53.344304,-6.250427
+253,Mocha Beans,Pearse Station,219,53.344304,-6.250427
+254,Steam,41-47 Fenian Street,282,53.344304,-6.250427
+255,Good Vibrations,,321,53.344304,-6.250427
+256,Tang,23c Dawson St,322,53.344304,-6.250427
+257,Insomnia,"Tara St, Trinity Plaza",347,53.344304,-6.250427
+258,Has Bean,,349,53.344304,-6.250427
+259,Cafe Tri Via,2 Lincoln Pl,271,53.344304,-6.250427
+260,Olive Green Espresso Bar,Lwr Baggot St,24,53.336597,-6.248109
+261,Coffeeangel,27 Pembroke Street Lower,275,53.336597,-6.248109
+262,Cafe Boulevard,Lower Baggot St,255,53.336597,-6.248109
+263,Starbucks,The Warrington House,336,53.336597,-6.248109
+264,West Coast Coffee,Lwr Baggot St,136,53.336597,-6.248109
+265,Doppio Zero,Pembroke Street Lower,254,53.336597,-6.248109
+266,Insomnia,1a Lwr Pembroke St,254,53.336597,-6.248109
+267,Bear Market Coffee,1A Pembroke Street Lower,272,53.336597,-6.248109
+268,LinkedIn Barista,,289,53.336597,-6.248109
+269,Coffeeangel,1/2 Mount Street Lower,338,53.336597,-6.248109
+270,Legit Coffee Co,1 Meath Mart,230,53.343105,-6.277167
+271,Oscar Verne's Coffee Bar,72 Thomas Street @ The Ferocious Mingle Marcade,38,53.343105,-6.277167
+272,Boom Coffee,29 Francis St,202,53.343105,-6.277167
+273,Ada Coffee And Bagels,,240,53.343105,-6.277167
+274,Mama Fi's Coffee Shop,67 Meath Street,279,53.343105,-6.277167
+275,Copper + Straw,1 Arran Quay,332,53.343105,-6.277167
+276,Mug Shot,,343,53.343105,-6.277167
+277,Coffeeangel,George's Dock,210,53.347777,-6.244239
+278,Seven Wonders,1 Custom House Quay,276,53.347777,-6.244239
+279,Gerard's,"81A Campshires, Sir John Rogerson's Quay",136,53.347777,-6.244239
+280,Il Fornaio,"1B Valentia House, Custom House Sq, IFSC",181,53.347777,-6.244239
+281,Caffè Nero,"Unit 5, Excise Walk",49,53.347777,-6.244239
+282,Starbucks,1 Custom House Quay,281,53.347777,-6.244239
+283,Starbucks,4-5 Cardiff Ln,332,53.347777,-6.244239
+284,Borlottie,"Unit 4A Excise Walk, IFSC",94,53.347777,-6.244239
+285,Insomnia,Mayor St,194,53.347777,-6.244239
+286,Insomnia,1 Custom House Quay,268,53.347777,-6.244239
+287,Costa Coffee,Custom House Quay,156,53.347777,-6.244239
+288,Kaldi's,,48,53.347777,-6.244239
+289,Cool Hand Coffee Roasters,,150,53.347777,-6.244239
+290,3fe,"Mayor Square, North Dock",155,53.347777,-6.244239
+291,The Art Of Coffee,17-19 Sir John Rogerson’s Quay,169,53.347777,-6.244239
+292,The Art Of Coffee (Mobile),,261,53.347777,-6.244239
+293,Mojo Health Bar,Perpetua Fitness,317,53.347777,-6.244239
+294,Brevato,George’s Dock,343,53.347777,-6.244239
+295,Koffee + Kale,21b Hill Street,316,53.356717,-6.256359
+296,Insomnia,Gardiner Street Belmont,252,53.356717,-6.256359
+297,Brambles Deli Cafe,"Inchiore Rd, Kilmainham",215,53.341805,-6.305085
+298,Savage Street Food / The Flying Dog,,248,53.341805,-6.305085
+299,Loaf Catering & Cafe Kilmainham,"Unit 2 Building 1, Old Chocolate Factory, Kilmainham Square, Inchicore Rd, Kilmainham",337,53.341805,-6.305085
+300,Legit Coffee Co,1 Meath Mart,252,53.342081,-6.275233
+301,Bite of Life,55 Patrick St,260,53.342081,-6.275233
+302,Two Pups Coffee,74 Francis St,328,53.342081,-6.275233
+303,Boom Coffee,29 Francis St,31,53.342081,-6.275233
+304,Oscar Verne's Coffee Bar,72 Thomas Street @ The Ferocious Mingle Marcade,155,53.342081,-6.275233
+305,Mama Fi's Coffee Shop,67 Meath Street,260,53.342081,-6.275233
+306,Third Floor Espresso (3FE),32-34 Lwr Grand Canal St,112,53.339629,-6.243778
+307,Art Of Coffee,10-12 Hogan Place,124,53.339629,-6.243778
+308,Starbucks,The Warrington House,321,53.339629,-6.243778
+309,FuDi Delicatessen,"1-2 Lower Mount Street, Dublin, Dublin 2",141,53.339629,-6.243778
+310,Boho Coffee,,147,53.339629,-6.243778
+311,Coffeeangel,1/2 Mount Street Lower,151,53.339629,-6.243778
+312,Insomnia,"Ferry House, Lwr Mount St",242,53.339629,-6.243778
+313,Mattina,,302,53.339629,-6.243778
+314,Caifé,,318,53.339629,-6.243778
+315,Legit Coffee Co,1 Meath Mart,354,53.343565,-6.275071
+316,Oscar Verne's Coffee Bar,72 Thomas Street @ The Ferocious Mingle Marcade,109,53.343565,-6.275071
+317,Boom Coffee,29 Francis St,190,53.343565,-6.275071
+318,Copper + Straw,1 Arran Quay,271,53.343565,-6.275071
+319,All Rise Coffee Shop,Chancery Place,322,53.343565,-6.275071
+320,Third Floor Espresso (3FE),32-34 Lwr Grand Canal St,296,53.339434,-6.246548
+321,Art Of Coffee,10-12 Hogan Place,231,53.339434,-6.246548
+322,Coffeeangel,1/2 Mount Street Lower,35,53.339434,-6.246548
+323,FuDi Delicatessen,"1-2 Lower Mount Street, Dublin, Dublin 2",45,53.339434,-6.246548
+324,Tang,23c Dawson St,278,53.339434,-6.246548
+325,West Coast Coffee,Lwr Baggot St,306,53.339434,-6.246548
+326,Steam,41-47 Fenian Street,322,53.339434,-6.246548
+327,Boho Coffee,,329,53.339434,-6.246548
+328,Starbucks,62 Lower Leeson St,271,53.332763,-6.257942
+329,One Kinda Folk,28A Dartmouth Rd,364,53.332763,-6.257942
+330,Perch · The Kiosk,Leeson St,311,53.332763,-6.257942
+331,Starbucks,"Unit 1 Harcourt Building, Harcourt St",291,53.332763,-6.257942
+332,Costa Coffee,"Hilton Dublin, Charlemont Pl",226,53.332763,-6.257942
+333,Café Sol,33 Hatch St Lwr,228,53.332763,-6.257942
+334,Koffee + Kale,,102,53.332763,-6.257942
+335,Brindle Coffee & Wine D2,68-69 Charlemont St,267,53.332763,-6.257942
+336,Red Bean Roastery,,296,53.332763,-6.257942
+337,Brew Town,,328,53.332763,-6.257942
+338,Coffeeangel,Hatch Street Upper,330,53.332763,-6.257942
+339,Sister Suesey,,347,53.332763,-6.257942
+340,Insomnia,1a Earlsfort Terrace,353,53.332763,-6.257942
+341,Pret A Manger,,363,53.332763,-6.257942
+342,Butlers Chocolate Café,"Heuston Station, St John's Rd W",145,53.347802,-6.292432
+343,Insomnia,29 Parkgate St,111,53.347802,-6.292432
+344,Insomnia,Heuston Station,128,53.347802,-6.292432
+345,Caffè Nero Express,,153,53.347802,-6.292432
+346,AMT Coffee,Heuston Station,246,53.347802,-6.292432
+347,Coffeeangel,15 Leinster Street South,33,53.34218,-6.254485
+348,Coffeeangel,16 Anne Street South,309,53.34218,-6.254485
+349,Dublin Barista School,19a Anne St S,316,53.34218,-6.254485
+350,Bread 41,Pearse Street,348,53.34218,-6.254485
+351,Costa Coffee,1 Dawson St,225,53.34218,-6.254485
+352,McCafé,Grafton St,332,53.34218,-6.254485
+353,Insomnia,3 S Leinster St,120,53.34218,-6.254485
+354,The Runner Bean,4 Nassau St,26,53.34218,-6.254485
+355,Silk Burse,,38,53.34218,-6.254485
+356,Has Bean,,44,53.34218,-6.254485
+357,Fréd,26 Nassau St,174,53.34218,-6.254485
+358,Petit Cafe Food co,35A Kildare St,203,53.34218,-6.254485
+359,Good Vibrations,,215,53.34218,-6.254485
+360,Insomnia,51b Dawson St.,233,53.34218,-6.254485
+361,Butlers Chocolate Café,Dawson St.,256,53.34218,-6.254485
+362,Warbler & Wren,,285,53.34218,-6.254485
+363,Bear Market Coffee,,308,53.34218,-6.254485
+364,Starbucks,2 Grafton St,323,53.34218,-6.254485
+365,Cafe Tri Via,2 Lincoln Pl,260,53.34218,-6.254485
+366,Grove Road Cafe,1 Lower Rathmines Rd,72,53.330362,-6.265163
+367,The Blonde Cafe,,253,53.330362,-6.265163
+368,Starbucks,"Unit 1 Harcourt Building, Harcourt St",342,53.330362,-6.265163
+369,Brindle Coffee & Wine,34 Lennox Street,165,53.330362,-6.265163
+370,First Draft Coffee And Wine,34 Lennox Street,191,53.330362,-6.265163
+371,Coffee Society,Harcourt St,266,53.330362,-6.265163
+372,Red Bean Roastery,,271,53.330362,-6.265163
+373,Brindle Coffee & Wine D2,68-69 Charlemont St,280,53.330362,-6.265163
+374,Starbucks,Unit 3/20 Point Village,235,53.346867,-6.230852
+375,Dime Coffee,81-82 North Wall Quay,117,53.346867,-6.230852
+376,Hello Charlie,"N Wall Ave, Point Village",159,53.346867,-6.230852
+377,The Art Of Coffee,82 Sir John Rogerson's Quay,173,53.346867,-6.230852
+378,Grindstone,,191,53.346867,-6.230852
+379,Hand Print Coffee,Unit 1 Point Village,205,53.346867,-6.230852
+380,Insomnia,,208,53.346867,-6.230852
+381,Costa Coffee,The Point Village,286,53.346867,-6.230852
+382,Shoe Lane Coffee,7 Tara Street,195,53.347508,-6.252192
+383,Bread 41,Pearse Street,301,53.347508,-6.252192
+384,Bear MRKT,,293,53.347508,-6.252192
+385,Seven Wonders,1 Custom House Quay,320,53.347508,-6.252192
+386,Cloud Picker,42 Pearse St,378,53.347508,-6.252192
+387,Starbucks,1 Custom House Quay,338,53.347508,-6.252192
+388,Starbucks,George's Quay,242,53.347508,-6.252192
+389,Insomnia,1 Custom House Quay,323,53.347508,-6.252192
+390,Store Coffee,,256,53.347508,-6.252192
+391,Insomnia,"Tara St, Trinity Plaza",282,53.347508,-6.252192
+392,Munchies,"Mayor St, IFSC",288,53.347508,-6.252192
+393,Monto Coffee & Food,,320,53.347508,-6.252192
+394,Brevato,George’s Dock,325,53.347508,-6.252192
+395,Morning Glory,,326,53.347508,-6.252192
+396,Warbler & Wren,,346,53.347508,-6.252192
+397,Buttery Vaults,,357,53.347508,-6.252192
+398,Jay's Café Broadstone,"No 42 Dominick Street Upper, Broadstone, Dublin, D07C5P6",44,53.3547,-6.272314
+399,Butlers Chocolate Café,"Heuston Station, St John's Rd W",332,53.346985,-6.297804
+400,Java Republic,"1 HSQ (8th floor), St John's Rd",186,53.346985,-6.297804
+401,AMT Coffee,Heuston Station,203,53.346985,-6.297804
+402,Insomnia,,241,53.346985,-6.297804
+403,Insomnia,29 Parkgate St,289,53.346985,-6.297804
+404,Roasted&Baked,,303,53.346985,-6.297804
+405,Caffè Nero Express,,337,53.346985,-6.297804
+406,Insomnia,Heuston Station,359,53.346985,-6.297804
+407,La Pausa Caffe,2b Blessington St,282,53.3537415547453,-6.26530144781526
+408,Bookafé,101 Dorset Street Upper Perto da Parnell St,196,53.3537415547453,-6.26530144781526
+409,Blas Cafe,26 Kings Inn St,287,53.3537415547453,-6.26530144781526
+410,Castle Tea Rooms,"Frederick St N, Rotunda, Dublin",164,53.3537415547453,-6.26530144781526
+411,Frank and Honest Gourmet Coffee,"Centra, Parnell St",297,53.3537415547453,-6.26530144781526
+412,The Grumpy Mule,,323,53.3537415547453,-6.26530144781526
+413,It's A Trap,Great Denmark St,330,53.3537415547453,-6.26530144781526
+414,Mocha Beans,,340,53.3537415547453,-6.26530144781526
+415,Guud Day,28 O'Connel Street Upper,351,53.3537415547453,-6.26530144781526
+416,Esquire’s Coffee,ILAC Centre,404,53.3537415547453,-6.26530144781526
+417,Blas Cafe,26 Kings Inn St,159,53.350929,-6.265125
+418,Starbucks,39 Henry St,275,53.350929,-6.265125
+419,Esquires Coffee,16 O'Connell Street Lower,306,53.350929,-6.265125
+420,Pulido's Coffee & Bakery,22 Moore St,338,53.350929,-6.265125
+421,The Coffee Bean,64 Mary St,349,53.350929,-6.265125
+422,The Bagel Bar,Upper Liffey St,354,53.350929,-6.265125
+423,Costa Coffee,Jervis Shopping Centre,326,53.350929,-6.265125
+424,Starbucks,Ilac Shopping Centre,119,53.350929,-6.265125
+425,Mocha Beans,,29,53.350929,-6.265125
+426,Frank and Honest Gourmet Coffee,"Centra, Parnell St",103,53.350929,-6.265125
+427,Esquire’s Coffee,ILAC Centre,114,53.350929,-6.265125
+428,Benoit's Chocolate Factory,,127,53.350929,-6.265125
+429,Café Sol,"Unit 51/53 Moore Mall, Ilac Centre",135,53.350929,-6.265125
+430,Maui Wowi,,154,53.350929,-6.265125
+431,Bakers + Baristas,Moore Street,157,53.350929,-6.265125
+432,Ann's Bakery - Moore Street,"Unit 77 ilac centre, Dublin, 00000",159,53.350929,-6.265125
+433,The Grumpy Mule,,232,53.350929,-6.265125
+434,Insomnia,20 Liffey St,239,53.350929,-6.265125
+435,Brother Hubbard,Arnotts,260,53.350929,-6.265125
+436,H&T Coffee,23 Liffey Street Upper,271,53.350929,-6.265125
+437,Nespresso,,304,53.350929,-6.265125
+438,Art of coffee,G.P.O Arcade,306,53.350929,-6.265125
+439,Guud Day,28 O'Connel Street Upper,322,53.350929,-6.265125
+440,Esquires Coffee,61 Mary St.,331,53.350929,-6.265125
+441,Doppelgängers,,334,53.350929,-6.265125
+442,Insomnia,63-64 O'Connell St,366,53.350929,-6.265125
+443,Two Boys Brew,375 North Circular Rd,341,53.359405,-6.276142
+444,Stay With Us,,144,53.359405,-6.276142
+445,3Fe,363 N Circular Rd,302,53.359405,-6.276142
+446,Network,39 Aungier Street,101,53.339334,-6.264699
+447,Clement & Pekoe,50 S William St,279,53.339334,-6.264699
+448,Butlers Chocolate Café,51a Grafton St,272,53.339334,-6.264699
+449,The Bald Barista,55 Aungier St,143,53.339334,-6.264699
+450,Starbucks,Aungier St,96,53.339334,-6.264699
+451,Sasha House Petite,Drury St Carpark,273,53.339334,-6.264699
+452,Caffè Nero,51-52 S King St,242,53.339334,-6.264699
+453,Joe's Coffee,Montague St,309,53.339334,-6.264699
+454,Starbucks,Kevin St Lower,244,53.339334,-6.264699
+455,Costa Coffee,Aungier St,170,53.339334,-6.264699
+456,La Croissanterie,St Stephens Green Shopping Centre,190,53.339334,-6.264699
+457,Starbucks,,250,53.339334,-6.264699
+458,Starbucks,3 Chatham St,277,53.339334,-6.264699
+459,The Bald Barista,St Stephens Green,240,53.339334,-6.264699
+460,Starbucks,56-58 Drury St,296,53.339334,-6.264699
+461,Insomnia,4 St Stephens Green,296,53.339334,-6.264699
+462,The Bean Box Coffee Shop,,93,53.339334,-6.264699
+463,Remedy,Royal College Of Surgeons Ireland,109,53.339334,-6.264699
+464,Java City,DIT Aungier St,160,53.339334,-6.264699
+465,Brew Lab,,168,53.339334,-6.264699
+466,Vandals,,184,53.339334,-6.264699
+467,Imsonia,,216,53.339334,-6.264699
+468,It's a Trap,81 Aungier St,225,53.339334,-6.264699
+469,Fuji Tea And Coffee,3 Kevin Street Lower,230,53.339334,-6.264699
+470,Dawson Blend,,247,53.339334,-6.264699
+471,Cafe Kylemore,St Stephen's Green Centre,255,53.339334,-6.264699
+472,Pinecone Coffe,,277,53.339334,-6.264699
+473,Raglan,"56-58, Drury Street",280,53.339334,-6.264699
+474,First Chapter,,301,53.339334,-6.264699
+475,Two Faced,2 Montague Street,318,53.339334,-6.264699
+476,ku.fee,,331,53.339334,-6.264699
+477,Dispensary,Royal College of Surgeons,341,53.339334,-6.264699
+478,Indigo & Cloth,9 E Essex St,142,53.344007,-6.266802
+479,Fallon & Byrne Food Store,11-17 Exchequer St,258,53.344007,-6.266802
+480,KC Peaches,54 Dame St,170,53.344007,-6.266802
+481,Kaph,31 Drury St,290,53.344007,-6.266802
+482,Tamp & Stitch,"Unit 3 Scarlet Row, Temple Bar",180,53.344007,-6.266802
+483,Keogh's Cafe,1 Trinity St,302,53.344007,-6.266802
+484,The Music Café Dublin,1 Wellington Quay,146,53.344007,-6.266802
+485,Il Fornaio,15 College Green,320,53.344007,-6.266802
+486,Busy Bee Cafe,,76,53.344007,-6.266802
+487,Krüst Bakery,6 S George's St,175,53.344007,-6.266802
+488,Sasha House Petite,Drury St Carpark,317,53.344007,-6.266802
+489,Butlers Chocolate Café,24 Wicklow St,334,53.344007,-6.266802
+490,Insomnia,19-20 Dame St.,161,53.344007,-6.266802
+491,Centra,,153,53.344007,-6.266802
+492,Starbucks,56-58 Drury St,309,53.344007,-6.266802
+493,Costa Coffee,"30 Essex St E, Temple Bar",199,53.344007,-6.266802
+494,House Of Read,4 Parliament St,45,53.344007,-6.266802
+495,Fonté,Parliament House 36 Parliament St,60,53.344007,-6.266802
+496,Gayspar,,73,53.344007,-6.266802
+497,Bus Stop Cafe,,102,53.344007,-6.266802
+498,Mochaland Coffee,20 Lwr Ormond Quay,265,53.344007,-6.266802
+499,Hyper Goat Coffee,,153,53.344007,-6.266802
+500,Monin,,159,53.344007,-6.266802
+501,Róco,13 Lord Edward Street,191,53.344007,-6.266802
+502,Lana Coffee & Co,,203,53.344007,-6.266802
+503,Werburgh Cafe,,208,53.344007,-6.266802
+504,the grattan café,,229,53.344007,-6.266802
+505,Old Town Cafe,Chancery Lane,287,53.344007,-6.266802
+506,Cool Hand Coffee Roasters,"Crown Alley, Temple Bar",295,53.344007,-6.266802
+507,First Chapter,,296,53.344007,-6.266802
+508,Wassim Shakes,,299,53.344007,-6.266802
+509,Bodega Coffee,,312,53.344007,-6.266802
+510,It's a Trap,81 Aungier St,313,53.344007,-6.266802
+511,Raglan,"56-58, Drury Street",313,53.344007,-6.266802
+512,Nor7H Seven Coffee,3437 Ormonde Quay Low,315,53.344007,-6.266802
+513,Coffeeangel,3 Trinity Street,315,53.344007,-6.266802
+514,Hello Charlie,34-37 Ormond Quay Lower,330,53.344007,-6.266802
+515,Shisha Cafe,Millennium Walkway,336,53.344007,-6.266802
+516,Grove Road Cafe,1 Lower Rathmines Rd,298,53.330662,-6.260177
+517,One Kinda Folk,28A Dartmouth Rd,183,53.330662,-6.260177
+518,The Blonde Cafe,,316,53.330662,-6.260177
+519,Starbucks,"Unit 1 Harcourt Building, Harcourt St",290,53.330662,-6.260177
+520,Costa Coffee,"Hilton Dublin, Charlemont Pl",54,53.330662,-6.260177
+521,Red Bean Roastery,,72,53.330662,-6.260177
+522,Brindle Coffee & Wine D2,68-69 Charlemont St,130,53.330662,-6.260177
+523,Koffee + Kale,,251,53.330662,-6.260177
+524,Basil,95 Ringsend Rd,250,53.343653,-6.231755
+525,The Art Of Coffee,82 Sir John Rogerson's Quay,189,53.343653,-6.231755
+526,Art of Coffee,,264,53.343653,-6.231755
+527,Butlers Chocolate Café,"Heuston Station, St John's Rd W",175,53.347972,-6.291804
+528,Insomnia,29 Parkgate St,145,53.347972,-6.291804
+529,Insomnia,Heuston Station,152,53.347972,-6.291804
+530,Caffè Nero Express,,182,53.347972,-6.291804
+531,AMT Coffee,Heuston Station,289,53.347972,-6.291804
+532,Coffee Cuisine,St James' Hospital,270,53.339005,-6.300217
+533,The Cupcake Bloke,,313,53.339005,-6.300217
+534,Shoe Lane Coffee,7 Tara Street,139,53.345922,-6.254614
+535,Bread 41,Pearse Street,233,53.345922,-6.254614
+536,Cloud Picker,42 Pearse St,353,53.345922,-6.254614
+537,Starbucks,George's Quay,181,53.345922,-6.254614
+538,Starbucks,10-12 Westmoreland St,296,53.345922,-6.254614
+539,Insomnia,"Tara St, Trinity Plaza",44,53.345922,-6.254614
+540,Buttery Vaults,,184,53.345922,-6.254614
+541,Good Vibrations,,210,53.345922,-6.254614
+542,Gas Café,,221,53.345922,-6.254614
+543,Warbler & Wren,,229,53.345922,-6.254614
+544,Insomnia,,239,53.345922,-6.254614
+545,West Coast Coffee,D'Olier St,239,53.345922,-6.254614
+546,Ninth Degree Coffee Roasters,28 Westmoreland Street,291,53.345922,-6.254614
+547,Mantle Coffee,,302,53.345922,-6.254614
+548,Coffee District,,164,53.341359,-6.292951
+549,Coffee Cuisine,St James' Hospital,314,53.341359,-6.292951
+550,Basil,95 Ringsend Rd,64,53.341833,-6.231291
+551,Third Floor Espresso (3FE),32-34 Lwr Grand Canal St,215,53.33796,-6.24153
+552,Art Of Coffee,10-12 Hogan Place,345,53.33796,-6.24153
+553,Starbucks,The Warrington House,166,53.33796,-6.24153
+554,Insomnia,"Ferry House, Lwr Mount St",14,53.33796,-6.24153
+555,Boho Coffee,,168,53.33796,-6.24153
+556,Mattina,,282,53.33796,-6.24153
+557,Coffeeangel,1/2 Mount Street Lower,336,53.33796,-6.24153
+558,Seven Wonders,,339,53.33796,-6.24153
+559,FuDi Delicatessen,"1-2 Lower Mount Street, Dublin, Dublin 2",342,53.33796,-6.24153
+560,Proper Order Coffee Co.,New Church Street,297,53.35023,-6.279696
+561,Starbucks,18-21 Saint-Stephen's Green,321,53.35023,-6.279696
+562,Insomnia,,152,53.35023,-6.279696
+563,Moo Market,,194,53.35023,-6.279696
+564,Mooz,,246,53.35023,-6.279696
+565,Proper Cup Coffee Co,,270,53.35023,-6.279696
+566,Lavazza,,319,53.35023,-6.279696
+567,La Pausa Caffe,2b Blessington St,183,53.356769,-6.26814
+568,Bookafé,101 Dorset Street Upper Perto da Parnell St,205,53.356769,-6.26814
+569,Delisuz,58A Blessington St,33,53.356769,-6.26814
+570,Deli Suz,Blessington St.,105,53.356769,-6.26814
+571,Dua Pizza,77 Dorset Street Upper,237,53.356769,-6.26814
+572,Cafe Sol,,288,53.356769,-6.26814
+573,Third Floor Espresso (3FE),32-34 Lwr Grand Canal St,122,53.339218,-6.240642
+574,The Art of Coffee,Grand Canal Quay,351,53.339218,-6.240642
+575,Art Of Coffee,10-12 Hogan Place,272,53.339218,-6.240642
+576,Starbucks,The Warrington House,315,53.339218,-6.240642
+577,Boho Coffee,,68,53.339218,-6.240642
+578,Mattina,,134,53.339218,-6.240642
+579,Insomnia,"Ferry House, Lwr Mount St",141,53.339218,-6.240642
+580,Caifé,,200,53.339218,-6.240642
+581,Seven Wonders,,237,53.339218,-6.240642
+582,Groundstate Coffee,,304,53.339218,-6.240642
+583,Starbucks,,325,53.359624,-6.260348
+584,Costa Coffee,"Eccles St, Phibsborough",310,53.359624,-6.260348
+585,The Coffee Hatch @ Botanical,,10,53.359624,-6.260348
+586,Violet's Cafe,,47,53.359624,-6.260348
+587,Insomnia,Sr. Dorset,83,53.359624,-6.260348
+588,Koffee + Kale,465 North Circular Road,171,53.359624,-6.260348
+589,Jury's Coffee Dock,Jones's Rd,314,53.359624,-6.260348
+590,Coffeeangel,16 Anne Street South,48,53.341288,-6.258117
+591,Dublin Barista School,19a Anne St S,61,53.341288,-6.258117
+592,Nespresso,Duke St,126,53.341288,-6.258117
+593,Butlers Chocolate Café,51a Grafton St,222,53.341288,-6.258117
+594,Murphy's Ice Cream,27 Wicklow St,290,53.341288,-6.258117
+595,Coffeeangel,15 Leinster Street South,285,53.341288,-6.258117
+596,Clement & Pekoe,50 S William St,314,53.341288,-6.258117
+597,Beanhive,26 Dawson St,169,53.341288,-6.258117
+598,Caffè Nero,Dawson St Dublin 2,147,53.341288,-6.258117
+599,Caffè Nero,51-52 S King St,246,53.341288,-6.258117
+600,Butlers Chocolate Café,24 Wicklow St,323,53.341288,-6.258117
+601,McCafé,Grafton St,177,53.341288,-6.258117
+602,Costa Coffee,1 Dawson St,159,53.341288,-6.258117
+603,Nespresso Boutique,Grafton St,215,53.341288,-6.258117
+604,Starbucks,,241,53.341288,-6.258117
+605,Starbucks,3 Chatham St,222,53.341288,-6.258117
+606,La Croissanterie,St Stephens Green Shopping Centre,297,53.341288,-6.258117
+607,Insomnia,4 St Stephens Green,211,53.341288,-6.258117
+608,KC Peaches,Merrion Row,344,53.341288,-6.258117
+609,The Bald Barista,St Stephens Green,286,53.341288,-6.258117
+610,Insomnia,51b Dawson St.,39,53.341288,-6.258117
+611,Butlers Chocolate Café,Dawson St.,51,53.341288,-6.258117
+612,Insomnia,3 S Leinster St,363,53.341288,-6.258117
+613,Fréd,26 Nassau St,166,53.341288,-6.258117
+614,Petit Cafe Food co,35A Kildare St,185,53.341288,-6.258117
+615,Brown's Bar & Cafe,"Brown Thomas, 88-95 Grafton St",188,53.341288,-6.258117
+616,Starbucks,2 Grafton St,195,53.341288,-6.258117
+617,Silk Burse,,227,53.341288,-6.258117
+618,The Runner Bean,4 Nassau St,234,53.341288,-6.258117
+619,2210,Powerscourt,239,53.341288,-6.258117
+620,Cafe Kylemore,St Stephen's Green Centre,243,53.341288,-6.258117
+621,Has Bean,,287,53.341288,-6.258117
+622,Pinecone Coffe,,298,53.341288,-6.258117
+623,Brother Sister Coffee,Powerscourt Townhouse Centre,299,53.341288,-6.258117
+624,ku.fee,,311,53.341288,-6.258117
+625,Butlers Chocolate Café,117 Grafton St,326,53.341288,-6.258117
+626,Imsonia,,326,53.341288,-6.258117
+627,Dawson Blend,,337,53.341288,-6.258117
+628,Brambles Deli Cafe,"Inchiore Rd, Kilmainham",123,53.340714,-6.308191
+629,Loaf Catering & Cafe Kilmainham,"Unit 2 Building 1, Old Chocolate Factory, Kilmainham Square, Inchicore Rd, Kilmainham",222,53.340714,-6.308191
+630,La Pausa Caffe,2b Blessington St,172,53.357043,-6.263232
+631,Bookafé,101 Dorset Street Upper Perto da Parnell St,249,53.357043,-6.263232
+632,Koffee + Kale,21b Hill Street,213,53.357043,-6.263232
+633,Dua Pizza,77 Dorset Street Upper,90,53.357043,-6.263232
+634,It's A Trap,Great Denmark St,215,53.357043,-6.263232
+635,Deli Suz,Blessington St.,226,53.357043,-6.263232
+636,Castle Tea Rooms,"Frederick St N, Rotunda, Dublin",249,53.357043,-6.263232
+637,Delisuz,58A Blessington St,304,53.357043,-6.263232
+638,Cafe Sol,,321,53.357043,-6.263232
+639,Koffee + Kale,465 North Circular Road,343,53.357043,-6.263232
+640,Insomnia,Sr. Dorset,345,53.357043,-6.263232
+641,The Coffee Hatch @ Botanical,,348,53.357043,-6.263232
+642,Violet's Cafe,,354,53.357043,-6.263232
+643,Coffeeangel,27 Pembroke Street Lower,301,53.338614,-6.248606
+644,Cafe Boulevard,Lower Baggot St,231,53.338614,-6.248606
+645,Munchies,146A Lwr Baggot St,315,53.338614,-6.248606
+646,Olive Green Espresso Bar,Lwr Baggot St,250,53.338614,-6.248606
+647,West Coast Coffee,Lwr Baggot St,152,53.338614,-6.248606
+648,Coffeeangel,1/2 Mount Street Lower,191,53.338614,-6.248606
+649,FuDi Delicatessen,"1-2 Lower Mount Street, Dublin, Dublin 2",209,53.338614,-6.248606
+650,Doppio Zero,Pembroke Street Lower,236,53.338614,-6.248606
+651,Insomnia,1a Lwr Pembroke St,236,53.338614,-6.248606
+652,Bear Market Coffee,1A Pembroke Street Lower,280,53.338614,-6.248606
+653,Tang,23c Dawson St,330,53.338614,-6.248606
+654,"Laine, my love",38 Talbot Street,116,53.350974,-6.25294
+655,Bear MRKT,,280,53.350974,-6.25294
+656,Insomnia,"70-72 Spencer Row, Talbot St",8,53.350974,-6.25294
+657,Roasted Bean Coffee Company,53b Talbot St,168,53.350974,-6.25294
+658,Full Circle Coffee Roasters,3 Talbot Place,56,53.350974,-6.25294
+659,Esquires Coffee,Talbot St,88,53.350974,-6.25294
+660,Recanto Brazil,,120,53.350974,-6.25294
+661,Store Coffee,,154,53.350974,-6.25294
+662,AMT Coffee,"Connolly Station, Amiens St",228,53.350974,-6.25294
+663,Pret A Manger,Conolly Station,169,53.350974,-6.25294
+664,Monto Coffee & Food,,174,53.350974,-6.25294
+665,Bean & Gone,"Connolly Train Station, Amiens St",225,53.350974,-6.25294
+666,Julius Meinl,,240,53.350974,-6.25294
+667,the wooden wish,,244,53.350974,-6.25294
+668,Loops & Coffee,,248,53.350974,-6.25294
+669,Bo's Coffee Club IT Park,Ground Floor - i1 Bldg,250,53.350974,-6.25294
+670,First Light Coffee House,,251,53.350974,-6.25294
+671,Munchies,"Mayor St, IFSC",275,53.350974,-6.25294
+672,Morning Glory,,291,53.350974,-6.25294
+673,Central Brew Coffee,,294,53.350974,-6.25294
+674,Brevato,George’s Dock,334,53.350974,-6.25294
+675,Caffè Nero,5 Merrion Row,136,53.337824,-6.256035
+676,Beanhive,26 Dawson St,284,53.337824,-6.256035
+677,Coffeeangel,27 Pembroke Street Lower,271,53.337824,-6.256035
+678,Munchies,146A Lwr Baggot St,185,53.337824,-6.256035
+679,Caffè Nero,Dawson St Dublin 2,311,53.337824,-6.256035
+680,Cafe Boulevard,Lower Baggot St,295,53.337824,-6.256035
+681,KC Peaches,Merrion Row,112,53.337824,-6.256035
+682,Coffeeangel,19 Merrion Row,150,53.337824,-6.256035
+683,Mister Magpie,,224,53.337824,-6.256035
+684,Insomnia,1a Earlsfort Terrace,236,53.337824,-6.256035
+685,Brew Town,,251,53.337824,-6.256035
+686,Bear Market Coffee,1A Pembroke Street Lower,271,53.337824,-6.256035
+687,Doppio Zero,Pembroke Street Lower,294,53.337824,-6.256035
+688,Insomnia,1a Lwr Pembroke St,294,53.337824,-6.256035
+689,Petit Cafe Food co,35A Kildare St,297,53.337824,-6.256035
+690,Il Valentino,"5 Gallery Quay, Grand Canal Harbour",16,53.342638,-6.238695
+691,The Art of Coffee,Grand Canal Quay,50,53.342638,-6.238695
+692,Crema Coffee,,252,53.342638,-6.238695
+693,KC Peaches,"10A Trinity Enterprise Centre, Pearse St",107,53.342638,-6.238695
+694,Lolly & Cooks,"Unit 1 The Marker, Forbes St",280,53.342638,-6.238695
+695,Caffè Nero,Unit G4 Gallery Quay,31,53.342638,-6.238695
+696,G Wonderland,132 waterside,52,53.342638,-6.238695
+697,Insomnia,Grand Canal Square,95,53.342638,-6.238695
+698,Grindstone,"Bolands Quay, Barrow St, Dublin 4",142,53.342638,-6.238695
+699,Groundstate Coffee,,186,53.342638,-6.238695
+700,Caifé,,201,53.342638,-6.238695
+701,Insomnia,Hanover Quay,203,53.342638,-6.238695
+702,Igor's Coffee Bar,,263,53.342638,-6.238695
+703,Mattina,,282,53.342638,-6.238695
+704,Koffee + Kale,21b Hill Street,162,53.356299,-6.258586
+705,It's A Trap,Great Denmark St,199,53.356299,-6.258586
+706,Insomnia,Gardiner Street Belmont,236,53.356299,-6.258586
+707,Bowls by Kwanghi Chan,56 Marlborough St,342,53.356299,-6.258586
+708,Coffeeangel,16 Anne Street South,136,53.341515,-6.256853
+709,Coffeeangel,15 Leinster Street South,197,53.341515,-6.256853
+710,Dublin Barista School,19a Anne St S,143,53.341515,-6.256853
+711,Nespresso,Duke St,189,53.341515,-6.256853
+712,Murphy's Ice Cream,27 Wicklow St,346,53.341515,-6.256853
+713,Butlers Chocolate Café,51a Grafton St,306,53.341515,-6.256853
+714,Beanhive,26 Dawson St,226,53.341515,-6.256853
+715,Caffè Nero,Dawson St Dublin 2,211,53.341515,-6.256853
+716,Caffè Nero,51-52 S King St,332,53.341515,-6.256853
+717,Costa Coffee,1 Dawson St,145,53.341515,-6.256853
+718,McCafé,Grafton St,214,53.341515,-6.256853
+719,Nespresso Boutique,Grafton St,267,53.341515,-6.256853
+720,Starbucks,,326,53.341515,-6.256853
+721,KC Peaches,Merrion Row,329,53.341515,-6.256853
+722,Starbucks,3 Chatham St,310,53.341515,-6.256853
+723,Insomnia,4 St Stephens Green,290,53.341515,-6.256853
+724,Insomnia,3 S Leinster St,276,53.341515,-6.256853
+725,Insomnia,51b Dawson St.,68,53.341515,-6.256853
+726,Butlers Chocolate Café,Dawson St.,98,53.341515,-6.256853
+727,Fréd,26 Nassau St,124,53.341515,-6.256853
+728,Petit Cafe Food co,35A Kildare St,138,53.341515,-6.256853
+729,Silk Burse,,142,53.341515,-6.256853
+730,The Runner Bean,4 Nassau St,148,53.341515,-6.256853
+731,Has Bean,,200,53.341515,-6.256853
+732,Starbucks,2 Grafton St,220,53.341515,-6.256853
+733,Brown's Bar & Cafe,"Brown Thomas, 88-95 Grafton St",237,53.341515,-6.256853
+734,Good Vibrations,,302,53.341515,-6.256853
+735,2210,Powerscourt,313,53.341515,-6.256853
+736,Cafe Kylemore,St Stephen's Green Centre,326,53.341515,-6.256853
+737,Butlers Chocolate Café,117 Grafton St,338,53.341515,-6.256853
+738,Mantle Coffee,,349,53.341515,-6.256853
+739,Seven Wonders,,130,53.338311,-6.236779
+740,Insomnia,,248,53.338311,-6.236779
+741,Mattina,,261,53.338311,-6.236779
+742,Insomnia,"Ferry House, Lwr Mount St",303,53.338311,-6.236779
+743,Groundstate Coffee,,318,53.338311,-6.236779
+744,Caifé,,336,53.338311,-6.236779
+745,Boho Coffee,,343,53.338311,-6.236779
+746,Clement & Pekoe,50 S William St,336,53.340803,-6.267732
+747,Network,39 Aungier Street,261,53.340803,-6.267732
+748,The Bald Barista,55 Aungier St,143,53.340803,-6.267732
+749,Bite of Life,55 Patrick St,286,53.340803,-6.267732
+750,Sasha House Petite,Drury St Carpark,276,53.340803,-6.267732
+751,Starbucks,Aungier St,181,53.340803,-6.267732
+752,Costa Coffee,Aungier St,324,53.340803,-6.267732
+753,Starbucks,56-58 Drury St,296,53.340803,-6.267732
+754,It's a Trap,81 Aungier St,139,53.340803,-6.267732
+755,Old Town Cafe,Chancery Lane,141,53.340803,-6.267732
+756,Wassim Shakes,,141,53.340803,-6.267732
+757,The Bean Box Coffee Shop,,176,53.340803,-6.267732
+758,Java City,DIT Aungier St,234,53.340803,-6.267732
+759,Raglan,"56-58, Drury Street",280,53.340803,-6.267732
+760,First Chapter,,290,53.340803,-6.267732
+761,Imsonia,,313,53.340803,-6.267732
+762,Brew Lab,,317,53.340803,-6.267732
+763,Werburgh Cafe,,327,53.340803,-6.267732
+764,Róco,13 Lord Edward Street,329,53.340803,-6.267732
+765,Pinecone Coffe,,348,53.340803,-6.267732
+766,Monin,,359,53.340803,-6.267732
+767,Bodega Coffee,,360,53.340803,-6.267732
+768,Caffè Nero,5 Merrion Row,210,53.339764,-6.251988
+769,Coffeeangel,15 Leinster Street South,289,53.339764,-6.251988
+770,Coffeeangel,27 Pembroke Street Lower,312,53.339764,-6.251988
+771,Munchies,146A Lwr Baggot St,196,53.339764,-6.251988
+772,Cafe Boulevard,Lower Baggot St,246,53.339764,-6.251988
+773,KC Peaches,Merrion Row,244,53.339764,-6.251988
+774,Insomnia,3 S Leinster St,240,53.339764,-6.251988
+775,Coffeeangel,19 Merrion Row,219,53.339764,-6.251988
+776,Doppio Zero,Pembroke Street Lower,252,53.339764,-6.251988
+777,Insomnia,1a Lwr Pembroke St,252,53.339764,-6.251988
+778,Petit Cafe Food co,35A Kildare St,256,53.339764,-6.251988
+779,Has Bean,,275,53.339764,-6.251988
+780,Bear Market Coffee,1A Pembroke Street Lower,286,53.339764,-6.251988
+781,Tang,23c Dawson St,296,53.339764,-6.251988
+782,Steam,41-47 Fenian Street,300,53.339764,-6.251988
+783,West Coast Coffee,Lwr Baggot St,304,53.339764,-6.251988
+784,The Runner Bean,4 Nassau St,327,53.339764,-6.251988
+785,Silk Burse,,340,53.339764,-6.251988
+786,Bear Market Coffee,,347,53.339764,-6.251988
+787,Cafe Tri Via,2 Lincoln Pl,250,53.339764,-6.251988
+788,Coffee Cuisine,St James' Hospital,272,53.341645,-6.29719
+789,Roasted&Baked,,296,53.341645,-6.29719
+790,Coffee District,,311,53.341645,-6.29719
+791,Tamp & Stitch,"Unit 3 Scarlet Row, Temple Bar",155,53.343368,-6.27012
+792,Indigo & Cloth,9 E Essex St,336,53.343368,-6.27012
+793,Bite of Life,55 Patrick St,321,53.343368,-6.27012
+794,The Music Café Dublin,1 Wellington Quay,277,53.343368,-6.27012
+795,Busy Bee Cafe,,306,53.343368,-6.27012
+796,Werburgh Cafe,,23,53.343368,-6.27012
+797,Róco,13 Lord Edward Street,40,53.343368,-6.27012
+798,Monin,,85,53.343368,-6.27012
+799,Old Town Cafe,Chancery Lane,187,53.343368,-6.27012
+800,Wassim Shakes,,192,53.343368,-6.27012
+801,Fonté,Parliament House 36 Parliament St,202,53.343368,-6.27012
+802,Bus Stop Cafe,,211,53.343368,-6.27012
+803,House Of Read,4 Parliament St,227,53.343368,-6.27012
+804,the grattan café,,298,53.343368,-6.27012
+805,Gayspar,,304,53.343368,-6.27012
+806,Hyper Goat Coffee,,319,53.343368,-6.27012
+807,All Rise Coffee Shop,Chancery Place,322,53.343368,-6.27012
+808,Butlers Chocolate Café,"Heuston Station, St John's Rd W",84,53.347106,-6.292041
+809,Insomnia,Heuston Station,56,53.347106,-6.292041
+810,Caffè Nero Express,,89,53.347106,-6.292041
+811,Insomnia,29 Parkgate St,177,53.347106,-6.292041
+812,AMT Coffee,Heuston Station,221,53.347106,-6.292041
+813,Java Republic,"1 HSQ (8th floor), St John's Rd",350,53.347106,-6.292041
+814,Keogh's Cafe,1 Trinity St,98,53.344603,-6.263371
+815,Fallon & Byrne Food Store,11-17 Exchequer St,170,53.344603,-6.263371
+816,KC Peaches,54 Dame St,74,53.344603,-6.263371
+817,Il Fornaio,15 College Green,93,53.344603,-6.263371
+818,Coco Brew,5 Bedford Row,187,53.344603,-6.263371
+819,Murphy's Ice Cream,27 Wicklow St,221,53.344603,-6.263371
+820,Indigo & Cloth,9 E Essex St,193,53.344603,-6.263371
+821,Kaph,31 Drury St,225,53.344603,-6.263371
+822,Clement & Pekoe,50 S William St,337,53.344603,-6.263371
+823,Costa Coffee,3 College Green,137,53.344603,-6.263371
+824,Krüst Bakery,6 S George's St,115,53.344603,-6.263371
+825,Butlers Chocolate Café,24 Wicklow St,197,53.344603,-6.263371
+826,Sasha House Petite,Drury St Carpark,318,53.344603,-6.263371
+827,Caffè Nero,22-23 Temple Bar,152,53.344603,-6.263371
+828,The Music Café Dublin,1 Wellington Quay,278,53.344603,-6.263371
+829,Starbucks,1 College Green,162,53.344603,-6.263371
+830,Starbucks,22-23 Liffey Street Lower,327,53.344603,-6.263371
+831,Insomnia,19-20 Dame St.,91,53.344603,-6.263371
+832,Busy Bee Cafe,,163,53.344603,-6.263371
+833,Centra,,84,53.344603,-6.263371
+834,The Sweetest Thing,Bachelor's Walk,305,53.344603,-6.263371
+835,Starbucks,1 - 3 Crampton Quay,188,53.344603,-6.263371
+836,Nespresso Boutique,Grafton St,291,53.344603,-6.263371
+837,McCafé,Grafton St,337,53.344603,-6.263371
+838,Starbucks,10-12 Westmoreland St,330,53.344603,-6.263371
+839,Costa Coffee,"30 Essex St E, Temple Bar",138,53.344603,-6.263371
+840,Starbucks,56-58 Drury St,297,53.344603,-6.263371
+841,Lana Coffee & Co,,78,53.344603,-6.263371
+842,Cool Hand Coffee Roasters,"Crown Alley, Temple Bar",91,53.344603,-6.263371
+843,Coffeeangel,3 Trinity Street,114,53.344603,-6.263371
+844,Mochaland Coffee,20 Lwr Ormond Quay,240,53.344603,-6.263371
+845,Gayspar,,165,53.344603,-6.263371
+846,Number One Newsagent,Sycamore St,192,53.344603,-6.263371
+847,Nor7H Seven Coffee,3437 Ormonde Quay Low,197,53.344603,-6.263371
+848,Ponaire Coffee,49 Fleet St,201,53.344603,-6.263371
+849,Hello Charlie,34-37 Ormond Quay Lower,222,53.344603,-6.263371
+850,Hyper Goat Coffee,,237,53.344603,-6.263371
+851,Bodega Coffee,,249,53.344603,-6.263371
+852,House Of Read,4 Parliament St,250,53.344603,-6.263371
+853,Butlers Chocolate Café,117 Grafton St,259,53.344603,-6.263371
+854,Brother Sister Coffee,Powerscourt Townhouse Centre,268,53.344603,-6.263371
+855,Shisha Cafe,Millennium Walkway,273,53.344603,-6.263371
+856,Fonté,Parliament House 36 Parliament St,277,53.344603,-6.263371
+857,ku.fee,,288,53.344603,-6.263371
+858,First Chapter,,290,53.344603,-6.263371
+859,Hür Kıraathane,,294,53.344603,-6.263371
+860,Copper + Straw,Aston Quay,296,53.344603,-6.263371
+861,Frank And Honest Gourmet Coffee Company,14-18 Aston Quay,306,53.344603,-6.263371
+862,2210,Powerscourt,310,53.344603,-6.263371
+863,Raglan,"56-58, Drury Street",312,53.344603,-6.263371
+864,Oxmantown,"16 Mary's Abbey, Smithfield",187,53.346874,-6.272976
+865,All Rise Coffee Shop,Chancery Place,110,53.346874,-6.272976
+866,Elliot’s,,188,53.346874,-6.272976
+867,Copper + Straw,1 Arran Quay,209,53.346874,-6.272976
+868,Arran St East,1 Little Green St,224,53.346874,-6.272976
+869,Doughnuts and Coffee,,287,53.346874,-6.272976
+870,the grattan café,,325,53.346874,-6.272976
+871,Insomnia,21-24 Capel St,314,53.346874,-6.272976
+872,The Morning,49 Pleasants St,157,53.334123,-6.265436
+873,Joe's Coffee,Montague St,300,53.334123,-6.265436
+874,The Blonde Cafe,,209,53.334123,-6.265436
+875,Starbucks,"Unit 1 Harcourt Building, Harcourt St",244,53.334123,-6.265436
+876,Granthams,,39,53.334123,-6.265436
+877,Ebb & Flow Camden,71 Camden Street Lower,89,53.334123,-6.265436
+878,Dime Coffee Co,,121,53.334123,-6.265436
+879,Pret A Manger,,156,53.334123,-6.265436
+880,Coffee Society,Harcourt St,159,53.334123,-6.265436
+881,Reference Coffee,49 Pleasants Street,159,53.334123,-6.265436
+882,Caffè Nero,Vault 7 Statin Building,166,53.334123,-6.265436
+883,Café Sol,58 Harcourt St,170,53.334123,-6.265436
+884,Coffeeangel,Hatch Street Upper,194,53.334123,-6.265436
+885,Two Faced,2 Montague Street,262,53.334123,-6.265436
+886,Brindle Coffee & Wine,34 Lennox Street,326,53.334123,-6.265436
+887,First Draft Coffee And Wine,34 Lennox Street,336,53.334123,-6.265436
+888,Third Floor Espresso (3FE),7 Sussex Terrace,102,53.332383,-6.252717
+889,Starbucks,62 Lower Leeson St,145,53.332383,-6.252717
+890,Perch · The Kiosk,Leeson St,39,53.332383,-6.252717
+891,Sister Suesey,,2,53.332383,-6.252717
+892,Café Sol,33 Hatch St Lwr,259,53.332383,-6.252717
+893,Baggotonia,,150,53.332383,-6.252717
+894,Speciality Coffee,"Creative Dock, Malahide Marina",241,53.332383,-6.252717
+895,LinkedIn Barista,,291,53.332383,-6.252717
+896,Third Floor Espresso (3FE),7 Sussex Terrace,311,53.333653,-6.248345
+897,Starbucks,"St Martin's House, Waterloo Rd",318,53.333653,-6.248345
+898,Olive Green Espresso Bar,Lwr Baggot St,305,53.333653,-6.248345
+899,Speciality Coffee,"Creative Dock, Malahide Marina",83,53.333653,-6.248345
+900,LinkedIn Barista,,88,53.333653,-6.248345
+901,Insomnia,15 Upper Baggot St,297,53.333653,-6.248345
+902,Dine @Bp,,232,53.333653,-6.248345
+903,United Coffee House,,249,53.333653,-6.248345
+904,O'Brien's Sandwich Cafe,19A Uppr Baggot St,251,53.333653,-6.248345
+905,COOL HAND COFFEE ROASTERS,,301,53.333653,-6.248345
+906,Sister Suesey,,323,53.333653,-6.248345
+907,Lean Bean,,343,53.333653,-6.248345
+908,"Laine, my love",38 Talbot Street,259,53.351464,-6.255265
+909,Starbucks,8 N Earl St,297,53.351464,-6.255265
+910,Esquires Coffee,16 O'Connell Street Lower,352,53.351464,-6.255265
+911,Roasted Bean Coffee Company,53b Talbot St,319,53.351464,-6.255265
+912,Insomnia,"70-72 Spencer Row, Talbot St",163,53.351464,-6.255265
+913,Recanto Brazil,,111,53.351464,-6.255265
+914,Esquires Coffee,Talbot St,123,53.351464,-6.255265
+915,Julius Meinl,,139,53.351464,-6.255265
+916,the wooden wish,,149,53.351464,-6.255265
+917,Loops & Coffee,,155,53.351464,-6.255265
+918,Central Brew Coffee,,177,53.351464,-6.255265
+919,Full Circle Coffee Roasters,3 Talbot Place,193,53.351464,-6.255265
+920,Store Coffee,,299,53.351464,-6.255265
+921,Le Centre-Ville,,306,53.351464,-6.255265
+922,Bowls by Kwanghi Chan,56 Marlborough St,336,53.351464,-6.255265
+923,Monto Coffee & Food,,336,53.351464,-6.255265
+924,Insomnia,Gardiner Street Belmont,348,53.351464,-6.255265
+925,Jay's Café Broadstone,"No 42 Dominick Street Upper, Broadstone, Dublin, D07C5P6",245,53.356307,-6.273717
+926,Gerard's,"81A Campshires, Sir John Rogerson's Quay",98,53.346026,-6.243576
+927,Crema Coffee,,259,53.346026,-6.243576
+928,Starbucks,4-5 Cardiff Ln,196,53.346026,-6.243576
+929,Caffè Nero,"Unit 5, Excise Walk",235,53.346026,-6.243576
+930,The Art Of Coffee,17-19 Sir John Rogerson’s Quay,39,53.346026,-6.243576
+931,Borlottie,"Unit 4A Excise Walk, IFSC",279,53.346026,-6.243576
+932,Costa Coffee,Custom House Quay,304,53.346026,-6.243576
+933,Mojo Health Bar,Perpetua Fitness,122,53.346026,-6.243576
+934,Kaldi's,,244,53.346026,-6.243576
+935,Igor's Coffee Bar,,251,53.346026,-6.243576
+936,The Art Of Coffee (Mobile),,263,53.346026,-6.243576
+937,Mr French,,288,53.346026,-6.243576
+938,Creed Coffee Roasters,,307,53.346026,-6.243576
+939,Little Collins Cbd Dispensary,15 Lombard St E,331,53.346026,-6.243576
+940,La Pausa Caffe,2b Blessington St,114,53.355473,-6.264423
+941,Bookafé,101 Dorset Street Upper Perto da Parnell St,99,53.355473,-6.264423
+942,Koffee + Kale,21b Hill Street,238,53.355473,-6.264423
+943,Castle Tea Rooms,"Frederick St N, Rotunda, Dublin",93,53.355473,-6.264423
+944,Dua Pizza,77 Dorset Street Upper,177,53.355473,-6.264423
+945,Deli Suz,Blessington St.,191,53.355473,-6.264423
+946,It's A Trap,Great Denmark St,208,53.355473,-6.264423
+947,Delisuz,58A Blessington St,252,53.355473,-6.264423
+948,Bondiola,50 Haddington Rd,233,53.335742,-6.24551
+949,Olive Green Espresso Bar,Lwr Baggot St,178,53.335742,-6.24551
+950,Starbucks,The Warrington House,199,53.335742,-6.24551
+951,Insomnia,15 Upper Baggot St,264,53.335742,-6.24551
+952,United Coffee House,,268,53.335742,-6.24551
+953,COOL HAND COFFEE ROASTERS,,303,53.335742,-6.24551
+954,Lean Bean,,311,53.335742,-6.24551
+955,Dine @Bp,,315,53.335742,-6.24551
+956,LinkedIn Barista,,316,53.335742,-6.24551
+957,West Coast Coffee,Lwr Baggot St,331,53.335742,-6.24551
+958,"Laine, my love",38 Talbot Street,250,53.353331,-6.249319
+959,Roasted Bean Coffee Company,53b Talbot St,239,53.353331,-6.249319
+960,AMT Coffee,"Connolly Station, Amiens St",209,53.353331,-6.249319
+961,Bean & Gone,"Connolly Train Station, Amiens St",202,53.353331,-6.249319
+962,First Light Coffee House,,257,53.353331,-6.249319
+963,Bo's Coffee Club IT Park,Ground Floor - i1 Bldg,281,53.353331,-6.249319
+964,Goya Lounge,172 North Strand Road,289,53.353331,-6.249319
+965,Full Circle Coffee Roasters,3 Talbot Place,299,53.353331,-6.249319
+966,Pret A Manger,Conolly Station,322,53.353331,-6.249319
+967,Koffee + Kale,21b Hill Street,298,53.358437,-6.260641
+968,Costa Coffee,"Eccles St, Phibsborough",316,53.358437,-6.260641
+969,The Coffee Hatch @ Botanical,,132,53.358437,-6.260641
+970,Violet's Cafe,,164,53.358437,-6.260641
+971,Insomnia,Sr. Dorset,178,53.358437,-6.260641
+972,Koffee + Kale,465 North Circular Road,235,53.358437,-6.260641
+973,Dua Pizza,77 Dorset Street Upper,303,53.358437,-6.260641
+974,It's A Trap,Great Denmark St,329,53.358437,-6.260641
+975,Urbanity,"The Glass House, 11 Coke Ln",308,53.349562,-6.278198
+976,Proper Order Coffee Co.,New Church Street,243,53.349562,-6.278198
+977,Cinnamon Café,Smithfield Market,282,53.349562,-6.278198
+978,Costa Coffee,Arran Quay,282,53.349562,-6.278198
+979,Starbucks,18-21 Saint-Stephen's Green,236,53.349562,-6.278198
+980,Insomnia,,56,53.349562,-6.278198
+981,Proper Cup Coffee Co,,175,53.349562,-6.278198
+982,Lavazza,,254,53.349562,-6.278198
+983,Doughnuts and Coffee,,286,53.349562,-6.278198
+984,Moo Market,,314,53.349562,-6.278198
+985,Loaf Catering & Cafe Kilmainham,"Unit 2 Building 1, Old Chocolate Factory, Kilmainham Square, Inchicore Rd, Kilmainham",28,53.342113,-6.310015
+986,Brambles Deli Cafe,"Inchiore Rd, Kilmainham",116,53.342113,-6.310015
+987,Starbucks,,27,53.359967,-6.264828
+988,Costa Coffee,"Eccles St, Phibsborough",48,53.359967,-6.264828
+989,Koffee + Kale,465 North Circular Road,135,53.359967,-6.264828
+990,Cafe Sol,,142,53.359967,-6.264828
+991,Insomnia,81 Dorset street Lower,170,53.359967,-6.264828
+992,Insomnia,Sr. Dorset,223,53.359967,-6.264828
+993,Violet's Cafe,,261,53.359967,-6.264828
+994,The Coffee Hatch @ Botanical,,309,53.359967,-6.264828
+995,Jury's Coffee Dock,Jones's Rd,315,53.359967,-6.264828
+996,Dua Pizza,77 Dorset Street Upper,322,53.359967,-6.264828
+997,Boca Coffee,"PwC, IFSC",297,53.347122,-6.234749
+998,Dime Coffee,81-82 North Wall Quay,143,53.347122,-6.234749
+999,Red Bean Roastery The Samuel Hotel,,187,53.347122,-6.234749
+1000,Roastery,,192,53.347122,-6.234749
+1001,Grindstone,,215,53.347122,-6.234749
+1002,The Art Of Coffee,82 Sir John Rogerson's Quay,297,53.347122,-6.234749
+1003,The Art Of Coffee (Mobile),,372,53.347122,-6.234749
+1004,Third Floor Espresso (3FE),32-34 Lwr Grand Canal St,350,53.341428,-6.24672
+1005,Arabica Coffee House,Pearse St,235,53.341428,-6.24672
+1006,Honey Truffle,45 Pearse St,334,53.341428,-6.24672
+1007,Art Of Coffee,10-12 Hogan Place,205,53.341428,-6.24672
+1008,SoBo,"Pearse Station, Westland Row",238,53.341428,-6.24672
+1009,Tang,23c Dawson St,133,53.341428,-6.24672
+1010,Steam,41-47 Fenian Street,169,53.341428,-6.24672
+1011,Mocha Beans,Pearse Station,207,53.341428,-6.24672
+1012,FuDi Delicatessen,"1-2 Lower Mount Street, Dublin, Dublin 2",211,53.341428,-6.24672
+1013,Coffeeangel,1/2 Mount Street Lower,232,53.341428,-6.24672
+1014,Creed Coffee Roasters,,246,53.341428,-6.24672
+1015,Bear Market Coffee,,249,53.341428,-6.24672
+1016,Mr French,,276,53.341428,-6.24672
+1017,AMT Coffee,Pearse Railway Station,298,53.341428,-6.24672
+1018,Cafe Tri Via,2 Lincoln Pl,261,53.341428,-6.24672
+1019,Indigo & Cloth,9 E Essex St,156,53.346057,-6.268001
+1020,Oxmantown,"16 Mary's Abbey, Smithfield",190,53.346057,-6.268001
+1021,Tamp & Stitch,"Unit 3 Scarlet Row, Temple Bar",175,53.346057,-6.268001
+1022,The Music Café Dublin,1 Wellington Quay,95,53.346057,-6.268001
+1023,KC Peaches,54 Dame St,325,53.346057,-6.268001
+1024,Starbucks,22-23 Liffey Street Lower,340,53.346057,-6.268001
+1025,The Coffee Bean,64 Mary St,281,53.346057,-6.268001
+1026,Insomnia,Upper Abbey St,237,53.346057,-6.268001
+1027,Busy Bee Cafe,,271,53.346057,-6.268001
+1028,Insomnia,19-20 Dame St.,328,53.346057,-6.268001
+1029,Centra,,299,53.346057,-6.268001
+1030,Costa Coffee,Jervis Shopping Centre,251,53.346057,-6.268001
+1031,Costa Coffee,"30 Essex St E, Temple Bar",214,53.346057,-6.268001
+1032,the grattan café,,34,53.346057,-6.268001
+1033,Mochaland Coffee,20 Lwr Ormond Quay,158,53.346057,-6.268001
+1034,Hyper Goat Coffee,,114,53.346057,-6.268001
+1035,Bus Stop Cafe,,152,53.346057,-6.268001
+1036,Insomnia,21-24 Capel St,132,53.346057,-6.268001
+1037,Fonté,Parliament House 36 Parliament St,194,53.346057,-6.268001
+1038,House Of Read,4 Parliament St,196,53.346057,-6.268001
+1039,Shisha Cafe,Millennium Walkway,214,53.346057,-6.268001
+1040,Elliot’s,,229,53.346057,-6.268001
+1041,Gayspar,,243,53.346057,-6.268001
+1042,Doppelgängers,,245,53.346057,-6.268001
+1043,Monin,,251,53.346057,-6.268001
+1044,Hello Charlie,34-37 Ormond Quay Lower,257,53.346057,-6.268001
+1045,Nor7H Seven Coffee,3437 Ormonde Quay Low,262,53.346057,-6.268001
+1046,Esquires Coffee,61 Mary St.,285,53.346057,-6.268001
+1047,All Rise Coffee Shop,Chancery Place,287,53.346057,-6.268001
+1048,Róco,13 Lord Edward Street,297,53.346057,-6.268001
+1049,Arran St East,1 Little Green St,307,53.346057,-6.268001
+1050,Werburgh Cafe,,311,53.346057,-6.268001
+1051,Hür Kıraathane,,321,53.346057,-6.268001
+1052,Cool Hand Coffee Roasters,"Crown Alley, Temple Bar",340,53.346057,-6.268001
+1053,Container Coffee,"161 Thomas Street, Dublin 8",244,53.343893,-6.280531
+1054,Legit Coffee Co,1 Meath Mart,313,53.343893,-6.280531
+1055,Ada Coffee And Bagels,,107,53.343893,-6.280531
+1056,Mug Shot,,120,53.343893,-6.280531
+1057,Oscar Verne's Coffee Bar,72 Thomas Street @ The Ferocious Mingle Marcade,270,53.343893,-6.280531
+1058,Digital Exchange,Crane St,270,53.343893,-6.280531
+1059,Urbanity,"The Glass House, 11 Coke Ln",277,53.3488,-6.281637
+1060,Proper Order Coffee Co.,New Church Street,191,53.3488,-6.281637
+1061,Cinnamon Café,Smithfield Market,278,53.3488,-6.281637
+1062,Costa Coffee,Arran Quay,278,53.3488,-6.281637
+1063,Starbucks,18-21 Saint-Stephen's Green,260,53.3488,-6.281637
+1064,Insomnia,14-17 Ellis Quay,204,53.3488,-6.281637
+1065,Insomnia,,213,53.3488,-6.281637
+1066,Moo Market,,224,53.3488,-6.281637
+1067,Lavazza,,224,53.3488,-6.281637
+1068,Proper Cup Coffee Co,,250,53.3488,-6.281637
+1069,Mooz,,303,53.3488,-6.281637
+1070,Butlers Chocolate Café,51a Grafton St,326,53.337132,-6.26059
+1071,Beanhive,26 Dawson St,321,53.337132,-6.26059
+1072,Joe's Coffee,Montague St,212,53.337132,-6.26059
+1073,Caffè Nero,51-52 S King St,340,53.337132,-6.26059
+1074,Caffè Nero,Dawson St Dublin 2,343,53.337132,-6.26059
+1075,Starbucks,,327,53.337132,-6.26059
+1076,La Croissanterie,St Stephens Green Shopping Centre,342,53.337132,-6.26059
+1077,The Bald Barista,St Stephens Green,255,53.337132,-6.26059
+1078,Insomnia,4 St Stephens Green,311,53.337132,-6.26059
+1079,Dawson Blend,,189,53.337132,-6.26059
+1080,Vandals,,194,53.337132,-6.26059
+1081,Insomnia,1a Earlsfort Terrace,234,53.337132,-6.26059
+1082,Mister Magpie,,262,53.337132,-6.26059
+1083,Remedy,Royal College Of Surgeons Ireland,265,53.337132,-6.26059
+1084,Brew Town,,269,53.337132,-6.26059
+1085,Two Faced,2 Montague Street,308,53.337132,-6.26059
+1086,Cafe Kylemore,St Stephen's Green Centre,310,53.337132,-6.26059
+1087,Insomnia,14-17 Ellis Quay,205,53.347477,-6.28525
+1088,Butlers Chocolate Café,51a Grafton St,296,53.337494,-6.26199
+1089,Network,39 Aungier Street,290,53.337494,-6.26199
+1090,Joe's Coffee,Montague St,148,53.337494,-6.26199
+1091,Beanhive,26 Dawson St,335,53.337494,-6.26199
+1092,Caffè Nero,51-52 S King St,300,53.337494,-6.26199
+1093,Starbucks,Kevin St Lower,354,53.337494,-6.26199
+1094,Starbucks,Aungier St,352,53.337494,-6.26199
+1095,Costa Coffee,Aungier St,280,53.337494,-6.26199
+1096,Starbucks,,290,53.337494,-6.26199
+1097,La Croissanterie,St Stephens Green Shopping Centre,287,53.337494,-6.26199
+1098,The Bald Barista,St Stephens Green,221,53.337494,-6.26199
+1099,Insomnia,4 St Stephens Green,291,53.337494,-6.26199
+1100,Vandals,,93,53.337494,-6.26199
+1101,Dawson Blend,,158,53.337494,-6.26199
+1102,Remedy,Royal College Of Surgeons Ireland,180,53.337494,-6.26199
+1103,Two Faced,2 Montague Street,235,53.337494,-6.26199
+1104,Fuji Tea And Coffee,3 Kevin Street Lower,275,53.337494,-6.26199
+1105,Cafe Kylemore,St Stephen's Green Centre,277,53.337494,-6.26199
+1106,Brew Lab,,285,53.337494,-6.26199
+1107,Dime Coffee Co,,325,53.337494,-6.26199
+1108,Esquires Coffee,16 O'Connell Street Lower,134,53.352149,-6.260533
+1109,Starbucks,8 N Earl St,257,53.352149,-6.260533
+1110,Starbucks,39 Henry St,288,53.352149,-6.260533
+1111,Starbucks,32 Lower O'Connell St,278,53.352149,-6.260533
+1112,Guud Day,28 O'Connel Street Upper,12,53.352149,-6.260533
+1113,Bowls by Kwanghi Chan,56 Marlborough St,144,53.352149,-6.260533
+1114,Starbucks,Ilac Shopping Centre,325,53.352149,-6.260533
+1115,Ann's Bakery - Moore Street,"Unit 77 ilac centre, Dublin, 00000",227,53.352149,-6.260533
+1116,Frank and Honest Gourmet Coffee,"Centra, Parnell St",230,53.352149,-6.260533
+1117,Bakers + Baristas,Moore Street,236,53.352149,-6.260533
+1118,Insomnia,63-64 O'Connell St,263,53.352149,-6.260533
+1119,Central Brew Coffee,,288,53.352149,-6.260533
+1120,Esquire’s Coffee,ILAC Centre,312,53.352149,-6.260533
+1121,Benoit's Chocolate Factory,,318,53.352149,-6.260533
+1122,Café Sol,"Unit 51/53 Moore Mall, Ilac Centre",320,53.352149,-6.260533
+1123,Art of coffee,G.P.O Arcade,329,53.352149,-6.260533
+1124,Julius Meinl,,330,53.352149,-6.260533
+1125,Mocha Beans,,335,53.352149,-6.260533
+1126,the wooden wish,,337,53.352149,-6.260533
+1127,Loops & Coffee,,339,53.352149,-6.260533
+1128,Insomnia,Gardiner Street Belmont,356,53.352149,-6.260533
+1129,Shoe Lane Coffee,7 Tara Street,128,53.348279,-6.254662
+1130,Starbucks,George's Quay,127,53.348279,-6.254662
+1131,Starbucks,56 O'Connell St,333,53.348279,-6.254662
+1132,McCafé,68 O'Connell St,326,53.348279,-6.254662
+1133,Caffè Nero,9 O'Connell St,299,53.348279,-6.254662
+1134,Le Centre-Ville,,183,53.348279,-6.254662
+1135,Recanto Brazil,,251,53.348279,-6.254662
+1136,Loops & Coffee,,252,53.348279,-6.254662
+1137,Insomnia,"70-72 Spencer Row, Talbot St",328,53.348279,-6.254662
+1138,the wooden wish,,257,53.348279,-6.254662
+1139,Store Coffee,,258,53.348279,-6.254662
+1140,Esquires Coffee,Talbot St,259,53.348279,-6.254662
+1141,Julius Meinl,,267,53.348279,-6.254662
+1142,Buttery Vaults,,268,53.348279,-6.254662
+1143,Insomnia,"Tara St, Trinity Plaza",291,53.348279,-6.254662
+1144,Insomnia,,293,53.348279,-6.254662
+1145,West Coast Coffee,D'Olier St,293,53.348279,-6.254662
+1146,Gas Café,,294,53.348279,-6.254662
+1147,Central Brew Coffee,,294,53.348279,-6.254662
+1148,Monto Coffee & Food,,344,53.348279,-6.254662
+1149,Gerard's,"81A Campshires, Sir John Rogerson's Quay",293,53.347932,-6.240928
+1150,Il Fornaio,"1B Valentia House, Custom House Sq, IFSC",202,53.347932,-6.240928
+1151,Starbucks,4-5 Cardiff Ln,251,53.347932,-6.240928
+1152,Caffè Nero,"Unit 5, Excise Walk",192,53.347932,-6.240928
+1153,Boca Coffee,"PwC, IFSC",202,53.347932,-6.240928
+1154,Borlottie,"Unit 4A Excise Walk, IFSC",189,53.347932,-6.240928
+1155,Insomnia,Mayor St,321,53.347932,-6.240928
+1156,The Art Of Coffee (Mobile),,70,53.347932,-6.240928
+1157,3fe,"Mayor Square, North Dock",242,53.347932,-6.240928
+1158,Kaldi's,,250,53.347932,-6.240928
+1159,The Art Of Coffee,17-19 Sir John Rogerson’s Quay,277,53.347932,-6.240928
+1160,Cool Hand Coffee Roasters,,285,53.347932,-6.240928
+1161,Red Bean Roastery The Samuel Hotel,,299,53.347932,-6.240928
+1162,Roastery,,305,53.347932,-6.240928
+1163,Network,39 Aungier Street,163,53.337757,-6.267699
+1164,Starbucks,Kevin St Lower,25,53.337757,-6.267699
+1165,The Morning,49 Pleasants St,274,53.337757,-6.267699
+1166,The Bald Barista,55 Aungier St,334,53.337757,-6.267699
+1167,Joe's Coffee,Montague St,295,53.337757,-6.267699
+1168,Starbucks,Aungier St,216,53.337757,-6.267699
+1169,Costa Coffee,Aungier St,110,53.337757,-6.267699
+1170,Dispensary,Royal College of Surgeons,80,53.337757,-6.267699
+1171,Brew Lab,,107,53.337757,-6.267699
+1172,Fuji Tea And Coffee,3 Kevin Street Lower,109,53.337757,-6.267699
+1173,Java City,DIT Aungier St,122,53.337757,-6.267699
+1174,Two Faced,2 Montague Street,223,53.337757,-6.267699
+1175,The Bean Box Coffee Shop,,230,53.337757,-6.267699
+1176,Reference Coffee,49 Pleasants Street,271,53.337757,-6.267699
+1177,Vandals,,299,53.337757,-6.267699
+1178,Remedy,Royal College Of Surgeons Ireland,328,53.337757,-6.267699
+1179,Dime Coffee Co,,336,53.337757,-6.267699
+1180,Ebb & Flow Camden,71 Camden Street Lower,345,53.337757,-6.267699
+1181,Fallon & Byrne Food Store,11-17 Exchequer St,23,53.343034,-6.263578
+1182,Kaph,31 Drury St,58,53.343034,-6.263578
+1183,Murphy's Ice Cream,27 Wicklow St,138,53.343034,-6.263578
+1184,Clement & Pekoe,50 S William St,168,53.343034,-6.263578
+1185,Keogh's Cafe,1 Trinity St,142,53.343034,-6.263578
+1186,KC Peaches,54 Dame St,134,53.343034,-6.263578
+1187,Il Fornaio,15 College Green,181,53.343034,-6.263578
+1188,Indigo & Cloth,9 E Essex St,295,53.343034,-6.263578
+1189,Sasha House Petite,Drury St Carpark,144,53.343034,-6.263578
+1190,Coco Brew,5 Bedford Row,349,53.343034,-6.263578
+1191,Krüst Bakery,6 S George's St,84,53.343034,-6.263578
+1192,Butlers Chocolate Café,24 Wicklow St,102,53.343034,-6.263578
+1193,Nespresso,Duke St,288,53.343034,-6.263578
+1194,Costa Coffee,3 College Green,209,53.343034,-6.263578
+1195,Busy Bee Cafe,,178,53.343034,-6.263578
+1196,Starbucks,1 College Green,232,53.343034,-6.263578
+1197,Insomnia,19-20 Dame St.,124,53.343034,-6.263578
+1198,Caffè Nero,51-52 S King St,352,53.343034,-6.263578
+1199,Caffè Nero,22-23 Temple Bar,316,53.343034,-6.263578
+1200,Centra,,156,53.343034,-6.263578
+1201,Starbucks,1 - 3 Crampton Quay,360,53.343034,-6.263578
+1202,Starbucks,56-58 Drury St,122,53.343034,-6.263578
+1203,Nespresso Boutique,Grafton St,216,53.343034,-6.263578
+1204,McCafé,Grafton St,278,53.343034,-6.263578
+1205,Starbucks,3 Chatham St,280,53.343034,-6.263578
+1206,La Croissanterie,St Stephens Green Shopping Centre,342,53.343034,-6.263578
+1207,Costa Coffee,"30 Essex St E, Temple Bar",280,53.343034,-6.263578
+1208,Bodega Coffee,,83,53.343034,-6.263578
+1209,Lana Coffee & Co,,99,53.343034,-6.263578
+1210,First Chapter,,116,53.343034,-6.263578
+1211,Brother Sister Coffee,Powerscourt Townhouse Centre,119,53.343034,-6.263578
+1212,ku.fee,,126,53.343034,-6.263578
+1213,Raglan,"56-58, Drury Street",137,53.343034,-6.263578
+1214,Coffeeangel,3 Trinity Street,142,53.343034,-6.263578
+1215,2210,Powerscourt,176,53.343034,-6.263578
+1216,Pinecone Coffe,,182,53.343034,-6.263578
+1217,Gayspar,,204,53.343034,-6.263578
+1218,Imsonia,,228,53.343034,-6.263578
+1219,Brown's Bar & Cafe,"Brown Thomas, 88-95 Grafton St",244,53.343034,-6.263578
+1220,It's a Trap,81 Aungier St,245,53.343034,-6.263578
+1221,Cool Hand Coffee Roasters,"Crown Alley, Temple Bar",264,53.343034,-6.263578
+1222,Number One Newsagent,Sycamore St,267,53.343034,-6.263578
+1223,House Of Read,4 Parliament St,278,53.343034,-6.263578
+1224,Butlers Chocolate Café,117 Grafton St,291,53.343034,-6.263578
+1225,Starbucks,2 Grafton St,291,53.343034,-6.263578
+1226,Fonté,Parliament House 36 Parliament St,299,53.343034,-6.263578
+1227,Hyper Goat Coffee,,333,53.343034,-6.263578
+1228,Ponaire Coffee,49 Fleet St,336,53.343034,-6.263578
+1229,Joe's Coffee,Montague St,348,53.33403,-6.260714
+1230,The Blonde Cafe,,267,53.33403,-6.260714
+1231,Starbucks,"Unit 1 Harcourt Building, Harcourt St",161,53.33403,-6.260714
+1232,Coffeeangel,Hatch Street Upper,120,53.33403,-6.260714
+1233,Café Sol,33 Hatch St Lwr,356,53.33403,-6.260714
+1234,Café Sol,58 Harcourt St,146,53.33403,-6.260714
+1235,Koffee + Kale,,151,53.33403,-6.260714
+1236,Pret A Manger,,174,53.33403,-6.260714
+1237,Brindle Coffee & Wine D2,68-69 Charlemont St,278,53.33403,-6.260714
+1238,Brew Town,,291,53.33403,-6.260714
+1239,Insomnia,1a Earlsfort Terrace,292,53.33403,-6.260714
+1240,Coffee Society,Harcourt St,303,53.33403,-6.260714
+1241,Dime Coffee Co,,312,53.33403,-6.260714
+1242,Mister Magpie,,314,53.33403,-6.260714
+1243,Caffè Nero,Vault 7 Statin Building,327,53.33403,-6.260714
+1244,Ebb & Flow Camden,71 Camden Street Lower,335,53.33403,-6.260714
+1245,Red Bean Roastery,,346,53.33403,-6.260714
+1246,Vice Coffee Inc.,54 Middle Abbey St,290,53.3483,-6.266651
+1247,Oxmantown,"16 Mary's Abbey, Smithfield",266,53.3483,-6.266651
+1248,Indigo & Cloth,9 E Essex St,343,53.3483,-6.266651
+1249,Blas Cafe,26 Kings Inn St,354,53.3483,-6.266651
+1250,The Coffee Bean,64 Mary St,131,53.3483,-6.266651
+1251,Starbucks,22-23 Liffey Street Lower,224,53.3483,-6.266651
+1252,Wigwam,54 Middle Abbey St,290,53.3483,-6.266651
+1253,Insomnia,Upper Abbey St,96,53.3483,-6.266651
+1254,The Music Café Dublin,1 Wellington Quay,339,53.3483,-6.266651
+1255,Costa Coffee,Jervis Shopping Centre,35,53.3483,-6.266651
+1256,The Bagel Bar,Upper Liffey St,203,53.3483,-6.266651
+1257,Doppelgängers,,46,53.3483,-6.266651
+1258,Costa Coffee,"30 Essex St E, Temple Bar",339,53.3483,-6.266651
+1259,Esquires Coffee,61 Mary St.,114,53.3483,-6.266651
+1260,Mochaland Coffee,20 Lwr Ormond Quay,232,53.3483,-6.266651
+1261,Starbucks,Ilac Shopping Centre,264,53.3483,-6.266651
+1262,Brother Hubbard,Arnotts,152,53.3483,-6.266651
+1263,Insomnia,20 Liffey St,159,53.3483,-6.266651
+1264,H&T Coffee,23 Liffey Street Upper,182,53.3483,-6.266651
+1265,Maui Wowi,,186,53.3483,-6.266651
+1266,Shisha Cafe,Millennium Walkway,193,53.3483,-6.266651
+1267,Insomnia,21-24 Capel St,160,53.3483,-6.266651
+1268,Nespresso,,230,53.3483,-6.266651
+1269,Hür Kıraathane,,234,53.3483,-6.266651
+1270,Hello Charlie,34-37 Ormond Quay Lower,253,53.3483,-6.266651
+1271,Elliot’s,,260,53.3483,-6.266651
+1272,Arran St East,1 Little Green St,264,53.3483,-6.266651
+1273,Café Sol,"Unit 51/53 Moore Mall, Ilac Centre",268,53.3483,-6.266651
+1274,Benoit's Chocolate Factory,,271,53.3483,-6.266651
+1275,Nor7H Seven Coffee,3437 Ormonde Quay Low,277,53.3483,-6.266651
+1276,Mocha Beans,,287,53.3483,-6.266651
+1277,the grattan café,,295,53.3483,-6.266651
+1278,Nbhd Coffee,55 Abbey Street Middle,308,53.3483,-6.266651
+1279,Neighbourhood Coffee,,314,53.3483,-6.266651
+1280,Hyper Goat Coffee,,323,53.3483,-6.266651
+1281,Bakers + Baristas,Moore Street,353,53.3483,-6.266651
+1282,Art of coffee,G.P.O Arcade,358,53.3483,-6.266651
+1283,Two Boys Brew,375 North Circular Rd,213,53.359246,-6.269779
+1284,Starbucks,,318,53.359246,-6.269779
+1285,Costa Coffee,"Eccles St, Phibsborough",316,53.359246,-6.269779
+1286,Legit Coffee Co,,138,53.359246,-6.269779
+1287,Insomnia,81 Dorset street Lower,178,53.359246,-6.269779
+1288,Cafe Sol,,216,53.359246,-6.269779
+1289,3Fe,363 N Circular Rd,244,53.359246,-6.269779
+1290,Delisuz,58A Blessington St,325,53.359246,-6.269779
+1291,Deli Suz,Blessington St.,361,53.359246,-6.269779
+1292,Roasted&Baked,,47,53.343897,-6.29706
+1293,Insomnia,,116,53.343897,-6.29706
+1294,Java Republic,"1 HSQ (8th floor), St John's Rd",178,53.343897,-6.29706
+1295,Coffee District,,298,53.343897,-6.29706
+1296,Oxmantown,"16 Mary's Abbey, Smithfield",262,53.348875,-6.267459
+1297,Blas Cafe,26 Kings Inn St,287,53.348875,-6.267459
+1298,The Coffee Bean,64 Mary St,82,53.348875,-6.267459
+1299,Starbucks,22-23 Liffey Street Lower,300,53.348875,-6.267459
+1300,Pulido's Coffee & Bakery,22 Moore St,312,53.348875,-6.267459
+1301,Insomnia,Upper Abbey St,179,53.348875,-6.267459
+1302,Costa Coffee,Jervis Shopping Centre,118,53.348875,-6.267459
+1303,The Bagel Bar,Upper Liffey St,275,53.348875,-6.267459
+1304,Esquires Coffee,61 Mary St.,62,53.348875,-6.267459
+1305,Starbucks,Ilac Shopping Centre,265,53.348875,-6.267459
+1306,Doppelgängers,,129,53.348875,-6.267459
+1307,Mochaland Coffee,20 Lwr Ormond Quay,310,53.348875,-6.267459
+1308,Maui Wowi,,192,53.348875,-6.267459
+1309,Insomnia,20 Liffey St,202,53.348875,-6.267459
+1310,Brother Hubbard,Arnotts,203,53.348875,-6.267459
+1311,Arran St East,1 Little Green St,219,53.348875,-6.267459
+1312,H&T Coffee,23 Liffey Street Upper,235,53.348875,-6.267459
+1313,Insomnia,21-24 Capel St,190,53.348875,-6.267459
+1314,Elliot’s,,242,53.348875,-6.267459
+1315,Mocha Beans,,260,53.348875,-6.267459
+1316,Benoit's Chocolate Factory,,274,53.348875,-6.267459
+1317,Café Sol,"Unit 51/53 Moore Mall, Ilac Centre",274,53.348875,-6.267459
+1318,Shisha Cafe,Millennium Walkway,276,53.348875,-6.267459
+1319,Nespresso,,287,53.348875,-6.267459
+1320,The Grumpy Mule,,302,53.348875,-6.267459
+1321,Hür Kıraathane,,314,53.348875,-6.267459
+1322,the grattan café,,342,53.348875,-6.267459
+1323,Bakers + Baristas,Moore Street,356,53.348875,-6.267459
+1324,Groundstate Coffee,"48- 50 James’s Street, Dublin, D08 YK6N",119,53.342296,-6.287661
+1325,Container Coffee,"161 Thomas Street, Dublin 8",270,53.342296,-6.287661
+1326,Digital Exchange,Crane St,285,53.342296,-6.287661
+1327,Coffee District,,354,53.342296,-6.287661
+1328,Crema Coffee,,332,53.34744,-6.238523
+1329,Lolly & Cooks,"Unit 1 The Marker, Forbes St",253,53.34744,-6.238523
+1330,Starbucks,4-5 Cardiff Ln,242,53.34744,-6.238523
+1331,Boca Coffee,"PwC, IFSC",151,53.34744,-6.238523
+1332,The Art Of Coffee (Mobile),,120,53.34744,-6.238523
+1333,Red Bean Roastery The Samuel Hotel,,175,53.34744,-6.238523
+1334,Roastery,,184,53.34744,-6.238523
+1335,Igor's Coffee Bar,,322,53.34744,-6.238523
+1336,Grove Road Cafe,1 Lower Rathmines Rd,238,53.330091,-6.268044
+1337,First Draft Coffee And Wine,34 Lennox Street,145,53.330091,-6.268044
+1338,Brindle Coffee & Wine,34 Lennox Street,154,53.330091,-6.268044
+1339,Coffee Box,,195,53.357841,-6.251557
+1340,La Pausa Caffe,2b Blessington St,281,53.35561,-6.261397
+1341,Bookafé,101 Dorset Street Upper Perto da Parnell St,300,53.35561,-6.261397
+1342,Koffee + Kale,21b Hill Street,39,53.35561,-6.261397
+1343,It's A Trap,Great Denmark St,15,53.35561,-6.261397
+1344,Castle Tea Rooms,"Frederick St N, Rotunda, Dublin",169,53.35561,-6.261397
+1345,Dua Pizza,77 Dorset Street Upper,266,53.35561,-6.261397
+1346,Bowls by Kwanghi Chan,56 Marlborough St,294,53.35561,-6.261397
+1347,Insomnia,Gardiner Street Belmont,330,53.35561,-6.261397
+1348,Butlers Chocolate Café,"Heuston Station, St John's Rd W",269,53.346603,-6.296924
+1349,Java Republic,"1 HSQ (8th floor), St John's Rd",127,53.346603,-6.296924
+1350,AMT Coffee,Heuston Station,133,53.346603,-6.296924
+1351,Insomnia,,187,53.346603,-6.296924
+1352,Roasted&Baked,,254,53.346603,-6.296924
+1353,Insomnia,29 Parkgate St,266,53.346603,-6.296924
+1354,Caffè Nero Express,,274,53.346603,-6.296924
+1355,Insomnia,Heuston Station,299,53.346603,-6.296924
+1356,Bondiola,50 Haddington Rd,202,53.334432,-6.245575
+1357,Starbucks,"St Martin's House, Waterloo Rd",237,53.334432,-6.245575
+1358,Olive Green Espresso Bar,Lwr Baggot St,270,53.334432,-6.245575
+1359,Starbucks,The Warrington House,308,53.334432,-6.245575
+1360,Insomnia,15 Upper Baggot St,148,53.334432,-6.245575
+1361,O'Brien's Sandwich Cafe,19A Uppr Baggot St,121,53.334432,-6.245575
+1362,United Coffee House,,132,53.334432,-6.245575
+1363,Dine @Bp,,172,53.334432,-6.245575
+1364,COOL HAND COFFEE ROASTERS,,178,53.334432,-6.245575
+1365,Lean Bean,,201,53.334432,-6.245575
+1366,LinkedIn Barista,,258,53.334432,-6.245575
+1367,Speciality Coffee,"Creative Dock, Malahide Marina",285,53.334432,-6.245575
+1368,Groundstate Coffee,"48- 50 James’s Street, Dublin, D08 YK6N",82,53.343456,-6.287409
+1369,Container Coffee,"161 Thomas Street, Dublin 8",215,53.343456,-6.287409
+1370,Digital Exchange,Crane St,306,53.343456,-6.287409
+1371,Science Gallery Café,Science Gallery,149,53.345203,-6.247163
+1372,Bread 41,Pearse Street,298,53.345203,-6.247163
+1373,Cloud Picker,42 Pearse St,205,53.345203,-6.247163
+1374,Honey Truffle,45 Pearse St,165,53.345203,-6.247163
+1375,Gerard's,"81A Campshires, Sir John Rogerson's Quay",222,53.345203,-6.247163
+1376,Arabica Coffee House,Pearse St,185,53.345203,-6.247163
+1377,Little Collins Cbd Dispensary,15 Lombard St E,80,53.345203,-6.247163
+1378,Costa Coffee,Custom House Quay,327,53.345203,-6.247163
+1379,SoBo,"Pearse Station, Westland Row",222,53.345203,-6.247163
+1380,Mocha Beans,Pearse Station,224,53.345203,-6.247163
+1381,Mojo Health Bar,Perpetua Fitness,227,53.345203,-6.247163
+1382,AMT Coffee,Pearse Railway Station,230,53.345203,-6.247163
+1383,The Art Of Coffee,17-19 Sir John Rogerson’s Quay,238,53.345203,-6.247163
+1384,Creed Coffee Roasters,,248,53.345203,-6.247163
+1385,Mr French,,267,53.345203,-6.247163
+1386,Bear Market Coffee,,338,53.345203,-6.247163
+1387,Seven Wonders,1 Custom House Quay,112,53.347884,-6.248048
+1388,Coffeeangel,George's Dock,204,53.347884,-6.248048
+1389,Bear MRKT,,208,53.347884,-6.248048
+1390,Starbucks,1 Custom House Quay,136,53.347884,-6.248048
+1391,Gerard's,"81A Campshires, Sir John Rogerson's Quay",263,53.347884,-6.248048
+1392,Insomnia,1 Custom House Quay,108,53.347884,-6.248048
+1393,Caffè Nero,"Unit 5, Excise Walk",282,53.347884,-6.248048
+1394,Costa Coffee,Custom House Quay,104,53.347884,-6.248048
+1395,Insomnia,Mayor St,264,53.347884,-6.248048
+1396,Borlottie,"Unit 4A Excise Walk, IFSC",303,53.347884,-6.248048
+1397,Brevato,George’s Dock,180,53.347884,-6.248048
+1398,Munchies,"Mayor St, IFSC",210,53.347884,-6.248048
+1399,Morning Glory,,219,53.347884,-6.248048
+1400,Kaldi's,,223,53.347884,-6.248048
+1401,Cool Hand Coffee Roasters,,256,53.347884,-6.248048
+1402,Little Collins Cbd Dispensary,15 Lombard St E,301,53.347884,-6.248048
+1403,3fe,"Mayor Square, North Dock",307,53.347884,-6.248048
+1404,Monto Coffee & Food,,312,53.347884,-6.248048
+1405,The Art Of Coffee,17-19 Sir John Rogerson’s Quay,321,53.347884,-6.248048
+1406,Store Coffee,,322,53.347884,-6.248048
+1407,Bo's Coffee Club IT Park,Ground Floor - i1 Bldg,332,53.347884,-6.248048
+1408,Crema Coffee,,223,53.344115,-6.237153
+1409,Il Valentino,"5 Gallery Quay, Grand Canal Harbour",207,53.344115,-6.237153
+1410,Lolly & Cooks,"Unit 1 The Marker, Forbes St",143,53.344115,-6.237153
+1411,The Art of Coffee,Grand Canal Quay,240,53.344115,-6.237153
+1412,Starbucks,4-5 Cardiff Ln,290,53.344115,-6.237153
+1413,KC Peaches,"10A Trinity Enterprise Centre, Pearse St",263,53.344115,-6.237153
+1414,Insomnia,Hanover Quay,11,53.344115,-6.237153
+1415,Insomnia,Grand Canal Square,122,53.344115,-6.237153
+1416,G Wonderland,132 waterside,166,53.344115,-6.237153
+1417,Caffè Nero,Unit G4 Gallery Quay,183,53.344115,-6.237153
+1418,Igor's Coffee Bar,,229,53.344115,-6.237153
+1419,Grindstone,"Bolands Quay, Barrow St, Dublin 4",258,53.344115,-6.237153
+1420,Groundstate Coffee,,329,53.344115,-6.237153
+1421,Goya Lounge,172 North Strand Road,107,53.354845,-6.247579
+1422,Coffee Box,,300,53.354845,-6.247579
