@@ -69,7 +69,7 @@ The multivariate regression analysis produced the following outcomes:
 </p>
 
 
-#### Multivariate Regression Statistical Results:
+#### Multivariate Regression Statistical Results Summary:
 <p align="center">
   <img src="./images/regression_modelling.png" width="750"/>
 </p>
