@@ -50,19 +50,18 @@ The multivariate regression analysis produced the following outcomes:
 
 * The overall model was statistically significant (F‑statistic p‑value = 0.00528), but it explained only a small portion of the variation in bike slot counts. The R‑squared value was 0.108, and the adjusted R‑squared was 0.084, meaning the independent variables together explained about 8.4% of the variation in the number of bike slots.
 
-* Among the three independent variables, only num_shops (the number of nearby coffee shops) showed a statistically significant relationship with bike slots (p = 0.009). The coefficient for num_shops was –0.1384, indicating that for each additional coffee shop within the 350m radius, the model predicts a very slight decrease of approximately 0.14 bike slots at that station.
+* Among the three independent variables, only num_shops (the number of nearby coffee shops) showed a statistically significant relationship with bike slots (p = 0.009). The coefficient for num_shops was –0.1384, indicating that for each additional coffee shop within the 350m radius, the model predicts a very slight decrease of approximately 0.14 bike slots at that station. However, despite statistical significance, the effect is minimal. This means that in practice, the presence of additional coffee shops does not meaningfully impact bike station size. 
 
 * The other variables, avg_rating (coefficient = –1.1774, p = 0.729) and min_distance (coefficient = 0.0021, p = 0.806), were not statistically significant, as their p‑values were well above 0.05.
 
 * Scatter plots created during the exploratory analysis phase did not reveal any visible linear relationships between bike slots and any of the coffee shop metrics.
 
-![regression summary data](./images/regression_modelling.png)
-
-![EDA Pic 1](./images/EDA_01.png)
-
-![EDA Pic 2](./images/EDA_02.png)
-
-![EDA Pic 3](./images/EDA_03.png)
+<p align="center">
+  <img src="./images/regression_modelling.png" width="250"/>
+  <img src="./images/EDA_01.png" width="250"/>
+  <img src="./images/EDA_02.png" width="250"/>
+  <img src="./images/EDA_03.png" width="250"/>
+</p>
 
 
 ## Challenges 
