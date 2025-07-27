@@ -85,12 +85,12 @@ Several challenges arose during the course of the project:
 
 * Data Integration: Matching and aligning data from multiple APIs based on latitude and longitude required careful handling to avoid mismatches or duplicates.
 
-* Weak Statistical Association: Even after cleaning and aggregating, the independent variables explained only a small portion of the variation in bike slots, making it challenging to draw strong conclusions from the regression model.
+* Weak Regression Modelling: Even after cleaning and aggregating, the independent variables explained only a small portion of the variation in bike slots, making it challenging to draw strong conclusions from the regression model.
 
 ## Future Goals
 
 Looking ahead, several improvements could be made to build on this project:
 
-* Incorporate Additional Features: Expand beyond coffee shops by including other nearby points of interest such as parks, schools, or restaurants. These additional features may offer stronger explanatory power for bike station slot counts.
+* Incorporate Additional POIs: Expand beyond coffee shops by including other nearby points of interest such as parks, schools, or restaurants. These additional features may offer stronger explanatory power for bike station slot counts.
 
-* Peak time analysis: Explore whether stations near clusters of coffee shops show different usage trends during morning or afternoon peaks.
+* Time Analysis: Explore whether stations near clusters of coffee shops show different usage trends during morning or afternoon peaks.
