@@ -56,7 +56,7 @@ The multivariate regression analysis produced the following outcomes:
 
 * Scatter plots created during the exploratory analysis phase did not reveal any visible linear relationships between bike slots and any of the coffee shop metrics.
 
-(./images/regression_modelling.png)
+![regression summary data](./images/regression_modelling.png)
 
 (./images/EDA_01.png)
 
