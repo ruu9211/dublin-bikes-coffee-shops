@@ -61,8 +61,10 @@ The multivariate regression analysis produced the following outcomes:
 <p align="center">
   <img src="./images/EDA_01.png" width="500"/>
 </p>
+<p align="center">
   <img src="./images/EDA_02.png" width="500"/>
 </p>  
+<p align="center">
   <img src="./images/EDA_03.png" width="500"/>
 </p>
 
