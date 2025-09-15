@@ -1,4 +1,4 @@
-# 🚲 Final Project — Statistical Modelling with Python
+# 🚲 CityBikes Dublin — Statistical Modelling Project
 
 ## 📌 Project Goals
 
